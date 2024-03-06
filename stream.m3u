@@ -302,6 +302,8 @@ http://91.142.158.107:8092/play/26/index.m3u8
 http://91.142.158.107:8092/play/27/index.m3u8
 #EXTINF:-1 tvg-id="russky-roman" tvg-logo="https://epgx.site/p/russky-roman.png" group-title="Русский кинозал",Русский роман (EDTV 576p)
 http://stream01.vnet.am/RusskiyRoman/mono.m3u8
+#EXTINF:-1 tvg-id="russky-roman" tvg-name="Русский роман (720P)" tvg-logo="https://i.imgur.com/cQN0P2B.png" group-title="Русский кинозал",Русский роман [720x576]
+http://185.134.36.63:4022/udp/234.0.0.224:2000
 #EXTINF:-1 tvg-id="russky-illuzion" tvg-logo="https://epgx.site/p/russky-illuzion.png" group-title="Русский кинозал",Русский иллюзион (EDTV 576p)
 http://195.191.130.11:9000/play/a00u/index.m3u8
 #EXTINF:-1 tvg-id="telekafe" tvg-logo="http://epg.it999.ru/img2/2304.png" group-title="Русский кинозал",Телекафе (EDTV 576p)
@@ -534,7 +536,7 @@ http://tvrlive.susu.ru/1800k/playlist.m3u8
 http://31.146.176.94/nickelodeon/playlist.m3u8
 #EXTINF:-1 tvg-id="CartoonNetwork.ru" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="Детские",Cartoon Network [1280x720]
 http://94.232.104.237:8000/play/032/index.m3u8
-#EXTINF:-1 tvg-id="rtvi" tvg-name="RTVi" tvg-logo="https://i.imgur.com/1AEhXyS.png" group-title="Новости",RTVI [1920x1080]
+#EXTINF:-1 tvg-id="rtvi" tvg-name="RTVi" tvg-logo="https://i.imgur.com/1AEhXyS.png" group-title="Новостные",RTVI [1920x1080]
 http://185.37.150.40:8092/rtvi/playlist.m3u8
-#EXTINF:-1 tvg-id="dozhd" tvg-name="TV Rain" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Tvrain.svg/512px-Tvrain.svg.png" group-title="Новости",Дождь [1920x1080]
+#EXTINF:-1 tvg-id="dozhd" tvg-name="TV Rain" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Tvrain.svg/512px-Tvrain.svg.png" group-title="Новостные",Дождь [1920x1080]
 http://1527562093.rsc.cdn77.org/transcode/ngrp:ses_all/chunklist_b4692000.m3u8
