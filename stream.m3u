@@ -777,3 +777,486 @@ http://fast-iptv.xyz:8080/live/s784pnr2GB/sQFvUqPmjb/4213.ts
 http://fast-iptv.xyz:8080/live/s784pnr2GB/sQFvUqPmjb/4107.ts
 #EXTINF:-1 tvg-id="zdfinfo.de" tvg-name="ZDF info" tvg-logo="http://fast-iptv.xyz:8080/images/86dba86754c0ad93997a11fa947d97b2.png" group-title="German UNTERHALTUNG",ZDF info
 http://fast-iptv.xyz:8080/live/s784pnr2GB/sQFvUqPmjb/4200.ts
+
+
+# Тут начинаются Украиснкие каналы от smart.nicem
+
+
+#EXTINF:-1 tvg-id="" tvg-name="UKR: 24 КАНАЛ FHD" tvg-logo="https://asiagrandiptv.us/logo/24КАНАЛ.png" group-title="Ukraine",UKR: 24 КАНАЛ FHD
+http://119381469638653541.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/653541.ts
+#EXTINF:-1 tvg-id="" tvg-name="UKR: MAXXI TV FHD" tvg-logo="https://asiagrandiptv.us/logo/maxxitv.png" group-title="Ukraine",UKR: MAXXI TV FHD
+http://119381469638765249.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/765249.ts
+#EXTINF:-1 tvg-id="" tvg-name="UKR: 100% NEWS SD" tvg-logo="https://asiagrandiptv.us/logo/100news2.png" group-title="Ukraine",UKR: 100% NEWS SD
+http://119381469638774619.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/774619.ts
+#EXTINF:-1 tvg-id="" tvg-name="UKR: ICTV SD" tvg-logo="https://asiagrandiptv.us/logo/ICTV.png" group-title="Ukraine",UKR: ICTV SD
+http://119381469638782001.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/782001.ts
+#EXTINF:-1 tvg-id="" tvg-name="UKR: 2+2 FHD" tvg-logo="https://asiagrandiptv.us/logo/2+2.png" group-title="Ukraine",UKR: 2+2 FHD
+http://119381469638786196.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/786196.ts
+#EXTINF:-1 tvg-id="" tvg-name="UKR: Мега FHD" tvg-logo="" group-title="Ukraine",UKR: Мега FHD
+http://119381469638786197.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/786197.ts
+#EXTINF:-1 tvg-id="" tvg-name="UKR: STAR FAMILY FHD" tvg-logo="" group-title="Ukraine",UKR: STAR FAMILY FHD
+http://119381469638786364.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/786364.ts
+#EXTINF:-1 tvg-id="" tvg-name="UKR: 1+1 FHD" tvg-logo="https://asiagrandiptv.us/logo/1+1.png" group-title="Ukraine",UKR: 1+1 FHD
+http://119381469638788692.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/788692.ts
+#EXTINF:-1 tvg-id="" tvg-name="UKR: 7 KANAL TV HD" tvg-logo="https://asiagrandiptv.us/logo/7КАНАЛ.jpg" group-title="Ukraine",UKR: 7 KANAL TV HD
+http://119381469638794483.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/794483.ts
+#EXTINF:-1 tvg-id="" tvg-name="UKR: K1 SD" tvg-logo="https://asiagrandiptv.us/logo/K1.jpg" group-title="Ukraine",UKR: K1 SD
+http://119381469638794484.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/794484.ts
+#EXTINF:-1 tvg-id="" tvg-name="UKR: M1 SD" tvg-logo="https://asiagrandiptv.us/logo/m1.png" group-title="Ukraine",UKR: M1 SD
+http://119381469638795342.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/795342.ts
+#EXTINF:-1 tvg-id="" tvg-name="UKR: M2 HD" tvg-logo="https://asiagrandiptv.us/logo/m2.png" group-title="Ukraine",UKR: M2 HD
+http://119381469638797231.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/797231.ts
+
+
+#  Тут начинаются немецкие каналы от smart.nicem
+
+#EXTINF:-1 tvg-id="skycinemaspecial.de" tvg-name="DE: SKY CINEMA SPECIAL FHD" tvg-logo="" group-title="Germany VIP",DE: SKY CINEMA SPECIAL FHD
+http://119381469638498036.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/498036.ts
+#EXTINF:-1 tvg-id="skykrimi.de" tvg-name="DE: SKY KRIMI HD" tvg-logo="http://files.rednetcontent.com/chlogo2/German/Sky_Krimi_HD_DE_Logo_2017.png" group-title="Germany VIP",DE: SKY KRIMI HD
+http://119381469638521547.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/521547.ts
+#EXTINF:-1 tvg-id="animalplanet.de" tvg-name="DE: ANIMAL PLANET HD" tvg-logo="" group-title="Germany VIP",DE: ANIMAL PLANET HD
+http://119381469638526262.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/526262.ts
+#EXTINF:-1 tvg-id="zdfneo.de" tvg-name="DE: ZDF NEO HD" tvg-logo="" group-title="Germany VIP",DE: ZDF NEO HD
+http://119381469638611590.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/611590.ts
+#EXTINF:-1 tvg-id="kinowelt.de" tvg-name="DE: KINOWELT FHD" tvg-logo="" group-title="Germany VIP",DE: KINOWELT FHD
+http://119381469638624827.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/624827.ts
+#EXTINF:-1 tvg-id="ardalpha.de" tvg-name="DE: ARD ALPHA HD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/germany/ard-alpha-de.png?raw=true" group-title="Germany VIP",DE: ARD ALPHA HD
+http://119381469638636026.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/636026.ts
+#EXTINF:-1 tvg-id="123tv.de" tvg-name="DE: SKY SPORT 1 FHD" tvg-logo="" group-title="Germany VIP",DE: SKY SPORT 1 FHD
+http://119381469638645810.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/645810.ts
+#EXTINF:-1 tvg-id="3sat.de" tvg-name="DE: 3SAT HD" tvg-logo="" group-title="Germany VIP",DE: 3SAT HD
+http://119381469638660198.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/660198.ts
+#EXTINF:-1 tvg-id="sky1.de" tvg-name="DE: SKY ONE HD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/germany/sky-one-de.png?raw=true" group-title="Germany VIP",DE: SKY ONE HD
+http://119381469638672786.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/672786.ts
+#EXTINF:-1 tvg-id="history.de" tvg-name="DE: HISTORY HEVC" tvg-logo="" group-title="Germany VIP",DE: HISTORY HEVC
+http://119381469638681847.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/681847.ts
+#EXTINF:-1 tvg-id="123tv.de" tvg-name="DE: SKY CINEMA BEST OF HD" tvg-logo="" group-title="Germany VIP",DE: SKY CINEMA BEST OF HD
+http://119381469638692304.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/692304.ts
+#EXTINF:-1 tvg-id="natgeowild.de" tvg-name="DE: NATIONAL GEOGRAPHIC WILD HD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/germany/nat-geo-wild-de.png?raw=true" group-title="Germany VIP",DE: NATIONAL GEOGRAPHIC WILD HD
+http://119381469638693397.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/693397.ts
+#EXTINF:-1 tvg-id="rtlnitro.de" tvg-name="DE: RTL NITRO HD" tvg-logo="" group-title="Germany VIP",DE: RTL NITRO HD
+http://119381469638694524.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/694524.ts
+#EXTINF:-1 tvg-id="sixx.de" tvg-name="DE: SIXX HD" tvg-logo="" group-title="Germany VIP",DE: SIXX HD
+http://119381469638694531.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/694531.ts
+#EXTINF:-1 tvg-id="vox.de" tvg-name="DE: VOX FHD" tvg-logo="" group-title="Germany VIP",DE: VOX FHD
+http://119381469638694549.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/694549.ts
+#EXTINF:-1 tvg-id="syfy.de" tvg-name="DE: SYFY HD" tvg-logo="http://files.rednetcontent.com/chlogo2/German/de-syfy-deutschland-42345.png" group-title="Germany VIP",DE: SYFY HD
+http://119381469638695997.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/695997.ts
+#EXTINF:-1 tvg-id="zdf.de" tvg-name="DE: ZDF HD" tvg-logo="" group-title="Germany VIP",DE: ZDF HD
+http://119381469638696004.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/696004.ts
+#EXTINF:-1 tvg-id="warnerfilm.de" tvg-name="DE: WARNER BROS FILM FHD" tvg-logo="" group-title="Germany VIP",DE: WARNER BROS FILM FHD
+http://119381469638700900.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/700900.ts
+#EXTINF:-1 tvg-id="warnercomedy.de" tvg-name="DE: WARNER BROS COMEDY FHD" tvg-logo="" group-title="Germany VIP",DE: WARNER BROS COMEDY FHD
+http://119381469638719378.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/719378.ts
+#EXTINF:-1 tvg-id="rtlplus.de" tvg-name="DE: RTL PLUS SD" tvg-logo="" group-title="Germany VIP",DE: RTL PLUS SD
+http://119381469638719754.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/719754.ts
+#EXTINF:-1 tvg-id="skycinemaaction.de" tvg-name="DE: SKY CINEMA ACTION HD" tvg-logo="" group-title="Germany VIP",DE: SKY CINEMA ACTION HD
+http://119381469638719771.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/719771.ts
+#EXTINF:-1 tvg-id="skycinemapremieren.de" tvg-name="DE: SKY CINEMA PREMIEREN FHD" tvg-logo="" group-title="Germany VIP",DE: SKY CINEMA PREMIEREN FHD
+http://119381469638719776.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/719776.ts
+#EXTINF:-1 tvg-id="superrtl.de" tvg-name="DE: SUPER RTL HD" tvg-logo="" group-title="Germany VIP",DE: SUPER RTL HD
+http://119381469638719804.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/719804.ts
+#EXTINF:-1 tvg-id="ntv.de" tvg-name="DE: N-TV SD" tvg-logo="" group-title="Germany VIP",DE: N-TV SD
+http://119381469638725095.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/725095.ts
+#EXTINF:-1 tvg-id="zdfinfo.de" tvg-name="DE: ZDF INFO HD" tvg-logo="" group-title="Germany VIP",DE: ZDF INFO HD
+http://119381469638726827.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/726827.ts
+#EXTINF:-1 tvg-id="skybundesliga.de" tvg-name="DE: SKY SPORT BUNDESLIGA FHD" tvg-logo="" group-title="Germany VIP",DE: SKY SPORT BUNDESLIGA FHD
+http://119381469638735283.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/735283.ts
+#EXTINF:-1 tvg-id="eentertainment.de" tvg-name="DE: E! ENTERTAINMENT HD" tvg-logo="" group-title="Germany VIP",DE: E! ENTERTAINMENT HD
+http://119381469638738872.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/738872.ts
+#EXTINF:-1 tvg-id="sport1plus.de" tvg-name="DE: SPORT1+ HD" tvg-logo="" group-title="Germany VIP",DE: SPORT1+ HD
+http://119381469638740799.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/740799.ts
+#EXTINF:-1 tvg-id="sonnenklar.de" tvg-name="DE: SONNENKLAR FHD" tvg-logo="" group-title="Germany VIP",DE: SONNENKLAR FHD
+http://119381469638741195.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/741195.ts
+#EXTINF:-1 tvg-id="arte.de" tvg-name="DE: ARTE FHD" tvg-logo="" group-title="Germany VIP",DE: ARTE FHD
+http://119381469638742913.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/742913.ts
+#EXTINF:-1 tvg-id="eurosport2.de" tvg-name="DE: SKY SPORT 2 HD" tvg-logo="" group-title="Germany VIP",DE: SKY SPORT 2 HD
+http://119381469638742946.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/742946.ts
+#EXTINF:-1 tvg-id="disneyjunior.de" tvg-name="DE: JUNIOR FHD" tvg-logo="" group-title="Germany VIP",DE: JUNIOR FHD
+http://119381469638744908.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/744908.ts
+#EXTINF:-1 tvg-id="rtlcrime.de" tvg-name="DE: RTL CRIME HD" tvg-logo="" group-title="Germany VIP",DE: RTL CRIME HD
+http://119381469638744920.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/744920.ts
+#EXTINF:-1 tvg-id="skyatlantic.de" tvg-name="DE: SKY ATLANTIC FHD" tvg-logo="" group-title="Germany VIP",DE: SKY ATLANTIC FHD
+http://119381469638744929.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/744929.ts
+#EXTINF:-1 tvg-id="welt.de" tvg-name="DE: WELT SD" tvg-logo="" group-title="Germany VIP",DE: WELT SD
+http://119381469638746760.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/746760.ts
+#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="DE: 13TH STREET HD" tvg-logo="" group-title="Germany VIP",DE: 13TH STREET HD
+http://119381469638748729.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/748729.ts
+#EXTINF:-1 tvg-id="anixe.de" tvg-name="DE: ANIXE HD" tvg-logo="" group-title="Germany VIP",DE: ANIXE HD
+http://119381469638748730.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/748730.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: BILD TV HD" tvg-logo="" group-title="Germany VIP",DE: BILD TV HD
+http://119381469638748731.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/748731.ts
+#EXTINF:-1 tvg-id="rtluhd.de" tvg-name="DE: RTL SD" tvg-logo="" group-title="Germany VIP",DE: RTL SD
+http://119381469638748744.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/748744.ts
+#EXTINF:-1 tvg-id="skysport3.de" tvg-name="DE: SKY SPORT 3 HD" tvg-logo="" group-title="Germany VIP",DE: SKY SPORT 3 HD
+http://119381469638748754.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/748754.ts
+#EXTINF:-1 tvg-id="automotorundsportchannel.de" tvg-name="DE: AUTO MOTOR SPORT SD" tvg-logo="" group-title="Germany VIP",DE: AUTO MOTOR SPORT SD
+http://119381469638751436.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/751436.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: BERGBLICK HD" tvg-logo="" group-title="Germany VIP",DE: BERGBLICK HD
+http://119381469638751437.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/751437.ts
+#EXTINF:-1 tvg-id="boomerang.de" tvg-name="DE: BOOMERANG SD" tvg-logo="" group-title="Germany VIP",DE: BOOMERANG SD
+http://119381469638751439.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/751439.ts
+#EXTINF:-1 tvg-id="cartoonnetwork.de" tvg-name="DE: CARTOON NETWORK SD" tvg-logo="" group-title="Germany VIP",DE: CARTOON NETWORK SD
+http://119381469638751441.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/751441.ts
+#EXTINF:-1 tvg-id="123tv.de" tvg-name="DE: CRIME & INVESTIGATION SD" tvg-logo="" group-title="Germany VIP",DE: CRIME & INVESTIGATION SD
+http://119381469638751444.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/751444.ts
+#EXTINF:-1 tvg-id="daznbar1.de" tvg-name="DE: DAZN 1 HD" tvg-logo="" group-title="Germany VIP",DE: DAZN 1 HD
+http://119381469638751451.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/751451.ts
+#EXTINF:-1 tvg-id="discoverychannel.de" tvg-name="DE: DISCOVERY CHANNEL FHD" tvg-logo="" group-title="Germany VIP",DE: DISCOVERY CHANNEL FHD
+http://119381469638751455.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/751455.ts
+#EXTINF:-1 tvg-id="disneychannel.de" tvg-name="DE: DISNEY CHANNEL SD" tvg-logo="" group-title="Germany VIP",DE: DISNEY CHANNEL SD
+http://119381469638751459.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/751459.ts
+#EXTINF:-1 tvg-id="esports1.de" tvg-name="DE: ESPORTS1 FHD" tvg-logo="" group-title="Germany VIP",DE: ESPORTS1 FHD
+http://119381469638751470.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/751470.ts
+#EXTINF:-1 tvg-id="euronews.de" tvg-name="DE: EURONEWS SD" tvg-logo="" group-title="Germany VIP",DE: EURONEWS SD
+http://119381469638751471.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/751471.ts
+#EXTINF:-1 tvg-id="kabel1.de" tvg-name="DE: KABEL EINS HD" tvg-logo="" group-title="Germany VIP",DE: KABEL EINS HD
+http://119381469638751485.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/751485.ts
+#EXTINF:-1 tvg-id="kabeleinsclassic.de" tvg-name="DE: KABEL EINS CLASSICS FHD" tvg-logo="" group-title="Germany VIP",DE: KABEL EINS CLASSICS FHD
+http://119381469638751486.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/751486.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: KRONE HIT SD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/germany/kronehit-de.png?raw=true" group-title="Germany VIP",DE: KRONE HIT SD
+http://119381469638751491.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/751491.ts
+#EXTINF:-1 tvg-id="n24doku.de" tvg-name="DE: N24 DOKU SD" tvg-logo="" group-title="Germany VIP",DE: N24 DOKU SD
+http://119381469638751507.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/751507.ts
+#EXTINF:-1 tvg-id="rtlpassion.de" tvg-name="DE: RTL PASSION HD" tvg-logo="" group-title="Germany VIP",DE: RTL PASSION HD
+http://119381469638751531.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/751531.ts
+#EXTINF:-1 tvg-id="skycinemaclassics.de" tvg-name="DE: SKY CINEMA CLASSICS HD" tvg-logo="" group-title="Germany VIP",DE: SKY CINEMA CLASSICS HD
+http://119381469638751555.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/751555.ts
+#EXTINF:-1 tvg-id="skycinemafamily.de" tvg-name="DE: SKY CINEMA FAMILY HEVC" tvg-logo="http://files.rednetcontent.com/chlogo2/German/sky-cinema-family-it.png" group-title="Germany VIP",DE: SKY CINEMA FAMILY HEVC
+http://119381469638751556.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/751556.ts
+#EXTINF:-1 tvg-id="skycinemapremieren24.de" tvg-name="DE: SKY CINEMA PREMIEREN +24 HEVC" tvg-logo="" group-title="Germany VIP",DE: SKY CINEMA PREMIEREN +24 HEVC
+http://119381469638751560.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/751560.ts
+#EXTINF:-1 tvg-id="skycinemathrillerhd.de" tvg-name="DE: SKY CINEMA THRILLER FHD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/germany/sky-cinema-thriller-de.png?raw=true" group-title="Germany VIP",DE: SKY CINEMA THRILLER FHD
+http://119381469638751565.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/751565.ts
+#EXTINF:-1 tvg-id="spiegeltvwissen.de" tvg-name="DE: SPIEGEL TV WISSEN HD" tvg-logo="" group-title="Germany VIP",DE: SPIEGEL TV WISSEN HD
+http://119381469638751625.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/751625.ts
+#EXTINF:-1 tvg-id="sportdigital.de" tvg-name="DE: SPORT DIGITAL FHD" tvg-logo="" group-title="Germany VIP",DE: SPORT DIGITAL FHD
+http://119381469638751626.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/751626.ts
+#EXTINF:-1 tvg-id="one.de" tvg-name="DE: ONE SD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/germany/one-de.png?raw=true" group-title="Germany VIP",DE: ONE SD
+http://119381469638758053.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/758053.ts
+#EXTINF:-1 tvg-id="jukebox.de" tvg-name="DE: JUKEBOX FHD" tvg-logo="" group-title="Germany VIP",DE: JUKEBOX FHD
+http://119381469638758487.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/758487.ts
+#EXTINF:-1 tvg-id="daznbar2.de" tvg-name="DE: DAZN 2 HD" tvg-logo="" group-title="Germany VIP",DE: DAZN 2 HD
+http://119381469638760282.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/760282.ts
+#EXTINF:-1 tvg-id="fcbayern.de" tvg-name="DE: FC BAYERN TV FHD" tvg-logo="" group-title="Germany VIP",DE: FC BAYERN TV FHD
+http://119381469638760283.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/760283.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: MAX SELECT HD 1 FHD" tvg-logo="" group-title="Germany VIP",DE: MAX SELECT HD 1 FHD
+http://119381469638760285.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/760285.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: PROSIEBEN HD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/germany/pro-sieben-de.png?raw=true" group-title="Germany VIP",DE: PROSIEBEN HD
+http://119381469638760301.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/760301.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: PROSIEBEN MAXX FHD" tvg-logo="" group-title="Germany VIP",DE: PROSIEBEN MAXX FHD
+http://119381469638760303.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/760303.ts
+#EXTINF:-1 tvg-id="rheinneckarfernsehen.de" tvg-name="DE: RNF FHD" tvg-logo="" group-title="Germany VIP",DE: RNF FHD
+http://119381469638760307.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/760307.ts
+#EXTINF:-1 tvg-id="romance.de" tvg-name="DE: ROMANCE TV HD" tvg-logo="" group-title="Germany VIP",DE: ROMANCE TV HD
+http://119381469638760308.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/760308.ts
+#EXTINF:-1 tvg-id="rtlliving.de" tvg-name="DE: RTL LIVING HD" tvg-logo="" group-title="Germany VIP",DE: RTL LIVING HD
+http://119381469638760311.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/760311.ts
+#EXTINF:-1 tvg-id="123tv.de" tvg-name="DE: SAT.1 FHD" tvg-logo="" group-title="Germany VIP",DE: SAT.1 FHD
+http://119381469638760317.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/760317.ts
+#EXTINF:-1 tvg-id="123tv.de" tvg-name="DE: SAT.1 GOLD HD" tvg-logo="" group-title="Germany VIP",DE: SAT.1 GOLD HD
+http://119381469638760320.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/760320.ts
+#EXTINF:-1 tvg-id="123tv.de" tvg-name="DE: SERVUS TV FHD" tvg-logo="" group-title="Germany VIP",DE: SERVUS TV FHD
+http://119381469638760322.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/760322.ts
+#EXTINF:-1 tvg-id="123tv.de" tvg-name="DE: SKY COMEDY HD" tvg-logo="" group-title="Germany VIP",DE: SKY COMEDY HD
+http://119381469638760337.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/760337.ts
+#EXTINF:-1 tvg-id="123tv.de" tvg-name="DE: SKY CRIME FHD" tvg-logo="" group-title="Germany VIP",DE: SKY CRIME FHD
+http://119381469638760339.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/760339.ts
+#EXTINF:-1 tvg-id="123tv.de" tvg-name="DE: SKY DOCUMENTARIES HD" tvg-logo="" group-title="Germany VIP",DE: SKY DOCUMENTARIES HD
+http://119381469638760341.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/760341.ts
+#EXTINF:-1 tvg-id="123tv.de" tvg-name="DE: SKY NATURE HD" tvg-logo="" group-title="Germany VIP",DE: SKY NATURE HD
+http://119381469638760343.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/760343.ts
+#EXTINF:-1 tvg-id="123tv.de" tvg-name="DE: SKY REPLAY SD" tvg-logo="" group-title="Germany VIP",DE: SKY REPLAY SD
+http://119381469638760345.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/760345.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SERIEN & SHOWS HD" tvg-logo="" group-title="Germany VIP",DE: SKY SERIEN & SHOWS HD
+http://119381469638760347.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/760347.ts
+#EXTINF:-1 tvg-id="skysport5.de" tvg-name="DE: SKY SPORT 5 HD" tvg-logo="" group-title="Germany VIP",DE: SKY SPORT 5 HD
+http://119381469638760356.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/760356.ts
+#EXTINF:-1 tvg-id="skysport6.de" tvg-name="DE: SKY SPORT 6 HD" tvg-logo="" group-title="Germany VIP",DE: SKY SPORT 6 HD
+http://119381469638760358.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/760358.ts
+#EXTINF:-1 tvg-id="skybundesliga10.de" tvg-name="DE: SKY SPORT BUNDESLIGA 1 HD" tvg-logo="" group-title="Germany VIP",DE: SKY SPORT BUNDESLIGA 1 HD
+http://119381469638760369.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/760369.ts
+#EXTINF:-1 tvg-id="123tv.de" tvg-name="DE: SKY SPORT BUNDESLIGA 10 HD" tvg-logo="" group-title="Germany VIP",DE: SKY SPORT BUNDESLIGA 10 HD
+http://119381469638760370.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/760370.ts
+#EXTINF:-1 tvg-id="skybundesliga2.de" tvg-name="DE: SKY SPORT BUNDESLIGA 2 HD" tvg-logo="" group-title="Germany VIP",DE: SKY SPORT BUNDESLIGA 2 HD
+http://119381469638760372.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/760372.ts
+#EXTINF:-1 tvg-id="skybundesliga5.de" tvg-name="DE: SKY SPORT BUNDESLIGA 5 HD" tvg-logo="" group-title="Germany VIP",DE: SKY SPORT BUNDESLIGA 5 HD
+http://119381469638760377.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/760377.ts
+#EXTINF:-1 tvg-id="123tv.de" tvg-name="DE: SKY SPORT BUNDESLIGA 8 HD" tvg-logo="" group-title="Germany VIP",DE: SKY SPORT BUNDESLIGA 8 HD
+http://119381469638760382.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/760382.ts
+#EXTINF:-1 tvg-id="123tv.de" tvg-name="DE: SKY SPORT NEWS HD" tvg-logo="" group-title="Germany VIP",DE: SKY SPORT NEWS HD
+http://119381469638760385.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/760385.ts
+#EXTINF:-1 tvg-id="spiegelgeschichte.de" tvg-name="DE: SPIEGEL GESCHICHTE HD" tvg-logo="" group-title="Germany VIP",DE: SPIEGEL GESCHICHTE HD
+http://119381469638760390.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/760390.ts
+#EXTINF:-1 tvg-id="tagesschau24.de" tvg-name="DE: TAGESSCHAU24 HD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/germany/tagesschau24-de.png?raw=true" group-title="Germany VIP",DE: TAGESSCHAU24 HD
+http://119381469638760397.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/760397.ts
+#EXTINF:-1 tvg-id="tele5.de" tvg-name="DE: TELE 5 SD" tvg-logo="" group-title="Germany VIP",DE: TELE 5 SD
+http://119381469638760398.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/760398.ts
+#EXTINF:-1 tvg-id="tlc.de" tvg-name="DE: TLC SD" tvg-logo="" group-title="Germany VIP",DE: TLC SD
+http://119381469638760400.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/760400.ts
+#EXTINF:-1 tvg-id="toggoplus.de" tvg-name="DE: TOGGO PLUS HD" tvg-logo="" group-title="Germany VIP",DE: TOGGO PLUS HD
+http://119381469638760402.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/760402.ts
+#EXTINF:-1 tvg-id="universal.de" tvg-name="DE: UNIVERSAL TV HD" tvg-logo="" group-title="Germany VIP",DE: UNIVERSAL TV HD
+http://119381469638760404.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/760404.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: VOX UP FHD" tvg-logo="" group-title="Germany VIP",DE: VOX UP FHD
+http://119381469638760409.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/760409.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: WARNER BROS SERIE FHD" tvg-logo="http://files.rednetcontent.com/chlogo2/German/warner-tv-serie-us.png" group-title="Germany VIP",DE: WARNER BROS SERIE FHD
+http://119381469638760412.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/760412.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: VIVA / COMEDY CENTRAL FHD" tvg-logo="" group-title="Germany VIP",DE: VIVA / COMEDY CENTRAL FHD
+http://119381469638761126.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/761126.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: PROSIEBEN FUN FHD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/germany/pro-sieben-fun-de.png?raw=true" group-title="Germany VIP",DE: PROSIEBEN FUN FHD
+http://119381469638762113.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/762113.ts
+#EXTINF:-1 tvg-id="123tv.de" tvg-name="DE: SKY SPORT 10 FHD" tvg-logo="" group-title="Germany VIP",DE: SKY SPORT 10 FHD
+http://119381469638762115.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/762115.ts
+#EXTINF:-1 tvg-id="fixandfoxi.de" tvg-name="DE: FIX UND FOXI SD" tvg-logo="" group-title="Germany VIP",DE: FIX UND FOXI SD
+http://119381469638762561.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/762561.ts
+#EXTINF:-1 tvg-id="kika.de" tvg-name="DE: KIKA HD" tvg-logo="" group-title="Germany VIP",DE: KIKA HD
+http://119381469638763637.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/763637.ts
+#EXTINF:-1 tvg-id="dmax.de" tvg-name="DE: DMAX SD" tvg-logo="" group-title="Germany VIP",DE: DMAX SD
+http://119381469638764947.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/764947.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: MAX SELECT HD 4 FHD" tvg-logo="" group-title="Germany VIP",DE: MAX SELECT HD 4 FHD
+http://119381469638765213.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/765213.ts
+#EXTINF:-1 tvg-id="motorvision.de" tvg-name="DE: MOTORVISION TV FHD" tvg-logo="" group-title="Germany VIP",DE: MOTORVISION TV FHD
+http://119381469638765214.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/765214.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: NDR HAMBURG HD" tvg-logo="" group-title="Germany VIP",DE: NDR HAMBURG HD
+http://119381469638765215.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/765215.ts
+#EXTINF:-1 tvg-id="animalplanet.de" tvg-name="DE: PLANET FHD" tvg-logo="" group-title="Germany VIP",DE: PLANET FHD
+http://119381469638765217.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/765217.ts
+#EXTINF:-1 tvg-id="weltderwunder.de" tvg-name="DE: WELT DER WUNDER FHD" tvg-logo="" group-title="Germany VIP",DE: WELT DER WUNDER FHD
+http://119381469638765232.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/765232.ts
+#EXTINF:-1 tvg-id="mtvgermany.de" tvg-name="DE: MTV FHD" tvg-logo="" group-title="Germany VIP",DE: MTV FHD
+http://119381469638766510.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/766510.ts
+#EXTINF:-1 tvg-id="warnerfilm.de" tvg-name="DE: WARNER BROS FILM HD" tvg-logo="" group-title="Germany VIP",DE: WARNER BROS FILM HD
+http://119381469638766520.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/766520.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: CINE MAX IMDB FHD" tvg-logo="" group-title="Germany VIP",DE: CINE MAX IMDB FHD
+http://119381469638767940.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/767940.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: GERMANY COMEDY HD" tvg-logo="" group-title="Germany VIP",DE: GERMANY COMEDY HD
+http://119381469638767943.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/767943.ts
+#EXTINF:-1 tvg-id="rtlup.de" tvg-name="DE: RTL UP SD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/germany/rtl-up-de.png?raw=true" group-title="Germany VIP",DE: RTL UP SD
+http://119381469638767949.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/767949.ts
+#EXTINF:-1 tvg-id="123tv.de" tvg-name="DE: SKY SPORT 9 HD" tvg-logo="" group-title="Germany VIP",DE: SKY SPORT 9 HD
+http://119381469638767955.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/767955.ts
+#EXTINF:-1 tvg-id="classica.de" tvg-name="DE: STINGRAY CLASSICA FHD" tvg-logo="" group-title="Germany VIP",DE: STINGRAY CLASSICA FHD
+http://119381469638767958.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/767958.ts
+#EXTINF:-1 tvg-id="esports1.de" tvg-name="DE: ESPORTS FHD" tvg-logo="" group-title="Germany VIP",DE: ESPORTS FHD
+http://119381469638768693.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/768693.ts
+#EXTINF:-1 tvg-id="123tv.de" tvg-name="DE: SAT.1 EMOTIONS FHD" tvg-logo="" group-title="Germany VIP",DE: SAT.1 EMOTIONS FHD
+http://119381469638772294.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/772294.ts
+#EXTINF:-1 tvg-id="123tv.de" tvg-name="DE: SKY SPORT BUNDESLIGA 7 SD" tvg-logo="" group-title="Germany VIP",DE: SKY SPORT BUNDESLIGA 7 SD
+http://119381469638774354.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/774354.ts
+#EXTINF:-1 tvg-id="sonyentertainmenttv.de" tvg-name="DE: SONY AXN HD" tvg-logo="" group-title="Germany VIP",DE: SONY AXN HD
+http://119381469638774677.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/774677.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: MAX SELECT HD 2 FHD" tvg-logo="" group-title="Germany VIP",DE: MAX SELECT HD 2 FHD
+http://119381469638776389.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/776389.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 7 FHD" tvg-logo="" group-title="Germany VIP",DE: SKY SPORT 7 FHD
+http://119381469638776410.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/776410.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 9 SD" tvg-logo="" group-title="Germany VIP",DE: SKY SPORT BUNDESLIGA 9 SD
+http://119381469638776413.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/776413.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 3 HD" tvg-logo="" group-title="Germany VIP",DE: SKY SPORT BUNDESLIGA 3 HD
+http://119381469638777970.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/777970.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 6 SD" tvg-logo="" group-title="Germany VIP",DE: SKY SPORT BUNDESLIGA 6 SD
+http://119381469638777971.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/777971.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SONY CHANNEL FHD" tvg-logo="" group-title="Germany VIP",DE: SONY CHANNEL FHD
+http://119381469638777975.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/777975.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 4 FHD" tvg-logo="" group-title="Germany VIP",DE: SKY SPORT BUNDESLIGA 4 FHD
+http://119381469638779177.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/779177.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: KABEL 1 DOKU SD" tvg-logo="" group-title="Germany VIP",DE: KABEL 1 DOKU SD
+http://119381469638779872.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/779872.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY CINEMA FUN HEVC" tvg-logo="" group-title="Germany VIP",DE: SKY CINEMA FUN HEVC
+http://119381469638779875.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/779875.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 4 HD" tvg-logo="" group-title="Germany VIP",DE: SKY SPORT 4 HD
+http://119381469638779876.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/779876.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: COMEDY CENTRAL FHD" tvg-logo="" group-title="Germany VIP",DE: COMEDY CENTRAL FHD
+http://119381469638780177.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/780177.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: DISCOVERY HEVC" tvg-logo="" group-title="Germany VIP",DE: DISCOVERY HEVC
+http://119381469638780183.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/780183.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: DISNEY CHANNEL HEVC" tvg-logo="" group-title="Germany VIP",DE: DISNEY CHANNEL HEVC
+http://119381469638780184.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/780184.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: ESPORTS 1 FHD" tvg-logo="" group-title="Germany VIP",DE: ESPORTS 1 FHD
+http://119381469638780188.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/780188.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: EUROSPORT 2 FHD" tvg-logo="" group-title="Germany VIP",DE: EUROSPORT 2 FHD
+http://119381469638780191.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/780191.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: KABEL 1 FHD" tvg-logo="" group-title="Germany VIP",DE: KABEL 1 FHD
+http://119381469638780195.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/780195.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: KRONE HIT TV SD" tvg-logo="" group-title="Germany VIP",DE: KRONE HIT TV SD
+http://119381469638780196.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/780196.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: MAGENTA BASKETBALL 8 FHD" tvg-logo="" group-title="Germany VIP",DE: MAGENTA BASKETBALL 8 FHD
+http://119381469638780197.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/780197.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: MAGENTA FUßBALL 1 FHD" tvg-logo="" group-title="Germany VIP",DE: MAGENTA FUßBALL 1 FHD
+http://119381469638780198.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/780198.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: MAGENTA FUßBALL 2 FHD" tvg-logo="" group-title="Germany VIP",DE: MAGENTA FUßBALL 2 FHD
+http://119381469638780199.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/780199.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: MAGENTA FUßBALL 3 FHD" tvg-logo="" group-title="Germany VIP",DE: MAGENTA FUßBALL 3 FHD
+http://119381469638780200.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/780200.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: MAGENTA FUßBALL 4 FHD" tvg-logo="" group-title="Germany VIP",DE: MAGENTA FUßBALL 4 FHD
+http://119381469638780201.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/780201.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: MAGENTA FUßBALL 6 FHD" tvg-logo="" group-title="Germany VIP",DE: MAGENTA FUßBALL 6 FHD
+http://119381469638780203.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/780203.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: MAGENTA FUßBALL 7 FHD" tvg-logo="" group-title="Germany VIP",DE: MAGENTA FUßBALL 7 FHD
+http://119381469638780204.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/780204.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: NDR HD" tvg-logo="" group-title="Germany VIP",DE: NDR HD
+http://119381469638780207.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/780207.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: PRO7 FUN FHD" tvg-logo="" group-title="Germany VIP",DE: PRO7 FUN FHD
+http://119381469638780212.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/780212.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: PRO7 MAXX HD" tvg-logo="" group-title="Germany VIP",DE: PRO7 MAXX HD
+http://119381469638780213.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/780213.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL ZWEI HEVC" tvg-logo="" group-title="Germany VIP",DE: RTL ZWEI HEVC
+http://119381469638780216.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/780216.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SAT 1 GOLD FHD" tvg-logo="" group-title="Germany VIP",DE: SAT 1 GOLD FHD
+http://119381469638780218.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/780218.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY ATLANTIC SD" tvg-logo="" group-title="Germany VIP",DE: SKY ATLANTIC SD
+http://119381469638780221.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/780221.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY CINEMA PREMIEREN 24 FHD" tvg-logo="" group-title="Germany VIP",DE: SKY CINEMA PREMIEREN 24 FHD
+http://119381469638780224.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/780224.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: TNT FILM HEVC" tvg-logo="" group-title="Germany VIP",DE: TNT FILM HEVC
+http://119381469638780244.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/780244.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: VOXUP FHD" tvg-logo="" group-title="Germany VIP",DE: VOXUP FHD
+http://119381469638780246.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/780246.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: GERMANY THRILLER FHD" tvg-logo="" group-title="Germany VIP",DE: GERMANY THRILLER FHD
+http://119381469638781108.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/781108.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAS ERSTE FHD" tvg-logo="" group-title="Germany VIP",DE: DAS ERSTE FHD
+http://119381469638782177.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/782177.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: KABEL EINS DOKU FHD" tvg-logo="" group-title="Germany VIP",DE: KABEL EINS DOKU FHD
+http://119381469638783718.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/783718.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: PEARL TV FHD" tvg-logo="" group-title="Germany VIP",DE: PEARL TV FHD
+http://119381469638783721.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/783721.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: KABEL 1 CLASSICS HD" tvg-logo="" group-title="Germany VIP",DE: KABEL 1 CLASSICS HD
+http://119381469638784589.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/784589.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL PLUS FHD" tvg-logo="" group-title="Germany VIP",DE: RTL PLUS FHD
+http://119381469638784788.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/784788.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SERVUSTV FHD" tvg-logo="" group-title="Germany VIP",DE: SERVUSTV FHD
+http://119381469638784789.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/784789.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: MTV MUSIC 24 FHD" tvg-logo="" group-title="Germany VIP",DE: MTV MUSIC 24 FHD
+http://119381469638785602.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/785602.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT AUSTRIA 1 HD" tvg-logo="" group-title="Germany VIP",DE: SKY SPORT AUSTRIA 1 HD
+http://119381469638785606.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/785606.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT AUSTRIA 4 HD (ONLY ON MATCH DAYS) HD" tvg-logo="" group-title="Germany VIP",DE: SKY SPORT AUSTRIA 4 HD (ONLY ON MATCH DAYS) HD
+http://119381469638785607.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/785607.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: FOLX TV SD" tvg-logo="" group-title="Germany VIP",DE: FOLX TV SD
+http://119381469638785855.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/785855.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN BAR 2 HEVC" tvg-logo="" group-title="Germany VIP",DE: DAZN BAR 2 HEVC
+http://119381469638786331.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/786331.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT F1 FHD" tvg-logo="" group-title="Germany VIP",DE: SKY SPORT F1 FHD
+http://119381469638786341.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/786341.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 8 HD" tvg-logo="" group-title="Germany VIP",DE: SKY SPORT 8 HD
+http://119381469638787534.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/787534.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: EUROSPORT 2 XTRA RAW HEVC" tvg-logo="" group-title="Germany VIP",DE: EUROSPORT 2 XTRA RAW HEVC
+http://119381469638788114.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/788114.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: NATIONAL GEOGRAPHIC FHD" tvg-logo="" group-title="Germany VIP",DE: NATIONAL GEOGRAPHIC FHD
+http://119381469638788115.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/788115.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: EAGLE CINEMA BIOGRAFIE FHD" tvg-logo="" group-title="Germany VIP",DE: EAGLE CINEMA BIOGRAFIE FHD
+http://119381469638788658.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/788658.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: EAGLE CINEMA MYTHOLOGIE FHD" tvg-logo="" group-title="Germany VIP",DE: EAGLE CINEMA MYTHOLOGIE FHD
+http://119381469638788659.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/788659.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: HEIMATKANAL SD" tvg-logo="" group-title="Germany VIP",DE: HEIMATKANAL SD
+http://119381469638788660.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/788660.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 11 FHD" tvg-logo="" group-title="Germany VIP",DE: SKY SPORT 11 FHD
+http://119381469638788666.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/788666.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT AUSTRIA 2 HD (ONLY ON MATCH DAYS) HD" tvg-logo="" group-title="Germany VIP",DE: SKY SPORT AUSTRIA 2 HD (ONLY ON MATCH DAYS) HD
+http://119381469638789742.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/789742.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: EUROSPORT 1 FHD" tvg-logo="" group-title="Germany VIP",DE: EUROSPORT 1 FHD
+http://119381469638790805.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/790805.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 10 HD" tvg-logo="" group-title="Germany VIP",DE: SKY SPORT 10 HD
+http://119381469638790811.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/790811.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: WARNER BROS COMEDY HD" tvg-logo="" group-title="Germany VIP",DE: WARNER BROS COMEDY HD
+http://119381469638790813.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/790813.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: WARNER SERIE FHD" tvg-logo="http://files.rednetcontent.com/chlogo2/German/warner-tv-serie-us.png" group-title="Germany VIP",DE: WARNER SERIE FHD
+http://119381469638790814.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/790814.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: EAGLE CINEMA LACHELN FHD" tvg-logo="" group-title="Germany VIP",DE: EAGLE CINEMA LACHELN FHD
+http://119381469638791703.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/791703.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: NICKELODEON SD" tvg-logo="" group-title="Germany VIP",DE: NICKELODEON SD
+http://119381469638791708.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/791708.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SAT 1 HEVC" tvg-logo="" group-title="Germany VIP",DE: SAT 1 HEVC
+http://119381469638791709.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/791709.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: N24 DOKU FHD" tvg-logo="" group-title="Germany VIP",DE: N24 DOKU FHD
+http://119381469638792586.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/792586.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: VIP-DE: TELEKOM BUNDESLIGA 3 FHD" tvg-logo="https://moneroiptv.net/logot/germany/1200px-Logo_Telekom_Sport_%282017%29.svg.png" group-title="Germany VIP",DE: VIP-DE: TELEKOM BUNDESLIGA 3 FHD
+http://119381469638792593.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/792593.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: DER AKTIONäR TV HD" tvg-logo="" group-title="Germany VIP",DE: DER AKTIONäR TV HD
+http://119381469638793564.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/793564.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: VIP-DE: TELEKOM 3 BUNDESLIGA 1 FHD" tvg-logo="" group-title="Germany VIP",DE: VIP-DE: TELEKOM 3 BUNDESLIGA 1 FHD
+http://119381469638793574.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/793574.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: VIP-DE: TELEKOM 3 BUNDESLIGA 5 HD" tvg-logo="https://moneroiptv.net/logot/germany/telekom.png" group-title="Germany VIP",DE: VIP-DE: TELEKOM 3 BUNDESLIGA 5 HD
+http://119381469638793575.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/793575.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: VIP-DE: TELEKOM BUNDESLIGA 4 HD" tvg-logo="https://moneroiptv.net/logot/germany/1200px-Logo_Telekom_Sport_%282017%29.svg.png" group-title="Germany VIP",DE: VIP-DE: TELEKOM BUNDESLIGA 4 HD
+http://119381469638793579.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/793579.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: VIP-DE: TELEKOM BUNDESLIGA 5 HD" tvg-logo="https://xplanetiptv.com/Logotv/countries/germany/countrypic.png" group-title="Germany VIP",DE: VIP-DE: TELEKOM BUNDESLIGA 5 HD
+http://119381469638793580.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/793580.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: VIP-DE: TELEKOM BUNDESLIGA 6 FHD" tvg-logo="https://moneroiptv.net/logot/germany/1200px-Logo_Telekom_Sport_%282017%29.svg.png" group-title="Germany VIP",DE: VIP-DE: TELEKOM BUNDESLIGA 6 FHD
+http://119381469638793581.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/793581.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: VIP-DE: TELEKOM FUßBALL 1 FHD" tvg-logo="http://myserveriptv.com:2082/images/0bf4723116ef78e6a97bc8c9bfb376fa.png" group-title="Germany VIP",DE: VIP-DE: TELEKOM FUßBALL 1 FHD
+http://119381469638793583.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/793583.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: VIP-DE: TELEKOM FUßBALL 2 FHD" tvg-logo="http://myserveriptv.com:2082/images/0bf4723116ef78e6a97bc8c9bfb376fa.png" group-title="Germany VIP",DE: VIP-DE: TELEKOM FUßBALL 2 FHD
+http://119381469638793584.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/793584.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: VIP-DE: TELEKOM FUßBALL 3 FHD" tvg-logo="http://myserveriptv.com:2082/images/0bf4723116ef78e6a97bc8c9bfb376fa.png" group-title="Germany VIP",DE: VIP-DE: TELEKOM FUßBALL 3 FHD
+http://119381469638793585.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/793585.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: VIP-DE: TELEKOM FUßBALL 4 FHD" tvg-logo="http://myserveriptv.com:2082/images/0bf4723116ef78e6a97bc8c9bfb376fa.png" group-title="Germany VIP",DE: VIP-DE: TELEKOM FUßBALL 4 FHD
+http://119381469638793586.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/793586.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: VIP-DE: TELEKOM FUßBALL 6 FHD" tvg-logo="" group-title="Germany VIP",DE: VIP-DE: TELEKOM FUßBALL 6 FHD
+http://119381469638793587.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/793587.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: XITE FHD" tvg-logo="" group-title="Germany VIP",DE: XITE FHD
+http://119381469638793589.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/793589.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: KABEL 1 CLASSICS SD" tvg-logo="" group-title="Germany VIP",DE: KABEL 1 CLASSICS SD
+http://119381469638795573.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/795573.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SPORT 1 FHD" tvg-logo="" group-title="Germany VIP",DE: SPORT 1 FHD
+http://119381469638795581.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/795581.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: PRO 7 FHD" tvg-logo="" group-title="Germany VIP",DE: PRO 7 FHD
+http://119381469638795850.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/795850.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: VIP-DE: TELEKOM 3 BUNDESLIGA 7 HD" tvg-logo="" group-title="Germany VIP",DE: VIP-DE: TELEKOM 3 BUNDESLIGA 7 HD
+http://119381469638795855.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/795855.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: VIP-DE: TELEKOM BUNDESLIGA 7 FHD" tvg-logo="https://moneroiptv.net/logot/germany/1200px-Logo_Telekom_Sport_%282017%29.svg.png" group-title="Germany VIP",DE: VIP-DE: TELEKOM BUNDESLIGA 7 FHD
+http://119381469638795856.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/795856.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: 1-2-3 TV FHD" tvg-logo="" group-title="Germany VIP",DE: 1-2-3 TV FHD
+http://119381469638796622.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/796622.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: DELUXE MUSIC FHD" tvg-logo="" group-title="Germany VIP",DE: DELUXE MUSIC FHD
+http://119381469638796627.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/796627.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: DISNEY XD SD" tvg-logo="" group-title="Germany VIP",DE: DISNEY XD SD
+http://119381469638796628.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/796628.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: KABEL EINS SD" tvg-logo="" group-title="Germany VIP",DE: KABEL EINS SD
+http://119381469638796631.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/796631.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: RTL UP FHD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/germany/rtl-up-de.png?raw=true" group-title="Germany VIP",DE: RTL UP FHD
+http://119381469638796634.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/796634.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: BIBEL TV HD" tvg-logo="" group-title="Germany VIP",DE: BIBEL TV HD
+http://119381469638796980.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/796980.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN BAR 1 HEVC" tvg-logo="" group-title="Germany VIP",DE: DAZN BAR 1 HEVC
+http://119381469638796981.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/796981.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: EAGLE CINEMA ABENTEUER FHD" tvg-logo="" group-title="Germany VIP",DE: EAGLE CINEMA ABENTEUER FHD
+http://119381469638796982.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/796982.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: HISTORY FHD" tvg-logo="" group-title="Germany VIP",DE: HISTORY FHD
+http://119381469638796984.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/796984.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: PHOENIX HD" tvg-logo="" group-title="Germany VIP",DE: PHOENIX HD
+http://119381469638796986.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/796986.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: HGTV SD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/germany/hgtv-de.png?raw=true" group-title="Germany VIP",DE: HGTV SD
+http://119381469638798006.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/798006.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: MAGENTA FUßBALL 5 FHD" tvg-logo="" group-title="Germany VIP",DE: MAGENTA FUßBALL 5 FHD
+http://119381469638798007.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/798007.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY CINEMA ACTION FHD" tvg-logo="" group-title="Germany VIP",DE: SKY CINEMA ACTION FHD
+http://119381469638798009.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/798009.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY CINEMA ACTION HEVC" tvg-logo="" group-title="Germany VIP",DE: SKY CINEMA ACTION HEVC
+http://119381469638798010.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/798010.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY CINEMA FAMILY FHD" tvg-logo="" group-title="Germany VIP",DE: SKY CINEMA FAMILY FHD
+http://119381469638798011.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/798011.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 2 HEVC" tvg-logo="" group-title="Germany VIP",DE: SKY SPORT 2 HEVC
+http://119381469638798012.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/798012.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: VIP-DE: TELEKOM 3 BUNDESLIGA 6 FHD" tvg-logo="" group-title="Germany VIP",DE: VIP-DE: TELEKOM 3 BUNDESLIGA 6 FHD
+http://119381469638798014.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/798014.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: VIP-DE: TELEKOM FUßBALL 7 FHD" tvg-logo="" group-title="Germany VIP",DE: VIP-DE: TELEKOM FUßBALL 7 FHD
+http://119381469638798015.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/798015.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: KABEL 1 DOKU HD" tvg-logo="" group-title="Germany VIP",DE: KABEL 1 DOKU HD
+http://119381469638798253.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/798253.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: NICK JUNIOR. SD" tvg-logo="" group-title="Germany VIP",DE: NICK JUNIOR. SD
+http://119381469638798254.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/798254.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY CINEMA FUN FHD" tvg-logo="" group-title="Germany VIP",DE: SKY CINEMA FUN FHD
+http://119381469638798255.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/798255.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY CINEMA FUN HD" tvg-logo="" group-title="Germany VIP",DE: SKY CINEMA FUN HD
+http://119381469638798256.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/798256.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY KRIMI FHD" tvg-logo="http://files.rednetcontent.com/chlogo2/German/Sky_Krimi_HD_DE_Logo_2017.png" group-title="Germany VIP",DE: SKY KRIMI FHD
+http://119381469638798257.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/798257.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY REPLAY FHD" tvg-logo="" group-title="Germany VIP",DE: SKY REPLAY FHD
+http://119381469638798258.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/798258.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT AUSTRIA 3 HD (ONLY ON MATCH DAYS) FHD" tvg-logo="" group-title="Germany VIP",DE: SKY SPORT AUSTRIA 3 HD (ONLY ON MATCH DAYS) FHD
+http://119381469638798259.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/798259.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 9 HD" tvg-logo="" group-title="Germany VIP",DE: SKY SPORT BUNDESLIGA 9 HD
+http://119381469638798260.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/798260.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: TELE 5 HD" tvg-logo="" group-title="Germany VIP",DE: TELE 5 HD
+http://119381469638798261.ofe0229.xyz:80/play/vi915782/FcFv4H@M84/798261.ts
