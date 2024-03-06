@@ -90,8 +90,8 @@ http://86.57.211.182:32200/Unikum/index.m3u8
 
 #EXTINF:-1 tvg-id="2na2" tvg-logo="https://epgx.site/p/2na2.png" group-title="Развлекательные",2x2
 
-#EXTINF:-1 tvg-id="2na2-pl4" tvg-logo="https://epgx.site/p/2na2-pl4.png" group-title="Развлекательные",2x2 (+4, EDTV 576p)
-http://62.231.191.65:8888/56
+#EXTINF:-1 tvg-id="2na2-pl4" tvg-logo="https://epgx.site/p/2na2-pl4.png" group-title="Развлекательные",2x2
+http://185.37.150.40:8092/2_2/playlist.m3u8
 #EXTINF:-1 tvg-id="russky-ekstrim" tvg-logo="https://epgx.site/p/russky-ekstrim.png" group-title="Развлекательные",HD REX (FHD)
 http://91.221.201.2:7013/play/a00a/index.m3u8
 #EXTINF:-1 tvg-id="tvmchannel" tvg-logo="https://epgx.site/p/tvmchannel.png" group-title="Развлекательные",TVM Channel (EDTV 576p)
