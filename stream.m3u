@@ -99,7 +99,7 @@ http://origin5.mediacdn.ru/live/tvm/index.m3u8
 #EXTINF:-1 tvg-id="domashny" tvg-logo="https://epgx.site/p/domashny.png" group-title="Развлекательные",Домашний (EDTV 576p)
 http://91.205.199.3:80/domashni/index.m3u8
 #EXTINF:-1 tvg-id="domashny" tvg-logo="http://epg.it999.ru/img2/304.png" group-title="Развлекательные",Домашний (FHD)
-https://livetv.mylifeisgood.net.ru/channels/domashnii.m3u8
+http://185.37.150.40:8092/Domashni/playlist.m3u8
 #EXTINF:-1 tvg-id="domashny-int" tvg-logo="https://epgx.site/p/domashny-int.png" group-title="Развлекательные",Домашний International (EDTV 576p)
 http://45.159.74.13:80/Domashniy/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="kvn-tv" tvg-logo="https://epgx.site/p/kvn-tv.png" group-title="Развлекательные",КВН ТВ (WSVGA)
