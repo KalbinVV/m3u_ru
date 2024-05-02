@@ -303,6 +303,8 @@ http://91.142.158.107:8092/play/27/index.m3u8
 #EXTINF:-1 tvg-id="russky-roman" tvg-logo="https://epgx.site/p/russky-roman.png" group-title="Русский кинозал",Русский роман (EDTV 576p)
 http://stream01.vnet.am/RusskiyRoman/mono.m3u8
 #EXTINF:-1 tvg-id="russky-roman" tvg-name="Русский роман (720P)" tvg-logo="https://i.imgur.com/cQN0P2B.png" group-title="Русский кинозал",Русский роман [720x576]
+#EXTINF:-1 tvg-id="russky-roman" tvg-logo="https://epgx.site/p/russky-roman.png" group-title="Русский кинозал",Русский роман (HD)
+http://188.113.190.15/221/tracks-v1a1/index.m3u8
 http://185.134.36.63:4022/udp/234.0.0.224:2000
 #EXTINF:-1 tvg-id="russky-illuzion" tvg-logo="https://epgx.site/p/russky-illuzion.png" group-title="Русский кинозал",Русский иллюзион (EDTV 576p)
 http://195.191.130.11:9000/play/a00u/index.m3u8
@@ -552,6 +554,8 @@ http://stream01.vnet.am/Boomerang/mono.m3u8
 http://88.135.128.20:7272/Jke5tdvCxp2Yhs6
 #EXTINF:-1 tvg-id="nickelodeon-ru" tvg-name="NICKELODEON SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/512px-Nickelodeon_2009_logo.svg.png" group-title="Детские",NICKELODEON SD
 http://iplist.07server.eu:80/ErdoganUslu/bTH412YxN7/230719
+#EXTINF:-1 tvg-id="nickelodeon-ru" tvg-logo="https://epgx.site/p/nickelodeon-ru.png" group-title="Детские",Nickelodeon (HD)
+http://streaming.tv-teleport.ru/Nickelodeon/index.m3u8
 
 # Тут начинаются Украиснкие каналы от smart.nicem
 
