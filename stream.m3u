@@ -86,22 +86,14 @@ http://45.159.74.13:80/DisneyChannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="detsky" tvg-logo="https://epgx.site/p/unikum.png" group-title="Детские",Уникум (EDTV 576p)
 http://86.57.211.182:32200/Unikum/index.m3u8
 
-#EXTINF:-1 tvg-id="1-2" tvg-logo="https://epgx.site/p/1-2.png" group-title="Развлекательные",1+2 (EDTV 576p)
-
-#EXTINF:-1 tvg-id="2na2" tvg-logo="https://epgx.site/p/2na2.png" group-title="Развлекательные",2x2
-
 #EXTINF:-1 tvg-id="2na2-pl4" tvg-logo="https://epgx.site/p/2na2-pl4.png" group-title="Развлекательные",2x2
-http://185.37.150.40:8092/2_2/playlist.m3u8
+http://7f5ad5a8.tvclub.xyz/iptv/NGG8FXA8A4FG8S/702/index.m3u8
 #EXTINF:-1 tvg-id="russky-ekstrim" tvg-logo="https://epgx.site/p/russky-ekstrim.png" group-title="Развлекательные",HD REX (FHD)
 http://91.221.201.2:7013/play/a00a/index.m3u8
 #EXTINF:-1 tvg-id="tvmchannel" tvg-logo="https://epgx.site/p/tvmchannel.png" group-title="Развлекательные",TVM Channel (EDTV 576p)
 http://origin5.mediacdn.ru/live/tvm/index.m3u8
-#EXTINF:-1 tvg-id="domashny" tvg-logo="https://epgx.site/p/domashny.png" group-title="Развлекательные",Домашний (EDTV 576p)
-http://91.205.199.3:80/domashni/index.m3u8
-#EXTINF:-1 tvg-id="domashny" tvg-logo="http://epg.it999.ru/img2/304.png" group-title="Развлекательные",Домашний (FHD)
-http://185.37.150.40:8092/Domashni/playlist.m3u8
-#EXTINF:-1 tvg-id="domashny-int" tvg-logo="https://epgx.site/p/domashny-int.png" group-title="Развлекательные",Домашний International (EDTV 576p)
-http://45.159.74.13:80/Domashniy/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="domashny" tvg-logo="http://epg.it999.ru/img2/304.png" group-title="Развлекательные",Домашний (HD)
+http://7f5ad5a8.tvclub.xyz/iptv/NGG8FXA8A4FG8S/6016/index.m3u8
 #EXTINF:-1 tvg-id="kvn-tv" tvg-logo="https://epgx.site/p/kvn-tv.png" group-title="Развлекательные",КВН ТВ (WSVGA)
 https://strm.yandex.ru/kal/kvn_tv_belarus/kvn_tv_belarus0.m3u8
 #EXTINF:-1 tvg-id="nostalgia" tvg-logo="https://epgx.site/p/nostalgia.png" group-title="Развлекательные",Ностальгия (SDTV 576i)
@@ -448,6 +440,8 @@ http://94.228.204.166:8000/play/0097
 
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2463.png" group-title="Хобби и увлечения",Загородный
 http://ott-cdn.ucom.am/s31/04.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2463.png" group-title="Хобби и увлечения",Загородный (HD)
+http://7f5ad5a8.tvclub.xyz/iptv/NGG8FXA8A4FG8S/2099/index.m3u8
 #EXTINF:-1 tvg-logo="https://epgx.site/p/zagorodnaya-zhizn.png" group-title="Хобби и увлечения",Загородная Жизнь
 http://146.158.0.56/ZagorodnayaJizn/mono.m3u8
 #EXTINF:-1 tvg-logo="https://epgx.site/p/zdorovoe-tv.png" group-title="Хобби и увлечения",Здоровое ТВ
@@ -537,11 +531,11 @@ http://tvrlive.susu.ru/1800k/playlist.m3u8
 #EXTINF:-1 tvg-id="nickelodeon-ru" tvg-name="Nickelodeon CIS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/512px-Nickelodeon_2009_logo.svg.png" group-title="Детские",Nickelodeon [1920x1080]
 http://31.146.176.94/nickelodeon/playlist.m3u8
 #EXTINF:-1 tvg-id="CartoonNetwork.ru" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="Детские",Cartoon Network [1280x720]
-http://94.232.104.237:8000/play/032/index.m3u8
+http://7f5ad5a8.tvclub.xyz/iptv/NGG8FXA8A4FG8S/143/index.m3u8
 #EXTINF:-1 tvg-id="rtvi" tvg-name="RTVi" tvg-logo="https://i.imgur.com/1AEhXyS.png" group-title="Новостные",RTVI [1920x1080]
 http://185.37.150.40:8092/rtvi/playlist.m3u8
 #EXTINF:-1 tvg-id="dozhd" tvg-name="TV Rain" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Tvrain.svg/512px-Tvrain.svg.png" group-title="Новостные",Дождь [1920x1080]
-http://1527562093.rsc.cdn77.org/transcode/ngrp:ses_all/chunklist_b4692000.m3u8
+http://7f5ad5a8.tvclub.xyz/iptv/NGG8FXA8A4FG8S/2030/index.m3u8
 #EXTINF:-1 tvg-id="national-geographic" tvg-name="National Geographic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" group-title="Познавательные",National Geographic [720x576]
 http://stream02.vnet.am/NationalGeographic/index.m3u8
 #EXTINF:-1 tvg-id="nat-geo-wild" tvg-name="National Geographic Wild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png" group-title="Познавательные",National Geographic Wild [720x576]
@@ -553,7 +547,7 @@ http://stream01.vnet.am/Boomerang/mono.m3u8
 #EXTINF:-1 tvg-id="nick-jr" tvg-name="Nick Jr." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/512px-Nick_Jr._logo_2009.svg.png" group-title="Детские",Nick Jr. [lav rus] [720x576]
 http://88.135.128.20:7272/Jke5tdvCxp2Yhs6
 #EXTINF:-1 tvg-id="nickelodeon-ru" tvg-name="NICKELODEON SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/512px-Nickelodeon_2009_logo.svg.png" group-title="Детские",NICKELODEON SD
-http://iplist.07server.eu:80/ErdoganUslu/bTH412YxN7/230719
+http://7f5ad5a8.tvclub.xyz/iptv/NGG8FXA8A4FG8S/541/index.m3u8
 #EXTINF:-1 tvg-id="nickelodeon-ru" tvg-logo="https://epgx.site/p/nickelodeon-ru.png" group-title="Детские",Nickelodeon (HD)
 http://streaming.tv-teleport.ru/Nickelodeon/index.m3u8
 
