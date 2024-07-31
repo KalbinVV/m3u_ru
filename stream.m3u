@@ -526,6 +526,15 @@ http://rhsbjv7k.tvclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/11001/index.m3u8
 
 #Развлекательные (Начало)
 
+#EXTINF:0 group-title="Развлекательные" tvg-id="tnt",ТНТ FHD
+http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/2417/index.m3u8
+
+#EXTINF:0 group-title="Развлекательные" tvg-id="tnt",ТНТ HD Orig
+http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/7251/index.m3u8
+
+#EXTINF:0 group-title="Развлекательные" tvg-id="tnt" ,ТНТ HD
+http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/237/index.m3u8
+
 #EXTINF:-1 tvg-id="yu" tvg-logo="https://epgx.site/p/yu.png" group-title="Развлекательные",Ю (HD ready)
 http://cdn-01.bonus-tv.ru/u/tracks-v1a1/mono.m3u8
 
@@ -640,11 +649,41 @@ http://rhsbjv7k.tvclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/9337/index.m3u8
 #EXTINF:0 tvg-id="898" tvg-logo="http://epg.one/img2/898.png" group-title="Развлекательные",Ю ТВ orig
 http://rhsbjv7k.tvclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/9107/index.m3u8
 
-#EXTINF:-1 tvg-id="domashny" tvg-logo="http://epg.it999.ru/img2/304.png" group-title="Развлекательные",Домашний (HD)
-https://livetv.mylifeisgood.net.ru/channels/domashnii.m3u8
+#EXTINF:0 group-title="Развлекательные" tvg-id="piatnica",Пятница! HD
+http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/5031/index.m3u8
 
-#EXTINF:-1 tvg-id="domashny" tvg-logo="http://epg.it999.ru/img2/304.png" group-title="Развлекательные",Домашний (HD)
-http://7f5ad5a8.tvclub.xyz/iptv/NGG8FXA8A4FG8S/6016/index.m3u8
+#EXTINF:0 group-title="Развлекательные" tvg-id="piatnica",Пятница! orig
+http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/9207/index.m3u8
+
+#EXTINF:0 group-title="Развлекательные" tvg-id="piatnica",Пятница!
+http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/503/index.m3u8
+
+#EXTINF:0 group-title="Развлекательные" tvg-id="piatnica",Пятница +2
+http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6018/index.m3u8
+
+#EXTINF:0 group-title="Развлекательные" tvg-id="piatnica",Пятница +4
+http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6032/index.m3u8
+
+#EXTINF:0 group-title="Развлекательные" tvg-id="piatnica",Пятница +7
+http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6046/index.m3u8
+
+#EXTINF:0 group-title="Развлекательные" tvg-id="domashny",Домашний HD
+http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/15116/index.m3u8
+
+#EXTINF:0 group-title="Развлекательные" tvg-id="domashny",Домашний orig
+http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/9104/index.m3u8
+
+#EXTINF:0 group-title="Развлекательные" tvg-id="domashny",Домашний
+http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/514/index.m3u8
+
+#EXTINF:0 group-title="Развлекательные" tvg-id="domashny",Домашний +2
+http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6016/index.m3u8
+
+#EXTINF:0 group-title="Развлекательные" tvg-id="domashny",Домашний +4
+http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6030/index.m3u8
+
+#EXTINF:0 group-title="Развлекательные" tvg-id="domashny",Домашний +7
+http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/6044/index.m3u8
 
 #EXTINF:-1 tvg-id="russky-ekstrim" tvg-logo="https://epgx.site/p/russky-ekstrim.png" group-title="Развлекательные",SD REX (D1)
 http://195.26.83.96:7029/play/a008
