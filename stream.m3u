@@ -526,9 +526,6 @@ https://stream01.vnet.am/Pyatnica/mono.m3u8
 #EXTINF:0 tvg-id="tnt4" group-title="Развлекательные",ТНТ HD
 http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/237/index.m3u8
 
-#EXTINF:-1 tvg-id="2na2-pl7" tvg-logo="https://epgx.site/p/2na2-pl4.png" group-title="Развлекательные",2x2
-http://7f5ad5a8.tvclub.xyz/iptv/NGG8FXA8A4FG8S/702/index.m3u8
-
 #EXTINF:0 tvg-id="2na2-pl7" tvg-logo="http://epg.one/img2/323.png" group-title="Развлекательные",2x2
 http://rhsbjv7k.tvclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/702/index.m3u8
 
@@ -2815,7 +2812,7 @@ http://rhsbjv7k.tvclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/9115/index.m3u8
 #EXTINF:-1 tvg-id="domashnie-zhivotnye" tvg-logo="http://epg.it999.ru/img2/520.png" group-title="Познавательные",Домашние Животные (EDTV 576p)
 http://109.239.208.82:80/animals/index.m3u8
 
-#EXTINF:0 tvg-id="national-geographic-pl" tvg-logo="http://epg.one/img2/102.png" group-title="Познавательные",National Geographic HD
+#EXTINF:0 tvg-id="national-geographic" tvg-logo="http://epg.one/img2/102.png" group-title="Познавательные",National Geographic HD
 http://rhsbjv7k.tvclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/14001/index.m3u8
 
 #EXTINF:0 tvg-id="rybalka-i-oxota" tvg-logo="http://epg.one/img2/2419.png" group-title="Познавательные",Охота и рыбалка
@@ -3274,10 +3271,10 @@ http://rhsbjv7k.tvclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/9315/index.m3u8
 #EXTINF:0 tvg-id="zdorovoe-tv" tvg-logo="http://epg.one/img2/2449.png" group-title="Познавательные",Здоровое ТВ
 http://rhsbjv7k.tvclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/2022/index.m3u8
 
-#EXTINF:0 tvg-id="national-geographic-pl" tvg-logo="http://epg.one/img2/102.png" group-title="Познавательные",National Geographic
+#EXTINF:0 tvg-id="national-geographic" tvg-logo="http://epg.one/img2/102.png" group-title="Познавательные",National Geographic
 http://rhsbjv7k.tvclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/14000/index.m3u8
 
-#EXTINF:0 tvg-id="national-geographic-pl" tvg-logo="http://epg.one/img2/102.png" group-title="Познавательные",National Geographic
+#EXTINF:0 tvg-id="national-geographic" tvg-logo="http://epg.one/img2/102.png" group-title="Познавательные",National Geographic
 http://rhsbjv7k.tvclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/2336/index.m3u8
 
 #EXTINF:0 tvg-id="skyhigh-galaxy" tvg-logo="http://epg.one/img2/2418.png" group-title="Познавательные",Galaxy HD
