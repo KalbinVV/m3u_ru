@@ -120,7 +120,7 @@ http://rhsbjv7k.tvclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/2001/index.m3u8
 #EXTINF:0 tvg-id="917" tvg-logo="http://epg.one/img2/917.png" group-title="Детские",Nick Jr orig
 http://rhsbjv7k.tvclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/9182/index.m3u8
 
-#EXTINF:0 tvg-id="423" tvg-logo="http://epg.one/img2/423.png" group-title="Детские",Nickelodeon
+#EXTINF:0 tvg-id="nickelodeon-ru" tvg-logo="http://epg.one/img2/423.png" group-title="Детские",Nickelodeon
 http://rhsbjv7k.tvclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/541/index.m3u8
 
 #EXTINF:0 tvg-id="5156" tvg-logo="http://epg.one/img2/5156.png" group-title="Детские",MM Smile HD
@@ -288,7 +288,7 @@ http://rhsbjv7k.tvclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/1041/index.m3u8
 #EXTINF:0 tvg-id="2033" tvg-logo="http://epg.one/img2/2033.png" group-title="Детские",Карусель (+3)
 http://rhsbjv7k.tvclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/740/index.m3u8
 
-#EXTINF:0 tvg-id="423" tvg-logo="http://epg.one/img2/423.png" group-title="Детские",Nickelodeon HD orig
+#EXTINF:0 tvg-id="nickelodeon-ru" tvg-logo="http://epg.one/img2/423.png" group-title="Детские",Nickelodeon HD orig
 http://rhsbjv7k.tvclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/9015/index.m3u8
 
 #EXTINF:0 tvg-id="284" tvg-logo="http://epg.one/img2/284.png" group-title="Детские",Мультимузыка orig
@@ -384,7 +384,7 @@ http://rhsbjv7k.tvclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/17027/index.m3u8
 #EXTINF:0 tvg-id="1107" tvg-logo="http://epg.one/img2/1107.png" group-title="Детские",Карусель +7 (Владивосток)
 http://rhsbjv7k.tvclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/15340/index.m3u8
 
-#EXTINF:0 tvg-id="423" tvg-logo="http://epg.one/img2/423.png" group-title="Детские",Nickelodeon orig
+#EXTINF:0 tvg-id="nickelodeon-ru" tvg-logo="http://epg.one/img2/423.png" group-title="Детские",Nickelodeon orig
 http://rhsbjv7k.tvclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/9260/index.m3u8
 
 #EXTINF:0 tvg-id="740" tvg-logo="http://epg.one/img2/740.png" group-title="Детские",Карусель
@@ -1025,13 +1025,16 @@ http://cdn.ntv.ru/th_hit/tracks-v1a1/mono.m3u8
 
 #Новостные (Начало)
 
+#EXTINF:0 group-title="Новостные" tvg-id="6683",FOX NEWS CHANNEL FHD
+http://rhsbjv7k.tvclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/19147/index.m3u8
+
 #EXTINF:-1 tvg-id="rbk" tvg-logo="http://epg.it999.ru/img2/743.png" group-title="Новостные",РБК (HD)
 http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
 
-#EXTINF:0 tvg-id="2399" tvg-logo="http://epg.one/img2/2399.png" group-title="Новостные",Дождь HD
+#EXTINF:0 tvg-id="dozhd" tvg-logo="http://epg.one/img2/2399.png" group-title="Новостные",Дождь HD
 http://rhsbjv7k.tvclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/20083/index.m3u8
 
-#EXTINF:0 tvg-id="2399" tvg-logo="http://epg.one/img2/2399.png" group-title="Новостные",Дождь orig
+#EXTINF:0 tvg-id="dozhd" tvg-logo="http://epg.one/img2/2399.png" group-title="Новостные",Дождь orig
 http://rhsbjv7k.tvclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/9122/index.m3u8
 
 #EXTINF:-1 tvg-id="izvestia" tvg-logo="https://epgx.site/p/izvestia.png" group-title="Новостные",Известия (HD)
