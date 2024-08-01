@@ -26,9 +26,6 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 tvg-id="otr" tvg-logo="https://epgx.site/p/otr.png" group-title="Общественные",ОТР (EDTV 576p)
 http://s18209.cdn.ngenix.net/hls/CH_R01_OTR/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ratnik" tvg-logo="https://epgx.site/p/ratnik.png" group-title="Общественные",Ратник (FHD)
-http://live-ratnik.cdnvideo.ru/ratnik/ratnik.sdp/playlist.m3u8
-
 #EXTINF:-1 tvg-id="tv-brics" tvg-logo="https://epgx.site/p/tv-brics.png" group-title="Общественные",TV BRICS (FHD)
 http://rusbrics.mediacdn.ru/cdn/brics/russian/playlist_hdhigh.m3u8
 
@@ -2002,99 +1999,99 @@ http://45.159.74.14/DiscoveryChannel/tracks-v1a2/mono.m3u8
 
 #Познавательные (Конец)
 
-#Хобби и увлечения (Начало)
+#Познавательные (Начало)
 
-#EXTINF:-1 tvg-logo="https://epgx.site/p/zagorodnaya-zhizn.png" group-title="Хобби и увлечения",Загородная Жизнь
+#EXTINF:-1 tvg-logo="https://epgx.site/p/zagorodnaya-zhizn.png" group-title="Познавательные",Загородная Жизнь
 http://146.158.0.56/ZagorodnayaJizn/mono.m3u8
 
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2311.png" group-title="Хобби и увлечения",Приключения HD
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2311.png" group-title="Познавательные",Приключения HD
 http://ott-cdn.ucom.am/s99/04.m3u8
 
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/520.png" group-title="Хобби и увлечения",Домашние Животные
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/520.png" group-title="Познавательные",Домашние Животные
 http://109.239.208.82:80/animals/index.m3u8
 
-#EXTINF:-1 tvg-id="avto24" tvg-logo="http://epg.it999.ru/img2/2008.png" group-title="Хобби и увлечения",Авто 24 (EDTV 576p)
+#EXTINF:-1 tvg-id="avto24" tvg-logo="http://epg.it999.ru/img2/2008.png" group-title="Познавательные",Авто 24 (EDTV 576p)
 http://109.239.208.82:80/auto24/index.m3u8
 
-#EXTINF:-1 tvg-id="zagorodnaya-zhizn" tvg-logo="https://epgx.site/p/zagorodnaya-zhizn.png" group-title="Хобби и увлечения",Загородная Жизнь (EDTV 576p)
+#EXTINF:-1 tvg-id="zagorodnaya-zhizn" tvg-logo="https://epgx.site/p/zagorodnaya-zhizn.png" group-title="Познавательные",Загородная Жизнь (EDTV 576p)
 http://146.158.0.56/ZagorodnayaJizn/mono.m3u8
 
-#EXTINF:-1 tvg-id="muzhskoy" tvg-logo="http://epg.it999.ru/img2/2444.png" group-title="Хобби и увлечения",Мужской (EDTV 576p)
+#EXTINF:-1 tvg-id="muzhskoy" tvg-logo="http://epg.it999.ru/img2/2444.png" group-title="Познавательные",Мужской (EDTV 576p)
 http://188.113.190.15/64/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-id="doktor" tvg-logo="https://epgx.site/p/doktor.png" group-title="Хобби и увлечения",Доктор (EDTV 576p)
+#EXTINF:-1 tvg-id="doktor" tvg-logo="https://epgx.site/p/doktor.png" group-title="Познавательные",Доктор (EDTV 576p)
 http://88.85.172.243:7004/play/a01l
 
-#EXTINF:-1 tvg-id="domashnie-zhivotnye" tvg-logo="http://epg.it999.ru/img2/520.png" group-title="Хобби и увлечения",Домашние Животные (EDTV 576p)
+#EXTINF:-1 tvg-id="domashnie-zhivotnye" tvg-logo="http://epg.it999.ru/img2/520.png" group-title="Познавательные",Домашние Животные (EDTV 576p)
 http://109.239.208.82:80/animals/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1755.png" group-title="Хобби и увлечения",НТВ Стиль
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1755.png" group-title="Познавательные",НТВ Стиль
 http://dmi3y-tv.ru/hls/CH_NTVSTIL.m3u8
 
-#EXTINF:-1 tvg-id="bobior" tvg-logo="https://epgx.site/p/bober.png" group-title="Хобби и увлечения",Бобер (EDTV 576p)
+#EXTINF:-1 tvg-id="bobior" tvg-logo="https://epgx.site/p/bober.png" group-title="Познавательные",Бобер (EDTV 576p)
 http://178.212.71.253:8002/play/a00m/index.m3u8
 
-#EXTINF:-1 tvg-id="kuxnia-tv" tvg-logo="http://epg.it999.ru/img2/614.png" group-title="Хобби и увлечения",Кухня ТВ (EDTV 576p)
+#EXTINF:-1 tvg-id="kuxnia-tv" tvg-logo="http://epg.it999.ru/img2/614.png" group-title="Познавательные",Кухня ТВ (EDTV 576p)
 http://stream01.vnet.am/KukhnyaTv/mono.m3u8
 
-#EXTINF:-1 tvg-id="nasha-tema" tvg-logo="http://epg.it999.ru/img2/2433.png" group-title="Хобби и увлечения",Наша Тема (EDTV 576p)
+#EXTINF:-1 tvg-id="nasha-tema" tvg-logo="http://epg.it999.ru/img2/2433.png" group-title="Познавательные",Наша Тема (EDTV 576p)
 http://188.113.190.15/218/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-id="zhivi" tvg-logo="http://epg.it999.ru/img2/113.png" group-title="Хобби и увлечения",Живи! (EDTV 576p)
+#EXTINF:-1 tvg-id="zhivi" tvg-logo="http://epg.it999.ru/img2/113.png" group-title="Познавательные",Живи! (EDTV 576p)
 http://188.113.190.15/306/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/614.png" group-title="Хобби и увлечения",Кухня ТВ
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/614.png" group-title="Познавательные",Кухня ТВ
 http://stream01.vnet.am/KukhnyaTv/mono.m3u8
 
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2463.png" group-title="Хобби и увлечения",Загородный
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2463.png" group-title="Познавательные",Загородный
 http://ott-cdn.ucom.am/s31/04.m3u8
 
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2463.png" group-title="Хобби и увлечения",Загородный (HD)
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2463.png" group-title="Познавательные",Загородный (HD)
 http://7f5ad5a8.tvclub.xyz/iptv/NGG8FXA8A4FG8S/2099/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://epgx.site/p/oxotnik-i-rybolov.png" group-title="Хобби и увлечения", Охотник и Рыболов
+#EXTINF:-1 tvg-logo="https://epgx.site/p/oxotnik-i-rybolov.png" group-title="Познавательные", Охотник и Рыболов
 http://ott-cdn.ucom.am/s62/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://epgx.site/p/bober.png" group-title="Хобби и увлечения",Бобер
+#EXTINF:-1 tvg-logo="https://epgx.site/p/bober.png" group-title="Познавательные",Бобер
 http://178.212.71.253:8002/play/a00m/index.m3u8
 
-#EXTINF:-1 tvg-id="oxota-i-rybalka" tvg-logo="http://epg.it999.ru/img2/2419.png" group-title="Хобби и увлечения",Охота и Рыбалка (EDTV 576p)
+#EXTINF:-1 tvg-id="oxota-i-rybalka" tvg-logo="http://epg.it999.ru/img2/2419.png" group-title="Познавательные",Охота и Рыбалка (EDTV 576p)
 http://188.113.190.15/69/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-id="fashion-tv" tvg-logo="https://epgx.site/p/fashion-tv.png" group-title="Хобби и увлечения",Fashion TV (HD)
+#EXTINF:-1 tvg-id="fashion-tv" tvg-logo="https://epgx.site/p/fashion-tv.png" group-title="Познавательные",Fashion TV (HD)
 http://91.247.68.229:8000/play/Fashion/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/617.png" group-title="Хобби и увлечения",Точка Отрыва
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/617.png" group-title="Познавательные",Точка Отрыва
 http://109.239.208.82:80/tochka/index.m3u8
 
-#EXTINF:-1 tvg-id="ntv-style" tvg-logo="http://epg.it999.ru/img2/1755.png" group-title="Хобби и увлечения",НТВ Стиль (WSVGA)
+#EXTINF:-1 tvg-id="ntv-style" tvg-logo="http://epg.it999.ru/img2/1755.png" group-title="Познавательные",НТВ Стиль (WSVGA)
 http://cdn2.ntv.ru/th_style/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="otkryty-mir" tvg-logo="https://epgx.site/p/otkryty-mir.png" group-title="Хобби и увлечения",Открытый мир (EDTV 576p)
+#EXTINF:-1 tvg-id="otkryty-mir" tvg-logo="https://epgx.site/p/otkryty-mir.png" group-title="Познавательные",Открытый мир (EDTV 576p)
 http://146.158.0.56/OtkritiyMir/mono.m3u8
 
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2444.png" group-title="Хобби и увлечения",Мужской
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2444.png" group-title="Познавательные",Мужской
 http://195.26.83.96:7007/play/11/index.m3u8
 
-#EXTINF:-1 tvg-id="lapki-live" tvg-logo="https://epgx.site/p/lapki-live.png" group-title="Хобби и увлечения",Лапки Live (EDTV 576p)
+#EXTINF:-1 tvg-id="lapki-live" tvg-logo="https://epgx.site/p/lapki-live.png" group-title="Познавательные",Лапки Live (EDTV 576p)
 http://91.247.68.229:8000/play/Lapki/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2419.png" group-title="Хобби и увлечения",Охота и Рыбалка
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2419.png" group-title="Познавательные",Охота и Рыбалка
 http://88.85.172.243:7004/play/a01c
 
-#EXTINF:-1 tvg-id="tochka-otryva" tvg-logo="http://epg.it999.ru/img2/617.png" group-title="Хобби и увлечения",Точка Отрыва (EDTV 576p)
+#EXTINF:-1 tvg-id="tochka-otryva" tvg-logo="http://epg.it999.ru/img2/617.png" group-title="Познавательные",Точка Отрыва (EDTV 576p)
 http://109.239.208.82:80/tochka/index.m3u8
 
-#EXTINF:-1 tvg-id="zagorodny" tvg-logo="http://epg.it999.ru/img2/2463.png" group-title="Хобби и увлечения",Загородный (480p)
+#EXTINF:-1 tvg-id="zagorodny" tvg-logo="http://epg.it999.ru/img2/2463.png" group-title="Познавательные",Загородный (480p)
 http://ott-cdn.ucom.am/s31/04.m3u8
 
-#EXTINF:-1 tvg-id="zhivi-aktivno" tvg-logo="http://epg.it999.ru/img2/5881.png" group-title="Хобби и увлечения",Живи Активно (HD)
+#EXTINF:-1 tvg-id="zhivi-aktivno" tvg-logo="http://epg.it999.ru/img2/5881.png" group-title="Познавательные",Живи Активно (HD)
 https://livetv.mylifeisgood.net.ru/channels/jiviactivno.m3u8
 
-#EXTINF:-1 tvg-id="zdorovoe-tv" tvg-logo="https://epgx.site/p/zdorovoe-tv.png" group-title="Хобби и увлечения",Здоровое ТВ (EDTV 576p)
+#EXTINF:-1 tvg-id="zdorovoe-tv" tvg-logo="https://epgx.site/p/zdorovoe-tv.png" group-title="Познавательные",Здоровое ТВ (EDTV 576p)
 http://188.113.190.15/70/tracks-v1a1/index.m3u8
 
-#Хобби и увлечения (Конец)
+#Познавательные (Конец)
 
 #Белорусские (Начало)
 
@@ -2694,17 +2691,11 @@ http://rhsbjv7k.tvclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/19014/index.m3u8
 #EXTINF:0 tvg-id="1000" tvg-logo="http://epg.one/img2/1000.png" group-title="Германия | Germany",ОТР HD
 http://rhsbjv7k.tvclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/20018/index.m3u8
 
-#EXTINF:0 tvg-id="740" tvg-logo="http://epg.one/img2/740.png" group-title="Германия | Germany",Карусель HD
-http://rhsbjv7k.tvclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/20012/index.m3u8
-
 #EXTINF:0 tvg-id="6435" tvg-logo="http://epg.one/img2/6435.png" group-title="Германия | Germany",sky Serien & Shows DE
 http://rhsbjv7k.tvclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/19007/index.m3u8
 
 #EXTINF:0 tvg-id="3792" tvg-logo="http://epg.one/img2/3792.png" group-title="Германия | Germany",FightBox HD
 http://rhsbjv7k.tvclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/20027/index.m3u8
-
-#EXTINF:0 tvg-id="4629" tvg-logo="http://epg.one/img2/4629.png" group-title="Германия | Germany",Мир Баскетбола HD
-http://rhsbjv7k.tvclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/20004/index.m3u8
 
 #EXTINF:0 tvg-id="4526" tvg-logo="http://epg.one/img2/4526.png" group-title="Германия | Germany",Sky Sport Bundesliga 7 HD DE
 http://rhsbjv7k.tvclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/7239/index.m3u8
@@ -2753,9 +2744,6 @@ http://rhsbjv7k.tvclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6062/index.m3u8
 
 #EXTINF:0 tvg-id="3071" tvg-logo="http://epg.one/img2/3071.png" group-title="Германия | Germany",ProSieben Maxx HD DE
 http://rhsbjv7k.tvclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/15174/index.m3u8
-
-#EXTINF:0 tvg-id="2027" tvg-logo="http://epg.one/img2/2027.png" group-title="Германия | Germany",В гостях у сказки HD
-http://rhsbjv7k.tvclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/20005/index.m3u8
 
 #EXTINF:0 tvg-id="3062" tvg-logo="http://epg.one/img2/3062.png" group-title="Германия | Germany",Motorvision TV DE
 http://rhsbjv7k.tvclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6112/index.m3u8
@@ -2838,17 +2826,8 @@ http://rhsbjv7k.tvclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/7234/index.m3u8
 #EXTINF:0 tvg-id="2883" tvg-logo="http://epg.one/img2/2883.png" group-title="Германия | Germany",Sky Sport Austria 1 HD DE
 http://rhsbjv7k.tvclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/2492/index.m3u8
 
-#EXTINF:0 tvg-id="617" tvg-logo="http://epg.one/img2/617.png" group-title="Германия | Germany",Точка Отрыва HD
-http://rhsbjv7k.tvclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/20034/index.m3u8
-
-#EXTINF:0 tvg-id="9185" tvg-logo="http://epg.one/img2/9185.png" group-title="Германия | Germany",Якутия 24
-http://rhsbjv7k.tvclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/20015/index.m3u8
-
 #EXTINF:0 tvg-id="6435" tvg-logo="http://epg.one/img2/6435.png" group-title="Германия | Germany",sky Serien & Shows HD DE
 http://rhsbjv7k.tvclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/19003/index.m3u8
-
-#EXTINF:0 tvg-id="187" tvg-logo="http://epg.one/img2/187.png" group-title="Германия | Germany",Россия-Культура HD
-http://rhsbjv7k.tvclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/20016/index.m3u8
 
 #EXTINF:0 tvg-id="9024" tvg-logo="http://epg.one/img2/9024.png" group-title="Германия | Germany",КиноМульт
 http://rhsbjv7k.tvclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/20009/index.m3u8
@@ -2859,9 +2838,6 @@ http://rhsbjv7k.tvclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/20044/index.m3u8
 #EXTINF:0 tvg-id="3112" tvg-logo="http://epg.one/img2/3112.png" group-title="Германия | Germany",RTL 2 HD DE
 http://rhsbjv7k.tvclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6065/index.m3u8
 
-#EXTINF:0 tvg-id="477" tvg-logo="http://epg.one/img2/477.png" group-title="Германия | Germany",Любимое Кино HD
-http://rhsbjv7k.tvclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/20014/index.m3u8
-
 #EXTINF:0 tvg-id="9154" tvg-logo="http://epg.one/img2/9154.png" group-title="Германия | Germany",TravelXP CEE 4K
 http://rhsbjv7k.tvclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/20031/index.m3u8
 
@@ -2871,17 +2847,11 @@ http://rhsbjv7k.tvclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/15173/index.m3u8
 #EXTINF:0 tvg-id="2874" tvg-logo="http://epg.one/img2/2874.png" group-title="Германия | Germany",Spiegel Geschichte HD DE
 http://rhsbjv7k.tvclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6091/index.m3u8
 
-#EXTINF:0 tvg-id="9156" tvg-logo="http://epg.one/img2/9156.png" group-title="Германия | Germany",Ключ HD
-http://rhsbjv7k.tvclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/20041/index.m3u8
-
 #EXTINF:0 tvg-id="3123" tvg-logo="http://epg.one/img2/3123.png" group-title="Германия | Germany",Syfy HD DE
 http://rhsbjv7k.tvclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6092/index.m3u8
 
 #EXTINF:0 tvg-id="4483" tvg-logo="http://epg.one/img2/4483.png" group-title="Германия | Germany",Welt HD DE
 http://rhsbjv7k.tvclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/15169/index.m3u8
-
-#EXTINF:0 tvg-id="16" tvg-logo="http://epg.one/img2/16.png" group-title="Германия | Germany",Доктор HD
-http://rhsbjv7k.tvclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/20013/index.m3u8
 
 #EXTINF:0 tvg-id="6438" tvg-logo="http://epg.one/img2/6438.png" group-title="Германия | Germany",sky Cinema Fun HD DE
 http://rhsbjv7k.tvclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/19018/index.m3u8
@@ -2903,9 +2873,6 @@ http://rhsbjv7k.tvclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/15170/index.m3u8
 
 #EXTINF:0 tvg-id="6174" tvg-logo="http://epg.one/img2/6174.png" group-title="Германия | Germany",ZDF Info HD DE
 http://rhsbjv7k.tvclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/17042/index.m3u8
-
-#EXTINF:0 tvg-id="2444" tvg-logo="http://epg.one/img2/2444.png" group-title="Германия | Germany",Мужской HD
-http://rhsbjv7k.tvclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/20035/index.m3u8
 
 #EXTINF:0 tvg-id="3077" tvg-logo="http://epg.one/img2/3077.png" group-title="Германия | Germany",Comedy Central HD DE
 http://rhsbjv7k.tvclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6081/index.m3u8
