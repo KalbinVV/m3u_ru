@@ -177,9 +177,6 @@ http://rhsbjv7k.tvclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/727/index.m3u8
 #EXTINF:0 tvg-id="2287" tvg-logo="http://epg.one/img2/2287.png" group-title="Детские",Радость моя
 http://rhsbjv7k.tvclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/853/index.m3u8
 
-#EXTINF:-1 tvg-id="CartoonNetwork.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="Детские",Cartoon Network [1280x720]
-http://7f5ad5a8.tvclub.xyz/iptv/NGG8FXA8A4FG8S/143/index.m3u8
-
 #EXTINF:-1 tvg-id="mama" tvg-logo="https://epgx.site/p/mama.png" group-title="Детские",Мама (SDTV 576i)
 http://stream01.vnet.am/Mama/mono.m3u8
 
@@ -347,9 +344,6 @@ http://rhsbjv7k.tvclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/13026/index.m3u8
 
 #EXTINF:0 tvg-id="1757" tvg-logo="http://epg.one/img2/1757.png" group-title="Детские",О! orig
 http://rhsbjv7k.tvclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/9190/index.m3u8
-
-#EXTINF:-1 tvg-id="nickelodeon-ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/512px-Nickelodeon_2009_logo.svg.png" group-title="Детские",NICKELODEON SD
-http://7f5ad5a8.tvclub.xyz/iptv/NGG8FXA8A4FG8S/541/index.m3u8
 
 #EXTINF:0 tvg-id="6185" tvg-logo="http://epg.one/img2/6185.png" group-title="Детские",BCU Kids 4K
 http://rhsbjv7k.tvclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/17023/index.m3u8
