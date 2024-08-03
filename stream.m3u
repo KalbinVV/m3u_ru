@@ -379,7 +379,7 @@ http://188.113.190.11/53/video.m3u8
 http://stream01.vnet.am/Fox/mono.m3u8
 
 #EXTINF:-1 tvg-id="dorama" group-title="Кинозал",Дорама (HD)
-http://e624cd25.amazzin.pw/iptv/6DEAHBQBKUE29P/2130/index.m3u8
+http://e624cd25.amazzin.pw/iptv/6DEAHBQBKUE29P/2131/index.m3u8
 
 #EXTINF:-1 tvg-id="shot-tv" tvg-logo="https://epgx.site/p/shot-tv.png" group-title="Кинозал",SHOT TV (EDTV 576p)
 http://188.113.190.15/166/tracks-v1a1/index.m3u8
@@ -563,6 +563,16 @@ http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
 #EXTINF:-1 tvg-id="dozhd" group-title="Новостные", Дождь
 http://e624cd25.amazzin.pw/iptv/6DEAHBQBKUE29P/2030/index.m3u8
 
+#EXTINF:-1 tvg-id="nastoyaschee-vremia" group-title="Новостные", Настоящее время
+http://e624cd25.amazzin.pw/iptv/6DEAHBQBKUE29P/9179/index.m3u8
+
+#EXTINF:-1 tvg-id="rtvi" group-title="Новостные", RTVi
+http://e624cd25.amazzin.pw/iptv/6DEAHBQBKUE29P/2086/index.m3u8
+
+#EXTINF:-1 tvg-id="cctv-ru" group-title="Новостные", CGTN
+http://e624cd25.amazzin.pw/iptv/6DEAHBQBKUE29P/831/index.m3u8
+
+
 #Новостные (Конец)
 
 #Спортивные (Начало)
@@ -710,7 +720,7 @@ http://92.53.64.197:5050/rtg_hd/video.m3u8?token=m3VIth-Rou_bM1
 #EXTINF:-1 tvg-id="poexali" tvg-logo="https://epgx.site/p/poexali.png" group-title="Познавательные",Поехали! (EDTV 576p)
 http://188.113.190.15/206/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-id="discovery-science-pl" tvg-logo="https://epgx.site/p/discovery-channel.png" group-title="Познавательные",Discovery (HD)
+#EXTINF:-1 tvg-id="discovery-science" tvg-logo="https://epgx.site/p/discovery-channel.png" group-title="Познавательные",Discovery (HD)
 http://45.159.74.14/DiscoveryChannel/tracks-v1a2/mono.m3u8
 
 #EXTINF:-1 tvg-id="sovsek" tvg-logo="http://epg.it999.ru/img2/275.png" group-title="Познавательные",Top Secret (EDTV 576p)
@@ -734,7 +744,7 @@ http://45.159.74.14:80/AnimalPlanet/tracks-v1a2/mono.m3u8
 #EXTINF:-1 tvg-id="arsenaltv" tvg-logo="http://epg.it999.ru/img2/2768.png" group-title="Познавательные",Арсенал (HD)
 http://109.239.208.82:80/arsenal/index.m3u8
 
-#EXTINF:-1 tvg-id="discovery-science-pl" tvg-logo="https://epgx.site/p/discovery-channel.png" group-title="Познавательные",Discovery science (HD)
+#EXTINF:-1 tvg-id="discovery-science" tvg-logo="https://epgx.site/p/discovery-channel.png" group-title="Познавательные",Discovery science (HD)
 http://e624cd25.amazzin.pw/iptv/6DEAHBQBKUE29P/136/index.m3u8
 
 #Познавательные (Конец)
@@ -759,6 +769,9 @@ http://109.239.208.82:80/animals/index.m3u8
 #EXTINF:-1 tvg-id="rybalka-i-oxota" tvg-logo="http://epg.it999.ru/img2/2419.png" group-title="Хобби и увлечения",ОХОТА И РЫБАЛКА (EDTV 576p)
 http://188.113.190.15/69/tracks-v1a1/index.m3u8
 
+#EXTINF:-1 tvg-id="rybalka-i-oxota" tvg-logo="http://epg.it999.ru/img2/2419.png" group-title="Хобби и увлечения",Охота и рыбалка
+http://e624cd25.amazzin.pw/iptv/6DEAHBQBKUE29P/2019/index.m3u8
+
 #EXTINF:-1 tvg-id="muzhskoy" tvg-logo="http://epg.it999.ru/img2/2444.png" group-title="Хобби и увлечения",Мужской (EDTV 576p)
 http://188.113.190.11/64/tracks-v1a1/index.m3u8
 
@@ -766,7 +779,7 @@ http://188.113.190.11/64/tracks-v1a1/index.m3u8
 http://109.239.208.82:80/auto24/index.m3u8
 
 #EXTINF:-1 tvg-id="zagorodny" tvg-logo="http://epg.it999.ru/img2/2463.png" group-title="Хобби и увлечения",Загородный (HD)
-http://e624cd25.amazzin.pw/iptv/6DEAHBQBKUE29P/2078/index.m3u8
+http://e624cd25.amazzin.pw/iptv/6DEAHBQBKUE29P/2124/index.m3u8
 
 #EXTINF:-1 tvg-id="dikaya-oxota-hd" tvg-logo="http://epg.it999.ru/img2/2483.png" group-title="Хобби и увлечения",Дикая Охота (HD)
 http://stream01.vnet.am/Channel_127/mono.m3u8
@@ -807,6 +820,9 @@ http://188.113.190.15/68/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="zagorodnaya-zhizn" tvg-logo="https://epgx.site/p/zagorodnaya-zhizn.png" group-title="Хобби и увлечения",Загородная Жизнь (EDTV 576p)
 http://146.158.0.56/ZagorodnayaJizn/mono.m3u8
 
+#EXTINF:-1 tvg-id="zagorodnaya-zhizn" tvg-logo="https://epgx.site/p/zagorodnaya-zhizn.png" group-title="Хобби и увлечения",Загородная Жизнь
+http://e624cd25.amazzin.pw/iptv/6DEAHBQBKUE29P/7348/index.m3u8
+
 #EXTINF:-1 tvg-id="tlc" tvg-logo="https://epgx.site/p/tlc.png" group-title="Хобби и увлечения",TLC (EDTV 576p)
 http://81.7.108.21:9000/play/DiscoveryTLC-DVBC306-sti4400017090089
 
@@ -821,6 +837,9 @@ https://livetv.mylifeisgood.net.ru/channels/jiviactivno.m3u8
 
 #EXTINF:-1 tvg-id="lapki-live" tvg-logo="https://epgx.site/p/lapki-live.png" group-title="Хобби и увлечения",Лапки Live (EDTV 576p)
 http://91.247.68.229:8000/play/Lapki/index.m3u8
+
+#EXTINF:-1 tvg-id="pes-i-ko" tvg-logo="https://epgx.site/p/lapki-live.png" group-title="Хобби и увлечения",Пёс и ко
+http://e624cd25.amazzin.pw/iptv/6DEAHBQBKUE29P/2123/index.m3u8
 
 #EXTINF:-1 tvg-id="bobior" tvg-logo="https://epgx.site/p/bober.png" group-title="Хобби и увлечения",Бобер (EDTV 576p)
 http://178.212.71.253:8002/play/a00m/index.m3u8
