@@ -677,8 +677,18 @@ http://185.112.140.28/zoo_tv/index.m3u8
 #EXTINF:-1 tvg-id="nat-geo-wild" tvg-logo="https://epgx.site/p/nat-geo-wild.png" group-title="Познавательные",Nat Geo Wild (EDTV 576p)
 http://45.159.74.13:80/NatGeoWild/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="nat-geo-wild" tvg-logo="https://epgx.site/p/nat-geo-wild.png" group-title="Познавательные",Nat Geo Wild (HD)
+https://stream2.cinerama.uz/1042/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="national-geographic" tvg-logo="https://epgx.site/p/discovery-channel.png" group-title="Познавательные",National Geographics (HD)
-http://rhsbjv7k.tvclub.xyz/iptv/HW2USPFUYN593P/14001/index.m3u8
+https://stream2.cinerama.uz/1041/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="discovery-channel" tvg-logo="https://epgx.site/p/discovery-channel.png" group-title="Познавательные",Discovery Channel (HD)
+https://stream2.cinerama.uz/1039/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="discovery-science" tvg-logo="https://epgx.site/p/discovery-channel.png" group-title="Познавательные",Discovery Channel Science (HD)
+https://stream2.cinerama.uz/1040/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-id="nat-geo-wild" tvg-logo="https://epgx.site/p/discovery-channel.png" group-title="Познавательные",Nat geo (HD)
 http://rhsbjv7k.tvclub.xyz/iptv/HW2USPFUYN593P/2415/index.m3u8
