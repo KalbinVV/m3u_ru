@@ -338,7 +338,7 @@ http://188.113.190.15/228/tracks-v1a1/index.m3u8
 http://31.210.208.171:8080/tnt4/index.m3u8?token=+W2MSER
 
 #EXTINF:-1 tvg-id="yu" tvg-logo="https://epgx.site/p/yu.png" group-title="Развлекательные",Ю (HD ready)
-http://cdn-01.bonus-tv.ru/u/tracks-v1a1/mono.m3u8
+http://rhsbjv7k.tvclub.xyz/iptv/RL8MVW8UX8NNXK/534/index.m3u8
 
 #EXTINF:-1 tvg-id="tnt4" tvg-logo="https://iptvx.one/picons/tnt4.png" group-title="Развлекательные",ТНТ4 (EDTV 576p)
 http://31.210.208.171:8080/tnt4/index.m3u8?token=+W2MSER
@@ -877,8 +877,11 @@ http://188.113.190.15/188/video.m3u8
 #EXTINF:-1 tvg-id="russky-bestseller" tvg-logo="https://epgx.site/p/russky-bestseller.png" group-title="Русский кинозал",Русский бестселлер (EDTV 576p)
 http://91.142.158.107:8092/play/26/index.m3u8
 
-#EXTINF:-1 tvg-id="russky-roman" tvg-logo="https://epgx.site/p/russky-roman.png" group-title="Русский кинозал",Русский роман (HD)
-http://188.113.190.15/221/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="russky-roman" tvg-logo="https://epgx.site/p/russky-roman.png" group-title="Русский кинозал",Русский роман HD *
+http://sharingplus.net/iptv/GND3B9YB2KUEYX/2076/index.m3u8|type=m3u
+
+#EXTINF:-1 tvg-id="russky-roman" tvg-logo="https://epgx.site/p/russky-roman.png" group-title="Русский кинозал",Русский роман *
+http://rhsbjv7k.tvclub.xyz/iptv/RL8MVW8UX8NNXK/906/index.m3u8
 
 #EXTINF:-1 tvg-id="mosfilm" tvg-logo="https://iptvx.one/picons/mosfilm.png" group-title="Русский кинозал",Мосфильм. Золотая коллекция (HD)
 http://185.50.148.2:7706/Mosfilm/index.m3u8
@@ -888,9 +891,6 @@ http://91.142.158.107:8092/play/26/index.m3u8
 
 #EXTINF:-1 tvg-id="russky-detektiv" tvg-logo="https://iptvx.one/picons/russky-detektiv.png" group-title="Русский кинозал",Русский детектив (EDTV 576p)
 http://91.142.158.107:8092/play/27/index.m3u8
-
-#EXTINF:-1 tvg-id="russky-roman" tvg-logo="https://iptvx.one/picons/russky-roman.png" group-title="Русский кинозал",Русский роман (HD)
-http://91.142.158.107:8092/play/25/index.m3u8
 
 #EXTINF:-1 tvg-id="denpobedy" tvg-logo="https://epgx.site/p/denpobedy.png" group-title="Русский кинозал",День Победы (HD ready)
 https://livetv.mylifeisgood.net.ru/channels/dcad9e4e7150ef14312ec85b9f2a002e.m3u8
@@ -928,6 +928,15 @@ http://77.235.1.17/nash_kinoroman_hd/index.m3u8
 #Русский кинозал (Конец)
 
 #Новостные (Начало)
+
+#EXTINF:-1 tvg-id="dozhd" tvg-logo="https://epgx.site/p/rossia-24.png" group-title="Новостные",Дождь
+http://rhsbjv7k.tvclub.xyz/iptv/RL8MVW8UX8NNXK/2030/index.m3u8
+
+#EXTINF:-1 tvg-id="rbk" tvg-logo="https://epgx.site/p/rossia-24.png" group-title="Новостные",РБК
+http://rhsbjv7k.tvclub.xyz/iptv/RL8MVW8UX8NNXK/106/index.m3u8
+
+#EXTINF:-1 tvg-id="nastoyaschee-vremia" group-title="Новостные" tvg-logo="http://epg.one/img2/2142.png" tvg-rec="3",Настоящее время HD
+http://rhsbjv7k.tvclub.xyz/iptv/RL8MVW8UX8NNXK/9179/index.m3u8
 
 #EXTINF:-1 tvg-id="rossia1" tvg-logo="https://epgx.site/p/rossia-24.png" group-title="Новостные",Россия 24 (WSVGA)
 https://player.smotrim.ru/iframe/stream/live_id/21
