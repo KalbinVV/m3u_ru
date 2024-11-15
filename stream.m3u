@@ -932,8 +932,8 @@ http://77.235.1.17/nash_kinoroman_hd/index.m3u8
 #EXTINF:-1 tvg-id="dozhd" tvg-logo="https://epgx.site/p/rossia-24.png" group-title="Новостные",Дождь
 http://rhsbjv7k.tvclub.xyz/iptv/RL8MVW8UX8NNXK/2030/index.m3u8
 
-#EXTINF:-1 tvg-id="rbk" tvg-logo="https://epgx.site/p/rossia-24.png" group-title="Новостные",РБК
-http://rhsbjv7k.tvclub.xyz/iptv/RL8MVW8UX8NNXK/106/index.m3u8
+#EXTINF:-1 tvg-id="rbk" tvg-logo="http://epg.it999.ru/img2/743.png" group-title="Новостные",РБК (HD)
+http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
 
 #EXTINF:-1 tvg-id="nastoyaschee-vremia" group-title="Новостные" tvg-logo="http://epg.one/img2/2142.png" tvg-rec="3",Настоящее время HD
 http://rhsbjv7k.tvclub.xyz/iptv/RL8MVW8UX8NNXK/9179/index.m3u8
