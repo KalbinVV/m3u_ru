@@ -1219,8 +1219,10 @@ http://dmi3y-tv.ru/hls/CH_RZHDTV.m3u8
 http://dmi3y-tv.ru/hls/CH_RZHDTVHD.m3u8
 #EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",ВМЕСТЕ РФ HD
 http://dmi3y-tv.ru/hls/CH_VMESTERFHD.m3u8
-#EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",Соловьев Live HD (auto)
-http://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1.m3u8
+#EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",Дождь HD (Нестабильный)
+https://m3u8.ott.blue/watch/7319/video.m3u8?geo=auto&token=94450098895765784220366841698509
+#EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",Настоящее время HD (Нестабильный)
+http://cdn.klimedia.space/lb/nastyvremy/index.m3u8?token=klimedia.space:YmlrbG86aW9wYTU1
 #EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",CNN HD (English)
 http://dmi3y-tv.ru/hls/CH_CNNHD.m3u8
 #EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",Большая Азия
