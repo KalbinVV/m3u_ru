@@ -1222,7 +1222,7 @@ http://dmi3y-tv.ru/hls/CH_VMESTERFHD.m3u8
 #EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",Дождь HD (Нестабильный)
 https://m3u8.ott.blue/watch/7319/video.m3u8?geo=auto&token=94450098895765784220366841698509
 #EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",Настоящее время HD (Нестабильный)
-http://cdn.klimedia.space/lb/nastyvremy/index.m3u8?token=klimedia.space:YmlrbG86aW9wYTU1
+https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8
 #EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",CNN HD (English)
 http://dmi3y-tv.ru/hls/CH_CNNHD.m3u8
 #EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",Большая Азия
