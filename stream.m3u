@@ -1,4 +1,4 @@
-﻿#EXTM3U
+#EXTM3U
 #EXTINF:-1 group-title="Каналы от Dmitry-tv",D-TV6
 http://dmitry-tv.ddns.net:8666/his/CH_D-TV6
 #EXTINF:-1 group-title="Каналы от Dmitry-tv",Dmitry-tv HD
@@ -7,8 +7,6 @@ http://dmitry-tv.ddns.net:8000/his/CH_DMITRY-TVHD
 http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV-1.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ",Первый канал
 http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Первый канал HD
-http://dmi3y-tv.ru/hls/T2/CH_1TVHD.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ",Первый канал (+2)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV_2.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ",Первый канал (+4)
@@ -51,8 +49,6 @@ http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIA1HD_8.m3u8
 http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA1_9.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 HD (+9)
 http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIA1HD_9.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Матч!
-http://dmi3y-tv.ru/hls/DVB-T2/CH_MATCHTV.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ",НТВ (-1)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_NTV-1.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ",НТВ
@@ -83,16 +79,22 @@ http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV_7.m3u8
 http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIAK-1.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ",Россия К
 http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIAK.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия К HD (auto)
-http://player.smotrim.ru/iframe/stream/live_id/381308c7-a066-4c4f-9656-83e2e792a7b4.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия К HD
+http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIAKHD.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ",Россия К (+2)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIAK_2.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия К HD (+2)
+http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIAKHD_2.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ",Россия К (+4)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIAK_4.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия К HD (+4)
+http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIAKHD_4.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ",Россия К (+6)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIAK_6.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ",Россия К (+7)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIAK_7.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия К HD (+7)
+http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIAKHD_7.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ",PLANETA RTR HD720 (EURO) (auto)
 http://player.smotrim.ru/iframe/stream/live_id/d7fef212-df66-485d-9952-7eab82d7d51b.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 24
@@ -415,8 +417,6 @@ http://dmi3y-tv.ru/hls/zabava/region/IZHSK/CH_MYUDMURTIA.m3u8
 http://dmi3y-tv.ru/hls/region/CH_INGUSHETIYAHD720_ING.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",МЭТР (Йошкар-Ола)
 http://dmi3y-tv.ru/hls/zabava/region/YOLA/CH_METR.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",АИСТ (Иркутск)
-http://dmi3y-tv.ru/hls/region/CH_AIST_IRK.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",АИСТ HD (Иркутск)
 http://dmi3y-tv.ru/hls/zabava/region/IRK/CH_AISTHD.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",АКТИС HD720 (Иркутск)
@@ -533,6 +533,10 @@ http://dmi3y-tv.ru/hls/zabava/region/MOS/CH_MOSKVADOVERIE.m3u8
 http://dmi3y-tv.ru/hls/zabava/region/MOS/CH_TEOTVHD.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Мособр ТВ HD720 (Москва)
 http://dmi3y-tv.ru/hls/region/CH_MOSOBRTVHD720_MOS.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",АРКТИК ТВ HD (Мурманск)
+http://dmi3y-tv.ru/hls/zabava/region/MURM/CH_ARCTICHD.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",НЖК (Мурманск)
+http://dmi3y-tv.ru/hls/zabava/region/MURM/CH_NZHK.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Кабардино-Балкария HD (Нальчик)
 http://dmi3y-tv.ru/hls/zabava/region/NALCH/CH_KBR.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Север (Нарьян-Мар)
@@ -555,6 +559,8 @@ http://dmi3y-tv.ru/hls/smotrim/region/CH_NN24HD_NN.m3u8
 http://dmi3y-tv.ru/hls/zabava/region/NN/CH_KANAL16_SAROV.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Дзержинск ТВ HD (Дзержинск)
 http://dmi3y-tv.ru/hls/zabava/region/NN/CH_DZERZHINSKHD.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",НЖК (Нижний Новгород)
+http://dmi3y-tv.ru/hls/zabava/region/NN/CH_NZHK.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Эхо ТВ 24 (Новоуральск)
 http://dmi3y-tv.ru/hls/region/CH_ECHOTV24_NURLSK.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Тагил-ТВ (Нижний Тагил)
@@ -565,6 +571,8 @@ http://dmi3y-tv.ru/hls/zabava/region/NVKZ/CH_DESYATKA.m3u8
 http://dmi3y-tv.ru/hls/zabava/region/NVKZ/CH_PROZHIZNHD.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Новороссийск HD (Новороссийск)
 http://dmi3y-tv.ru/hls/zabava/region/NVR/CH_NOVOROSSIYSKHD.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ОТС HD (Бердск)
+http://dmi3y-tv.ru/hls/zabava/region/NSK/CH_OTSHD_BERDSK.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ОТС HD (Новосибирск)
 http://dmi3y-tv.ru/hls/zabava/region/NSK/CH_OTSHD.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",НСК 49 канал (Новосибирск)
@@ -625,13 +633,14 @@ http://dmi3y-tv.ru/hls/zabava/region/PERM/CH_VETTA24.m3u8
 http://dmi3y-tv.ru/hls/zabava/region/PERM/CH_RIFEY.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Верх ТВ (Березники)
 http://dmi3y-tv.ru/hls/zabava/region/PERM/CH_VERHTV_BRZKI.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Своё ТВ (Березники)
+http://dmi3y-tv.ru/hls/zabava/region/PERM/CH_SVOETV_BRZKI.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ЛТК HD (Лысьва)
 http://dmi3y-tv.ru/hls/zabava/region/PERM/CH_LTKHD_LSVA.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",СОЮЗ ТВ (Чусовой)
 http://dmi3y-tv.ru/hls/zabava/region/PERM/CH_SOYUZ_CHUS.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Сампо ТВ (Петрозаводск)
 http://dmi3y-tv.ru/hls/zabava/region/PZAV/CH_SAMPOTV.m3u8
-
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Первый Ростовский HD (Ростов на Дону)
 http://dmi3y-tv.ru/hls/zabava/region/RD/CH_1ROSTOVSKIYHD.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ДОН 24 (Ростов на Дону)
@@ -688,6 +697,8 @@ http://dmi3y-tv.ru/hls/zabava/region/SARATOV/CH_SARATOV24HD.m3u8
 http://dmi3y-tv.ru/hls/zabava/region/DV_SLIN_OBL/CH_OTV_SLIN.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",АСТВ (Сахалин)
 http://dmi3y-tv.ru/hls/zabava/region/DV_SLIN/CH_ACTV.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Известия (Сахалин)
+http://dmi3y-tv.ru/hls/zabava/region/DV_SLIN/CH_IZVESTIYA.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ТРК-555 (Алушта)
 http://dmi3y-tv.ru/hls/zabava/region/SMRPL/CH_TRK555_ALUSHTA.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ТРК-555 HD (Алушта)
@@ -720,20 +731,22 @@ http://dmi3y-tv.ru/hls/zabava/region/SMRPL/CH_KRYM24.m3u8
 http://dmi3y-tv.ru/hls/region/CH_KRYM24HD720_SMRPL.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",КРЫМ 24 HD (Симферополь)
 http://dmi3y-tv.ru/hls/zabava/region/SMRPL/CH_KRYM24HD.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Первый Севастопольский (Севастополь)
+http://dmi3y-tv.ru/hls/zabava/region/SMRPL/CH_1SEVASTOPOL_SVTPL.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Сочи 24 HD (Сочи)
 http://dmi3y-tv.ru/hls/zabava/region/SOCHI/CH_SOCHI24HD.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",SOCHI LIVE HD720 (Сочи)
 http://dmi3y-tv.ru/hls/region/CH_SOCHILIVEHD720_SOCHI.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Кавказ 24 (Ставрополь)
 http://dmi3y-tv.ru/hls/zabava/region/STAVR/CH_KAVKAZ24.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Кавказ 24 HD (Ставрополь)
+http://dmi3y-tv.ru/hls/smotrim/region/CH_KAVKAZ24HD_STAVR.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",СВОЁ ТВ (Ставрополь)
 http://dmi3y-tv.ru/hls/region/CH_SVOETV_STAVR.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",СВОЁ ТВ HD (Ставрополь)
 http://dmi3y-tv.ru/hls/zabava/region/STAVR/CH_SVOETVHD.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",АТВ (Ставрополь)
 http://dmi3y-tv.ru/hls/zabava/region/STAVR/CH_ATV.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",9 Волна (Лермонтов)
-http://dmi3y-tv.ru/hls/region/CH_9VOLNA_STAVR_KRAI.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Югра HD (Сургут)
 http://dmi3y-tv.ru/hls/zabava/region/SUR/CH_UGRA.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",UGRA Travel (Сургут)
@@ -750,6 +763,8 @@ http://dmi3y-tv.ru/hls/zabava/region/SUR/CH_C86HD.m3u8
 http://dmi3y-tv.ru/hls/zabava/region/SUR/CH_SURGUT24HD.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Первый советский HD (Сургут)
 http://dmi3y-tv.ru/hls/zabava/region/SUR/CH_1SOVETSKIYHD.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Регион 67 (Смоленск)
+http://212.3.155.126:8181/udp/233.67.67.177:5510
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Второй канал (Радужный)
 http://dmi3y-tv.ru/hls/zabava/region/SUR/CH_2TV_RADUZHNY.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Наши города HD (Когалым)
@@ -772,8 +787,6 @@ http://dmi3y-tv.ru/hls/zabava/region/SUR/CH_MEGAPOLISHD.m3u8
 http://dmi3y-tv.ru/hls/zabava/region/SKTV/CH_YURGAN.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",СТВ/Продвижение (Стрежевой)
 http://dmi3y-tv.ru/hls/region/CH_STV_SRVOY.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Саров 24 HD720 (Саров)
-http://dmi3y-tv.ru/hls/region/CH_SAROV24HD720_SAROV.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Новый век (Тамбов)
 http://dmi3y-tv.ru/hls/zabava/region/TAMB/CH_NOVIY_VEK.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Новый век HD720 (Тамбов)
@@ -882,10 +895,6 @@ http://dmi3y-tv.ru/hls/region/CH_1YAROSLAVSKIY_YARL.m3u8
 http://dmi3y-tv.ru/hls/zabava/region/YARL/CH_1YAROSLAVSKIYHD.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ГТ-Регион (Ярославль)
 http://dmi3y-tv.ru/hls/zabava/region/YARL/CH_GTREG.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ТВ ПОИСК (Клин)
-http://dmi3y-tv.ru/hls/region/CH_TVPOISK_KLIN.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ТВ ПОИСК HD720 (Клин)
-http://dmi3y-tv.ru/hls/region/CH_TVPOISKHD720_KLIN.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",МИТВ (Местное Илимское TV)
 http://193.33.233.109:9000/tv
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Луганск 24 (Луганск)
@@ -956,12 +965,6 @@ http://dmi3y-tv.ru/hls/CH_AMEDIAHITHD.m3u8
 http://dmi3y-tv.ru/hls/CH_ATVBAZMOCTVHD.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",КИНЕКО
 http://dmi3y-tv.ru/hls/CH_KINEKO.m3u8
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",TV1000 РУССКОЕ КИНО
-http://dmi3y-tv.ru/hls/CH_TV1000RUSSKOEKINO.m3u8
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Русский роман
-http://dmi3y-tv.ru/hls/CH_RUSSKIY_ROMAN.m3u8
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Русский роман HD (!)
-http://2f1e7a14.ucomist.net/iptv/RTY4G8ZZFCVNM4/2076/index.m3u8
 #EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",2x2 (-1)
 http://dmi3y-tv.ru/hls/zabava/CH_2X2-1.m3u8
 #EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",2x2
@@ -1056,8 +1059,6 @@ http://dmi3y-tv.ru/hls/CH_MAMA.m3u8
 http://dmi3y-tv.ru/hls/CH_TIJI.m3u8
 #EXTINF:-1 group-title="ДЕТСКИЕ",CARTOONITO HD
 http://dmi3y-tv.ru/hls/CH_CARTOONITOHD.m3u8
-#EXTINF:-1 group-title="ДЕТСКИЕ",Cartoon Network
-http://dmi3y-tv.ru/hls/CH_CARTOONNETWORK.m3u8
 #EXTINF:-1 group-title="ДЕТСКИЕ",Ani
 http://dmi3y-tv.ru/hls/CH_ANI.m3u8
 #EXTINF:-1 group-title="ДЕТСКИЕ",МУЛЬТ
@@ -1118,8 +1119,8 @@ http://dmi3y-tv.ru/hls/CH_RTGHD720.m3u8
 http://dmi3y-tv.ru/hls/CH_NANOTVHD.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",ЕГЭ ТВ
 http://dmi3y-tv.ru/hls/CH_EGETV.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Охотник и рыболов HD
-http://dmi3y-tv.ru/hls/CH_OHOTNIKIRYBOLOVHD.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Наука 2.0
+http://dmi3y-tv.ru/hls/CH_NAUKA20.m3u8
 #EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ",Муз Союз
 http://dmi3y-tv.ru/hls/CH_MUZSOYUZ.m3u8
 #EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ",OCKO HITY
@@ -1138,6 +1139,8 @@ http://rtmp.one.by:1300
 http://rtmp.one.by:2200
 #EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ",OneBY HD [RUS]
 http://rtmp.one.by:2300
+#EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ",BRIDGE TV
+http://dmi3y-tv.ru/hls/CH_BRIDGETV.m3u8
 #EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ",BRIDGE TV HITS
 http://dmi3y-tv.ru/hls/CH_BRIDGETV_HITS.m3u8
 #EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ",BRIDGE TV РУССКИЙ ХИТ
@@ -1196,20 +1199,10 @@ http://dmi3y-tv.ru/hls/CH_MIR24.m3u8
 http://dmi3y-tv.ru/hls/CH_MIR24HD.m3u8
 #EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",РБК
 http://dmi3y-tv.ru/hls/CH_RBK.m3u8
-#EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",Дождь (!)
-http://2f1e7a14.ucomist.net/iptv/RTY4G8ZZFCVNM4/2030/index.m3u8
-#EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",Дождь HD (!)
-http://2f1e7a14.ucomist.net/iptv/RTY4G8ZZFCVNM4/20083/index.m3u8
-#EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",Настоящее время HD (!)
-http://2f1e7a14.ucomist.net/iptv/RTY4G8ZZFCVNM4/9179/index.m3u8
-#EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",Настоящее время (!)
-http://2f1e7a14.ucomist.net/iptv/RTY4G8ZZFCVNM4/986/index.m3u8
 #EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",РБК HD
 http://dmi3y-tv.ru/hls/CH_RBKHD.m3u8
 #EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",Красная линия
 http://dmi3y-tv.ru/hls/CH_REDLINE.m3u8
-#EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",1-вый Национальный канал HD720
-http://dmi3y-tv.ru/hls/CH_1RNKHD720.m3u8
 #EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",RT
 http://dmi3y-tv.ru/hls/CH_RT.m3u8
 #EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",RT HD
@@ -1224,8 +1217,10 @@ http://dmi3y-tv.ru/hls/zabava/CH_VSETVHD.m3u8
 http://dmi3y-tv.ru/hls/CH_RZHDTV.m3u8
 #EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",РЖД ТВ HD
 http://dmi3y-tv.ru/hls/CH_RZHDTVHD.m3u8
-#EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",TV BRICS HD [RUS]
-http://dmi3y-tv.ru/hls/CH_TVBRICSHD_RUS.m3u8
+#EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",ВМЕСТЕ РФ HD
+http://dmi3y-tv.ru/hls/CH_VMESTERFHD.m3u8
+#EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",Соловьев Live HD (auto)
+http://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1.m3u8
 #EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",CNN HD (English)
 http://dmi3y-tv.ru/hls/CH_CNNHD.m3u8
 #EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",Большая Азия
@@ -1293,1316 +1288,147 @@ http://dmi3y-tv.ru/hls/blrus/CH_OHTHD.m3u8
 #EXTINF:-1 group-title="БЕЛАРУСЬ [BY]",БелРос (Беларусь)
 http://dmi3y-tv.ru/hls/blrus/CH_BELROS.m3u8
 
-# Немецкие каналы (нестабильный поток)
-#EXTINF:-1 tvg-id="vox.de" tvg-name="DE: VOX HD" tvg-logo="" group-title="Germany",DE: VOX HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/694549.ts
-#EXTINF:-1 tvg-id="sport1plus.de" tvg-name="DE: SPORT1+ HD" tvg-logo="" group-title="Germany",DE: SPORT1+ HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/740799.ts
-#EXTINF:-1 tvg-id="anixe.de" tvg-name="DE: ANIXE HD" tvg-logo="" group-title="Germany",DE: ANIXE HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/748730.ts
-#EXTINF:-1 tvg-id="skykrimi.de" tvg-name="DE: SKY KRIMI HD" tvg-logo="http://files.rednetcontent.com/chlogo2/German/Sky_Krimi_HD_DE_Logo_2017.png" group-title="Germany",DE: SKY KRIMI HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/812232.ts
-#EXTINF:-1 tvg-id="skysportf1.de" tvg-name="DE: SKY SPORT F1 HD" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/sky_logo_sky-sport-f1.png" group-title="Germany",DE: SKY SPORT F1 HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/812285.ts
-#EXTINF:-1 tvg-id="history.de" tvg-name="DE: HISTORY HD" tvg-logo="" group-title="Germany",DE: HISTORY HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/829764.ts
-#EXTINF:-1 tvg-id="ProSieben FUN.de" tvg-name="DE: PROSIEBEN HD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/germany/pro-sieben-de.png?raw=true" group-title="Germany",DE: PROSIEBEN HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/832227.ts
-#EXTINF:-1 tvg-id="123tv.de" tvg-name="DE: SAT.1 HD" tvg-logo="" group-title="Germany",DE: SAT.1 HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/832240.ts
-#EXTINF:-1 tvg-id="tagesschau24.de" tvg-name="DE: TAGESSCHAU24 HD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/germany/tagesschau24-de.png?raw=true" group-title="Germany",DE: TAGESSCHAU24 HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/832285.ts
-#EXTINF:-1 tvg-id="tele5.de" tvg-name="DE: TELE 5 HD" tvg-logo="" group-title="Germany",DE: TELE 5 HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/832286.ts
-#EXTINF:-1 tvg-id="123tv.de" tvg-name="DE: UNIVERSAL TV HD" tvg-logo="" group-title="Germany",DE: UNIVERSAL TV HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/832291.ts
-#EXTINF:-1 tvg-id="eurosport1.de" tvg-name="DE: SPORT1 HD" tvg-logo="" group-title="Germany",DE: SPORT1 HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/869884.ts
-#EXTINF:-1 tvg-id="rtlup.de" tvg-name="DE: RTL UP HD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/germany/rtl-up-de.png?raw=true" group-title="Germany",DE: RTL UP HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/875495.ts
-#EXTINF:-1 tvg-id="skysport2.de" tvg-name="DE: SKY SPORT 2 FHD" tvg-logo="http://xfeed.pro:8080/images/jLANZ_vR_7-iIly5VRBCB2Wkrp1TeoQHN1CsvuQ9jghMUOkl9_HTlXXVdcGophEtPspw489GccqLnu0k29DzWYqgegX3bmXannA5ImLUm0K9UlGF7H-Ow1EFQNYoYWaBI_44iRj44d5ptfuKdA2fXto8lcMEy4trpAMVnP12z5sZlSiwh3IwlB874KmkW6cYI1qeJIRL9WZ8OMNzbY5TlPBhl3OGW0K0P2gcauJ8yfA.png" group-title="Germany",DE: SKY SPORT 2 FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/882605.ts
-#EXTINF:-1 tvg-id="cartoonnetwork.de" tvg-name="DE: CARTOON NETWORK SD" tvg-logo="" group-title="Germany",DE: CARTOON NETWORK SD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/885378.ts
-#EXTINF:-1 tvg-id="deutschewelle.de" tvg-name="DE: SKY SELECT 10 FHD" tvg-logo="http://89.163.242.179:8080/images/b39aa27cdaf08fd6e69b87c49b84f1f3.png" group-title="Germany",DE: SKY SELECT 10 FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/886097.ts
-#EXTINF:-1 tvg-id="skyselect6.de" tvg-name="DE: SKY SELECT 6 FHD" tvg-logo="http://xplatinmedia.com:8080/images/ee042dc7444d776bab849e819be8d05e.png" group-title="Germany",DE: SKY SELECT 6 FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/886103.ts
-#EXTINF:-1 tvg-id="skyselect9.de" tvg-name="DE: SKY SELECT 9 FHD" tvg-logo="http://xplatinmedia.com:8080/images/ee042dc7444d776bab849e819be8d05e.png" group-title="Germany",DE: SKY SELECT 9 FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/886107.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: WARNER TV BROS SERIE FHD" tvg-logo="http://files.rednetcontent.com/chlogo2/German/warner-tv-serie-us.png" group-title="Germany",DE: WARNER TV BROS SERIE FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/896009.ts
-#EXTINF:-1 tvg-id="19022" tvg-name="DE: VOXUP HD" tvg-logo="" group-title="Germany",DE: VOXUP HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/899035.ts
-#EXTINF:-1 tvg-id="hgtv.de" tvg-name="DE: HGTV HD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/germany/hgtv-de.png?raw=true" group-title="Germany",DE: HGTV HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/924303.ts
-#EXTINF:-1 tvg-id="skybundesliga2.de" tvg-name="DE: SKY SPORT BUNDESLIGA 2 FHD" tvg-logo="" group-title="Germany",DE: SKY SPORT BUNDESLIGA 2 FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/929387.ts
-#EXTINF:-1 tvg-id="deluxemusic.de" tvg-name="DE: DELUXE MUSIC HD" tvg-logo="" group-title="Germany",DE: DELUXE MUSIC HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/932320.ts
-#EXTINF:-1 tvg-id="skysport7.de" tvg-name="DE: SKY SPORT 7 HD" tvg-logo="http://xfeed.pro:8080/images/jLANZ_vR_7-iIly5VRBCB2Wkrp1TeoQHN1CsvuQ9jghMUOkl9_HTlXXVdcGophEtPspw489GccqLnu0k29DzWYqgegX3bmXannA5ImLUm0K9UlGF7H-Ow1EFQNYoYWaBI_44iRj44d5ptfuKdA2fXto8lcMEy4trpAMVnP12z5vUpX90QCs2cL-KdYuEaU0hkrgliS618OrKINNeXXbMyh6Zw9NOeoDufFm1Znd2YeA.png" group-title="Germany",DE: SKY SPORT 7 HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/946948.ts
-#EXTINF:-1 tvg-id="warnerfilm.de" tvg-name="DE: WARNER TV FILM HD" tvg-logo="" group-title="Germany",DE: WARNER TV FILM HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/951130.ts
-#EXTINF:-1 tvg-id="skysport3.de" tvg-name="DE: SKY SPORT 3 HD" tvg-logo="" group-title="Germany",DE: SKY SPORT 3 HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/953555.ts
-#EXTINF:-1 tvg-id="skybundesliga10.de" tvg-name="DE: SKY SPORT BUNDESLIGA 1 FHD" tvg-logo="" group-title="Germany",DE: SKY SPORT BUNDESLIGA 1 FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/953565.ts
-#EXTINF:-1 tvg-id="skyselect3.de" tvg-name="DE: SKY SELECT 3 FHD" tvg-logo="http://xplatinmedia.com:8080/images/ee042dc7444d776bab849e819be8d05e.png" group-title="Germany",DE: SKY SELECT 3 FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/962514.ts
-#EXTINF:-1 tvg-id="skyselect4.de" tvg-name="DE: SKY SELECT 4 FHD" tvg-logo="http://xplatinmedia.com:8080/images/ee042dc7444d776bab849e819be8d05e.png" group-title="Germany",DE: SKY SELECT 4 FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/963364.ts
-#EXTINF:-1 tvg-id="skycinemabestofhd.de" tvg-name="DE: SKY CINEMA BEST OF FHD" tvg-logo="" group-title="Germany",DE: SKY CINEMA BEST OF FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/968347.ts
-#EXTINF:-1 tvg-id="skycinemaaction.de" tvg-name="DE: SKY CINEMA ACTION SD" tvg-logo="http://tvlogo.xyz/Germany/SKYCINEMAACTIONHD.png" group-title="Germany",DE: SKY CINEMA ACTION SD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/970954.ts
-#EXTINF:-1 tvg-id="ntv.de" tvg-name="DE: N-TV HD" tvg-logo="" group-title="Germany",DE: N-TV HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/971287.ts
-#EXTINF:-1 tvg-id="classica.de" tvg-name="DE: STINGRAY CLASSICA FHD" tvg-logo="" group-title="Germany",DE: STINGRAY CLASSICA FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/971315.ts
-#EXTINF:-1 tvg-id="kabeleinsdoku.de" tvg-name="DE: KABEL 1 DOKU FHD" tvg-logo="" group-title="Germany",DE: KABEL 1 DOKU FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/972482.ts
-#EXTINF:-1 tvg-id="natgeo.de" tvg-name="DE: NATIONAL GEOGRAPHIC HD" tvg-logo="" group-title="Germany",DE: NATIONAL GEOGRAPHIC HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/973427.ts
-#EXTINF:-1 tvg-id="animalplanet.de" tvg-name="DE: ANIMAL PLANET HD" tvg-logo="" group-title="Germany",DE: ANIMAL PLANET HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/974847.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: CRIME INVESTIGATION [FHD] FHD" tvg-logo="http://landiptv.vip:2095/images/ftJ4lJYOKX8Jfo7B9dK61KtUJe604Dy3j1keYV9yCGaRv5eaNx92jsLwmPzx-4z8VLPK_RubLbXjNaBclblfnbtR_TR7HRABLuBS5j6X6Ao.png" group-title="Germany",DE: CRIME INVESTIGATION [FHD] FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/974854.ts
-#EXTINF:-1 tvg-id="rtlcrime.de" tvg-name="DE: RTL CRIME HD" tvg-logo="" group-title="Germany",DE: RTL CRIME HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/974900.ts
-#EXTINF:-1 tvg-id="sky1.de" tvg-name="DE: SKY ONE HD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/germany/sky-one-de.png?raw=true" group-title="Germany",DE: SKY ONE HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/974927.ts
-#EXTINF:-1 tvg-id="sportdigital.de" tvg-name="DE: SPORT DIGITAL FHD" tvg-logo="" group-title="Germany",DE: SPORT DIGITAL FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/974947.ts
-#EXTINF:-1 tvg-id="skybundesliga.de" tvg-name="DE: SKY SPORT BUNDESLIGA FHD" tvg-logo="" group-title="Germany",DE: SKY SPORT BUNDESLIGA FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/986246.ts
-#EXTINF:-1 tvg-id="Travelxp.de" tvg-name="DE: TRAVELXP FHD" tvg-logo="" group-title="Germany",DE: TRAVELXP FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/992920.ts
-#EXTINF:-1 tvg-id="skybundesliga7.de" tvg-name="DE: SKY SPORT BUNDESLIGA 7 FHD" tvg-logo="http://109.238.11.8:25461/logo/tv/ss/sky_de_sport_bundesliga.png" group-title="Germany",DE: SKY SPORT BUNDESLIGA 7 FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/994517.ts
-#EXTINF:-1 tvg-id="skyatlantic.de" tvg-name="DE: SKY ATLANTIC HEVC" tvg-logo="http://tv.iptvboss.net/ch_logo/SKYATLANTICHD.png" group-title="Germany",DE: SKY ATLANTIC HEVC
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/997933.ts
-#EXTINF:-1 tvg-id="Sport 6 - myTeamTV.de" tvg-name="DE: SPORT 6 - MYTEAMTV HD" tvg-logo="" group-title="Germany",DE: SPORT 6 - MYTEAMTV HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1003181.ts
-#EXTINF:-1 tvg-id="123tv.de" tvg-name="DE: SONY CHANNEL FHD" tvg-logo="" group-title="Germany",DE: SONY CHANNEL FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1004793.ts
-#EXTINF:-1 tvg-id="warnerserie.de" tvg-name="DE: WARNER TV SERIE FHD" tvg-logo="http://files.rednetcontent.com/chlogo2/German/warner-tv-serie-us.png" group-title="Germany",DE: WARNER TV SERIE FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1008526.ts
-#EXTINF:-1 tvg-id="skycinemapremieren.de" tvg-name="DE: SKY CINEMA PREMIEREN HEVC" tvg-logo="" group-title="Germany",DE: SKY CINEMA PREMIEREN HEVC
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1011257.ts
-#EXTINF:-1 tvg-id="discoverychannel.de" tvg-name="DE: DISCOVERY CHANNEL FHD" tvg-logo="" group-title="Germany",DE: DISCOVERY CHANNEL FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1011820.ts
-#EXTINF:-1 tvg-id="eurosport2.de" tvg-name="DE: EUROSPORT 2 FHD" tvg-logo="http://109.238.11.8:25461/logo/tv/ee/eurosport_fr_2.png" group-title="Germany",DE: EUROSPORT 2 FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1011826.ts
-#EXTINF:-1 tvg-id="Red Bull TV.de" tvg-name="DE: RED BULL TV HD" tvg-logo="" group-title="Germany",DE: RED BULL TV HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1011856.ts
-#EXTINF:-1 tvg-id="rtlup.de" tvg-name="DE: RTLUP HD" tvg-logo="" group-title="Germany",DE: RTLUP HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1011865.ts
-#EXTINF:-1 tvg-id="123tv.de" tvg-name="DE: SAT.1 GOLD HD" tvg-logo="" group-title="Germany",DE: SAT.1 GOLD HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1011870.ts
-#EXTINF:-1 tvg-id="superrtl.de" tvg-name="DE: SUPER RTL HD" tvg-logo="" group-title="Germany",DE: SUPER RTL HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1011896.ts
-#EXTINF:-1 tvg-id="rtlcrime.de" tvg-name="DE: TLC HD" tvg-logo="" group-title="Germany",DE: TLC HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1015271.ts
-#EXTINF:-1 tvg-id="eurosport1.de" tvg-name="DE: EUROSPORT 1 HD" tvg-logo="" group-title="Germany",DE: EUROSPORT 1 HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1015997.ts
-#EXTINF:-1 tvg-id="disneychannel.de" tvg-name="DE: DISNEY CHANNEL SD" tvg-logo="" group-title="Germany",DE: DISNEY CHANNEL SD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1016416.ts
-#EXTINF:-1 tvg-id="eurosport2.de" tvg-name="DE: EUROSPORT 2 SD" tvg-logo="http://109.238.11.8:25461/logo/tv/ee/eurosport_fr_2.png" group-title="Germany",DE: EUROSPORT 2 SD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1016417.ts
-#EXTINF:-1 tvg-id="kinowelt.de" tvg-name="DE: KINOWELT HD" tvg-logo="" group-title="Germany",DE: KINOWELT HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1016418.ts
-#EXTINF:-1 tvg-id="natgeowild.de" tvg-name="DE: NATIONAL GEOGRAPHIC WILD HD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/germany/nat-geo-wild-de.png?raw=true" group-title="Germany",DE: NATIONAL GEOGRAPHIC WILD HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1016419.ts
-#EXTINF:-1 tvg-id="rtlpassion.de" tvg-name="DE: RTL PASSION HD" tvg-logo="" group-title="Germany",DE: RTL PASSION HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1016420.ts
-#EXTINF:-1 tvg-id="skyselect1.de" tvg-name="DE: SKY SELECT 1 HEVC" tvg-logo="http://xplatinmedia.com:8080/images/ee042dc7444d776bab849e819be8d05e.png" group-title="Germany",DE: SKY SELECT 1 HEVC
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1016423.ts
-#EXTINF:-1 tvg-id="skyselect2.de" tvg-name="DE: SKY SELECT 2 HEVC" tvg-logo="http://xplatinmedia.com:8080/images/c0ea3be92940f0ad870051ed316427c4.png" group-title="Germany",DE: SKY SELECT 2 HEVC
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1016424.ts
-#EXTINF:-1 tvg-id="skyselect5.de" tvg-name="DE: SKY SELECT 5 HEVC" tvg-logo="http://xplatinmedia.com:8080/images/ee042dc7444d776bab849e819be8d05e.png" group-title="Germany",DE: SKY SELECT 5 HEVC
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1016425.ts
-#EXTINF:-1 tvg-id="skysportgolf.de" tvg-name="DE: SKY SPORT GOLF HD" tvg-logo="http://xfeed.pro:8080/images/jLANZ_vR_7-iIly5VRBCB2Wkrp1TeoQHN1CsvuQ9jghMUOkl9_HTlXXVdcGophEtPspw489GccqLnu0k29DzWYqgegX3bmXannA5ImLUm0K9UlGF7H-Ow1EFQNYoYWaBI_44iRj44d5ptfuKdA2fXto8lcMEy4trpAMVnP12z5v8CVxTu9fxxW3ll7TI2GzLd_sCDz3yErd1VoPBI0a21NTGOZ552iTpM8372IpMab4.png" group-title="Germany",DE: SKY SPORT GOLF HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1016429.ts
-#EXTINF:-1 tvg-id="syfy.de" tvg-name="DE: SYFY HEVC" tvg-logo="http://files.rednetcontent.com/chlogo2/German/de-syfy-deutschland-42345.png" group-title="Germany",DE: SYFY HEVC
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1016431.ts
-#EXTINF:-1 tvg-id="123tv.de" tvg-name="DE: 1-2-3 TV SD" tvg-logo="" group-title="Germany",DE: 1-2-3 TV SD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017342.ts
-#EXTINF:-1 tvg-id="123tv.de" tvg-name="DE: 1-2-3.TV HD" tvg-logo="" group-title="Germany",DE: 1-2-3.TV HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017343.ts
-#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="DE: 13TH STREET HD" tvg-logo="" group-title="Germany",DE: 13TH STREET HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017344.ts
-#EXTINF:-1 tvg-id="3sat.de" tvg-name="DE: 3SAT HD" tvg-logo="" group-title="Germany",DE: 3SAT HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017346.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: ANIMAL PLANET [FHD] FHD" tvg-logo="" group-title="Germany",DE: ANIMAL PLANET [FHD] FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017350.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: ANIMAL PLANET [HD] FHD" tvg-logo="" group-title="Germany",DE: ANIMAL PLANET [HD] FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017351.ts
-#EXTINF:-1 tvg-id="ardalpha.de" tvg-name="DE: ARD ALPHA HD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/germany/ard-alpha-de.png?raw=true" group-title="Germany",DE: ARD ALPHA HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017357.ts
-#EXTINF:-1 tvg-id="arte.de" tvg-name="DE: ARTE HD" tvg-logo="" group-title="Germany",DE: ARTE HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017358.ts
-#EXTINF:-1 tvg-id="automotorundsportchannel.de" tvg-name="DE: AUTO MOTOR SPORT HD" tvg-logo="" group-title="Germany",DE: AUTO MOTOR SPORT HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017359.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: AXN WHITE ʰᵈ FHD" tvg-logo="http://myserveriptv.com:2082/images/2dc4dc9dedc983a9676e40c7756d227d.png" group-title="Germany",DE: AXN WHITE ʰᵈ FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017363.ts
-#EXTINF:-1 tvg-id="bibeltv.de" tvg-name="DE: BIBEL TV HD" tvg-logo="" group-title="Germany",DE: BIBEL TV HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017369.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: BILD TV HD" tvg-logo="" group-title="Germany",DE: BILD TV HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017371.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: BILD [HD] HD" tvg-logo="" group-title="Germany",DE: BILD [HD] HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017372.ts
-#EXTINF:-1 tvg-id="boomerang.de" tvg-name="DE: BOOMERANG SD" tvg-logo="" group-title="Germany",DE: BOOMERANG SD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017375.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: BOSS MOVIE 1 FHD" tvg-logo="" group-title="Germany",DE: BOSS MOVIE 1 FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017376.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: BOSS MOVIE 3 FHD" tvg-logo="" group-title="Germany",DE: BOSS MOVIE 3 FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017377.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: BOSS MOVIE 4 FHD" tvg-logo="" group-title="Germany",DE: BOSS MOVIE 4 FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017378.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: CINE MAX FAST & FURIOUS FHD" tvg-logo="" group-title="Germany",DE: CINE MAX FAST & FURIOUS FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017386.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: CINE MAX HARRY POTTER FHD" tvg-logo="" group-title="Germany",DE: CINE MAX HARRY POTTER FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017387.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: CINE MAX IMDB SD" tvg-logo="" group-title="Germany",DE: CINE MAX IMDB SD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017388.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: CINE MAX JAMES BOND SD" tvg-logo="" group-title="Germany",DE: CINE MAX JAMES BOND SD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017389.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: CINE MAX JURASSIC PARK FHD" tvg-logo="" group-title="Germany",DE: CINE MAX JURASSIC PARK FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017390.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: CINE MAX MARVEL FHD" tvg-logo="" group-title="Germany",DE: CINE MAX MARVEL FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017391.ts
-#EXTINF:-1 tvg-id="comedycentral.de" tvg-name="DE: COMEDY CENTRAL FHD" tvg-logo="" group-title="Germany",DE: COMEDY CENTRAL FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017392.ts
-#EXTINF:-1 tvg-id="123tv.de" tvg-name="DE: CRIME & INVESTIGATION FHD" tvg-logo="" group-title="Germany",DE: CRIME & INVESTIGATION FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017394.ts
-#EXTINF:-1 tvg-id="dazn1.de" tvg-name="DE: DAZN 1 HD" tvg-logo="" group-title="Germany",DE: DAZN 1 HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017401.ts
-#EXTINF:-1 tvg-id="dazn2.de" tvg-name="DE: DAZN 2 FHD" tvg-logo="" group-title="Germany",DE: DAZN 2 FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017403.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN EVENTS 1 FHD" tvg-logo="" group-title="Germany",DE: DAZN EVENTS 1 FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017411.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN EVENTS 2 FHD" tvg-logo="" group-title="Germany",DE: DAZN EVENTS 2 FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017412.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN F1 HD" tvg-logo="" group-title="Germany",DE: DAZN F1 HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017420.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: DISCOVERY CHANNEL [FHD] FHD" tvg-logo="" group-title="Germany",DE: DISCOVERY CHANNEL [FHD] FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017449.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: DMAX [HD] HD" tvg-logo="" group-title="Germany",DE: DMAX [HD] HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017457.ts
-#EXTINF:-1 tvg-id="dmax.de" tvg-name="DE: DMAX HD" tvg-logo="" group-title="Germany",DE: DMAX HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017458.ts
-#EXTINF:-1 tvg-id="eentertainment.de" tvg-name="DE: E! ENTERTAINMENT HD" tvg-logo="" group-title="Germany",DE: E! ENTERTAINMENT HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017468.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: EAGLE CINEMA ACTION FHD" tvg-logo="http://redmonkeytv.com:8080/images/e709f882d8ba5c44dabf92de5baccf57.png" group-title="Germany",DE: EAGLE CINEMA ACTION FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017471.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: EAGLE CINEMA CLASSICS FHD" tvg-logo="" group-title="Germany",DE: EAGLE CINEMA CLASSICS FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017473.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: EAGLE CINEMA COMEDY FHD" tvg-logo="" group-title="Germany",DE: EAGLE CINEMA COMEDY FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017474.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: EAGLE CINEMA GESCHICHTE FHD" tvg-logo="https://asiagrandiptv.us/logo/eaglecinemageschichte.png" group-title="Germany",DE: EAGLE CINEMA GESCHICHTE FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017476.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: EAGLE CINEMA SCI-FI FHD" tvg-logo="" group-title="Germany",DE: EAGLE CINEMA SCI-FI FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017479.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: ENO CLASSICS HD" tvg-logo="" group-title="Germany",DE: ENO CLASSICS HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017484.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: ENO OLD MOVIES 1 HD" tvg-logo="" group-title="Germany",DE: ENO OLD MOVIES 1 HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017486.ts
-#EXTINF:-1 tvg-id="esports1.de" tvg-name="DE: ESPORTS1 HEVC" tvg-logo="" group-title="Germany",DE: ESPORTS1 HEVC
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017492.ts
-#EXTINF:-1 tvg-id="esports1.de" tvg-name="DE: ESPORTS HD" tvg-logo="" group-title="Germany",DE: ESPORTS HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017493.ts
-#EXTINF:-1 tvg-id="Euronews English.de" tvg-name="DE: EURONEWS ENGLISH HD" tvg-logo="" group-title="Germany",DE: EURONEWS ENGLISH HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017494.ts
-#EXTINF:-1 tvg-id="euronews.de" tvg-name="DE: EURONEWS SD" tvg-logo="" group-title="Germany",DE: EURONEWS SD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017495.ts
-#EXTINF:-1 tvg-id="eurosport2xtra.de" tvg-name="DE: EUROSPORT 2 XTRA HD" tvg-logo="http://51.75.73.255/logo/all/EUROSPORT2.png" group-title="Germany",DE: EUROSPORT 2 XTRA HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017498.ts
-#EXTINF:-1 tvg-id="fcbayern.de" tvg-name="DE: FC BAYERN TV FHD" tvg-logo="" group-title="Germany",DE: FC BAYERN TV FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017501.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: GERMANY ACTION FHD" tvg-logo="" group-title="Germany",DE: GERMANY ACTION FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017511.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: GERMANY DOKUMENTAR [HD] HD" tvg-logo="" group-title="Germany",DE: GERMANY DOKUMENTAR [HD] HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017531.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: GERMANY DRAMA SD" tvg-logo="" group-title="Germany",DE: GERMANY DRAMA SD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017532.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: GERMANY FAMILIE FHD" tvg-logo="" group-title="Germany",DE: GERMANY FAMILIE FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017533.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: GERMANY HORROR FHD" tvg-logo="" group-title="Germany",DE: GERMANY HORROR FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017534.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: GERMANY LIEBES SD" tvg-logo="" group-title="Germany",DE: GERMANY LIEBES SD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017535.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: GERMANY SCIENCE FHD" tvg-logo="" group-title="Germany",DE: GERMANY SCIENCE FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017536.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: GERMANY THRILLER FHD" tvg-logo="" group-title="Germany",DE: GERMANY THRILLER FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017537.ts
-#EXTINF:-1 tvg-id="Heimatkanal.de" tvg-name="DE: HEIMATKANAL SD" tvg-logo="http://x12tv.co/mbc/dedede.png" group-title="Germany",DE: HEIMATKANAL SD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017541.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: HGTV [HD] HD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/germany/hgtv-de.png?raw=true" group-title="Germany",DE: HGTV [HD] HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017543.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: HISTORY CHANNEL [HD] HD" tvg-logo="http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yo6Au5i-a8ev_uooz-Te13KBbj2MCPeTJKJcm65JaWdZA.png" group-title="Germany",DE: HISTORY CHANNEL [HD] HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017545.ts
-#EXTINF:-1 tvg-id="jukebox.de" tvg-name="DE: JUKEBOX FHD" tvg-logo="" group-title="Germany",DE: JUKEBOX FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017551.ts
-#EXTINF:-1 tvg-id="disneyjunior.de" tvg-name="DE: JUNIOR FHD" tvg-logo="" group-title="Germany",DE: JUNIOR FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017552.ts
-#EXTINF:-1 tvg-id="ktv.de" tvg-name="DE: K-TV HD" tvg-logo="" group-title="Germany",DE: K-TV HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017555.ts
-#EXTINF:-1 tvg-id="kabeleinsclassic.de" tvg-name="DE: KABEL EINS CLASSICS FHD" tvg-logo="" group-title="Germany",DE: KABEL EINS CLASSICS FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017558.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: KABEL EINS DOKU [FHD] HEVC" tvg-logo="" group-title="Germany",DE: KABEL EINS DOKU [FHD] HEVC
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017560.ts
-#EXTINF:-1 tvg-id="kabeleinsdoku.de" tvg-name="DE: KABEL EINS DOKU FHD" tvg-logo="" group-title="Germany",DE: KABEL EINS DOKU FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017561.ts
-#EXTINF:-1 tvg-id="kabel1.de" tvg-name="DE: KABEL EINS SD" tvg-logo="" group-title="Germany",DE: KABEL EINS SD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017563.ts
-#EXTINF:-1 tvg-id="kika.de" tvg-name="DE: KIKA HD" tvg-logo="" group-title="Germany",DE: KIKA HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017565.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: KINO COMEDY HD" tvg-logo="" group-title="Germany",DE: KINO COMEDY HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017566.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: KINO DRAMA HD" tvg-logo="" group-title="Germany",DE: KINO DRAMA HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017567.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: KRONE HIT SD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/germany/kronehit-de.png?raw=true" group-title="Germany",DE: KRONE HIT SD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017571.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: MAX 007 FHD" tvg-logo="" group-title="Germany",DE: MAX 007 FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017581.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: MAX KINO 2 FHD" tvg-logo="" group-title="Germany",DE: MAX KINO 2 FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017583.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: MAX KINO 3 FHD" tvg-logo="" group-title="Germany",DE: MAX KINO 3 FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017584.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: MAX KINO 4 FHD" tvg-logo="http://stream.geoiptv.live/chimg/9329566273.png" group-title="Germany",DE: MAX KINO 4 FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017585.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: MAX KINO 5 FHD" tvg-logo="" group-title="Germany",DE: MAX KINO 5 FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017586.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: MAX KINO COLLECTION FHD" tvg-logo="" group-title="Germany",DE: MAX KINO COLLECTION FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017587.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: MAX SELECT 2 FHD" tvg-logo="" group-title="Germany",DE: MAX SELECT 2 FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017589.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: MAX SELECT 3 FHD" tvg-logo="http://stream.geoiptv.live/chimg/8678996187.png" group-title="Germany",DE: MAX SELECT 3 FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017590.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: MAX SELECT 4 FHD" tvg-logo="" group-title="Germany",DE: MAX SELECT 4 FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017591.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: MAX SELECT 7 FHD" tvg-logo="" group-title="Germany",DE: MAX SELECT 7 FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017592.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: MAX SELECT HD 2 FHD" tvg-logo="" group-title="Germany",DE: MAX SELECT HD 2 FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017593.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: MAX SELECT HD 4 FHD" tvg-logo="" group-title="Germany",DE: MAX SELECT HD 4 FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017594.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: MAX STAR WARS FHD" tvg-logo="" group-title="Germany",DE: MAX STAR WARS FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017595.ts
-#EXTINF:-1 tvg-id="motorvision.de" tvg-name="DE: MOTORVISION TV HD" tvg-logo="" group-title="Germany",DE: MOTORVISION TV HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017600.ts
-#EXTINF:-1 tvg-id="mtvgermany.de" tvg-name="DE: MTV HD" tvg-logo="" group-title="Germany",DE: MTV HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017603.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: N24 DOKU [HD] HD" tvg-logo="" group-title="Germany",DE: N24 DOKU [HD] HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017606.ts
-#EXTINF:-1 tvg-id="n24doku.de" tvg-name="DE: N24 DOKU SD" tvg-logo="" group-title="Germany",DE: N24 DOKU SD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017608.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: NATIONAL GEOGRAPHIC WILD [HD] HD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/germany/nat-geo-wild-de.png?raw=true" group-title="Germany",DE: NATIONAL GEOGRAPHIC WILD [HD] HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017609.ts
-#EXTINF:-1 tvg-id="nicktoons.de" tvg-name="DE: NICK TOONS SD" tvg-logo="" group-title="Germany",DE: NICK TOONS SD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017617.ts
-#EXTINF:-1 tvg-id="euronews.de" tvg-name="DE: ONE HD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/germany/one-de.png?raw=true" group-title="Germany",DE: ONE HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017638.ts
-#EXTINF:-1 tvg-id="Penthouse Passion.de" tvg-name="DE: PENTHOUSE PASSION FHD" tvg-logo="" group-title="Germany",DE: PENTHOUSE PASSION FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017657.ts
-#EXTINF:-1 tvg-id="phoenix.de" tvg-name="DE: PHOENIX HD" tvg-logo="" group-title="Germany",DE: PHOENIX HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017659.ts
-#EXTINF:-1 tvg-id="ProSieben FUN.de" tvg-name="DE: PROSIEBEN FUN FHD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/germany/pro-sieben-fun-de.png?raw=true" group-title="Germany",DE: PROSIEBEN FUN FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017661.ts
-#EXTINF:-1 tvg-id="ProSieben FUN.de" tvg-name="DE: PROSIEBEN FUN HD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/germany/pro-sieben-fun-de.png?raw=true" group-title="Germany",DE: PROSIEBEN FUN HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017662.ts
-#EXTINF:-1 tvg-id="ProSieben MAXX.de" tvg-name="DE: PROSIEBEN MAXX FHD" tvg-logo="" group-title="Germany",DE: PROSIEBEN MAXX FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017663.ts
-#EXTINF:-1 tvg-id="qvc.de" tvg-name="DE: QVC SD" tvg-logo="http://xplatinmedia.com:8080/images/4d12830a60a592c4d0d49da11f4e3c08.png" group-title="Germany",DE: QVC SD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017668.ts
-#EXTINF:-1 tvg-id="RNF.de" tvg-name="DE: RNF FHD" tvg-logo="" group-title="Germany",DE: RNF FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017677.ts
-#EXTINF:-1 tvg-id="romance.de" tvg-name="DE: ROMANCE TV FHD" tvg-logo="" group-title="Germany",DE: ROMANCE TV FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017678.ts
-#EXTINF:-1 tvg-id="rtlliving.de" tvg-name="DE: RTL LIVING HD" tvg-logo="" group-title="Germany",DE: RTL LIVING HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017687.ts
-#EXTINF:-1 tvg-id="rtlnitro.de" tvg-name="DE: RTL NITRO HEVC" tvg-logo="" group-title="Germany",DE: RTL NITRO HEVC
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017689.ts
-#EXTINF:-1 tvg-id="rtlplus.de" tvg-name="DE: RTL PLUS HD" tvg-logo="" group-title="Germany",DE: RTL PLUS HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017692.ts
-#EXTINF:-1 tvg-id="rtl2.de" tvg-name="DE: RTL ZWEI HD" tvg-logo="" group-title="Germany",DE: RTL ZWEI HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017694.ts
-#EXTINF:-1 tvg-id="rtluhd.de" tvg-name="DE: RTL HD" tvg-logo="" group-title="Germany",DE: RTL HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017700.ts
-#EXTINF:-1 tvg-id="Servus TV Motorsport.de" tvg-name="DE: SERVUS TV MOTORSPORT FHD" tvg-logo="" group-title="Germany",DE: SERVUS TV MOTORSPORT FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017722.ts
-#EXTINF:-1 tvg-id="sixx.de" tvg-name="DE: SIXX HD" tvg-logo="" group-title="Germany",DE: SIXX HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017726.ts
-#EXTINF:-1 tvg-id="skycinemaclassics.de" tvg-name="DE: SKY CINEMA CLASSICS HD" tvg-logo="" group-title="Germany",DE: SKY CINEMA CLASSICS HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017729.ts
-#EXTINF:-1 tvg-id="123tv.de" tvg-name="DE: SKY CINEMA FAMILY SD" tvg-logo="" group-title="Germany",DE: SKY CINEMA FAMILY SD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017731.ts
-#EXTINF:-1 tvg-id="skycinemafun.de" tvg-name="DE: SKY CINEMA FUN FHD" tvg-logo="" group-title="Germany",DE: SKY CINEMA FUN FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017733.ts
-#EXTINF:-1 tvg-id="skycinemapremieren24.de" tvg-name="DE: SKY CINEMA PREMIEREN +24 FHD" tvg-logo="" group-title="Germany",DE: SKY CINEMA PREMIEREN +24 FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017734.ts
-#EXTINF:-1 tvg-id="skycinemaspecial.de" tvg-name="DE: SKY CINEMA SPECIAL HD" tvg-logo="" group-title="Germany",DE: SKY CINEMA SPECIAL HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017736.ts
-#EXTINF:-1 tvg-id="123tv.de" tvg-name="DE: SKY COMEDY HD" tvg-logo="" group-title="Germany",DE: SKY COMEDY HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017738.ts
-#EXTINF:-1 tvg-id="123tv.de" tvg-name="DE: SKY CRIME FHD" tvg-logo="" group-title="Germany",DE: SKY CRIME FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017740.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY DOCUMENTARIES [HD] HD" tvg-logo="" group-title="Germany",DE: SKY DOCUMENTARIES [HD] HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017741.ts
-#EXTINF:-1 tvg-id="123tv.de" tvg-name="DE: SKY DOCUMENTARIES FHD" tvg-logo="" group-title="Germany",DE: SKY DOCUMENTARIES FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017743.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY KRIMI [HD] FHD" tvg-logo="" group-title="Germany",DE: SKY KRIMI [HD] FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017744.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY NATURE [HD] HD" tvg-logo="" group-title="Germany",DE: SKY NATURE [HD] HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017745.ts
-#EXTINF:-1 tvg-id="123tv.de" tvg-name="DE: SKY NATURE FHD" tvg-logo="" group-title="Germany",DE: SKY NATURE FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017746.ts
-#EXTINF:-1 tvg-id="123tv.de" tvg-name="DE: SKY REPLAY FHD" tvg-logo="" group-title="Germany",DE: SKY REPLAY FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017748.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SERIEN & SHOWS HD" tvg-logo="" group-title="Germany",DE: SKY SERIEN & SHOWS HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017757.ts
-#EXTINF:-1 tvg-id="skysport10.de" tvg-name="DE: SKY SPORT 10 HD" tvg-logo="" group-title="Germany",DE: SKY SPORT 10 HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017758.ts
-#EXTINF:-1 tvg-id="skysport1.de" tvg-name="DE: SKY SPORT 1 HD" tvg-logo="http://xfeed.pro:8080/images/jLANZ_vR_7-iIly5VRBCB2Wkrp1TeoQHN1CsvuQ9jghMUOkl9_HTlXXVdcGophEtPspw489GccqLnu0k29DzWYqgegX3bmXannA5ImLUm0K9UlGF7H-Ow1EFQNYoYWaBI_44iRj44d5ptfuKdA2fXto8lcMEy4trpAMVnP12z5v1-NipABtG2YwHtCSWlQv9ElS3PDAYVjuVv0anjwjelwbFwhz5lXT5IQQg-aDsYz4.png" group-title="Germany",DE: SKY SPORT 1 HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017760.ts
-#EXTINF:-1 tvg-id="skysport4.de" tvg-name="DE: SKY SPORT 4 FHD" tvg-logo="" group-title="Germany",DE: SKY SPORT 4 FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017762.ts
-#EXTINF:-1 tvg-id="skysport4.de" tvg-name="DE: SKY SPORT 4 HD" tvg-logo="" group-title="Germany",DE: SKY SPORT 4 HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017763.ts
-#EXTINF:-1 tvg-id="skysport5.de" tvg-name="DE: SKY SPORT 5 FHD" tvg-logo="" group-title="Germany",DE: SKY SPORT 5 FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017764.ts
-#EXTINF:-1 tvg-id="skysport6.de" tvg-name="DE: SKY SPORT 6 FHD" tvg-logo="http://xfeed.pro:8080/images/jLANZ_vR_7-iIly5VRBCB2Wkrp1TeoQHN1CsvuQ9jghMUOkl9_HTlXXVdcGophEtPspw489GccqLnu0k29DzWYqgegX3bmXannA5ImLUm0K9UlGF7H-Ow1EFQNYoYWaBI_44iRj44d5ptfuKdA2fXto8lcMEy4trpAMVnP12z5uK2ArAdGUe-gLg2nOUnxyRhTNF2oi1mYNunCKa4xaFn48m86k3IcXttZ_103OFaLo.png" group-title="Germany",DE: SKY SPORT 6 FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017765.ts
-#EXTINF:-1 tvg-id="skysport6.de" tvg-name="DE: SKY SPORT 6 HD" tvg-logo="" group-title="Germany",DE: SKY SPORT 6 HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017766.ts
-#EXTINF:-1 tvg-id="skysport8.de" tvg-name="DE: SKY SPORT 8 HD" tvg-logo="" group-title="Germany",DE: SKY SPORT 8 HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017767.ts
-#EXTINF:-1 tvg-id="skysport9.de" tvg-name="DE: SKY SPORT 9 HD" tvg-logo="" group-title="Germany",DE: SKY SPORT 9 HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017768.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT AUSTRIA 1 HD" tvg-logo="" group-title="Germany",DE: SKY SPORT AUSTRIA 1 HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017769.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT AUSTRIA 4 HD (ONLY ON MATCH DAYS) HD" tvg-logo="" group-title="Germany",DE: SKY SPORT AUSTRIA 4 HD (ONLY ON MATCH DAYS) HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017774.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT AUSTRIA 4 HD" tvg-logo="" group-title="Germany",DE: SKY SPORT AUSTRIA 4 HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017775.ts
-#EXTINF:-1 tvg-id="123tv.de" tvg-name="DE: SKY SPORT BUNDESLIGA 10 FHD" tvg-logo="" group-title="Germany",DE: SKY SPORT BUNDESLIGA 10 FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017778.ts
-#EXTINF:-1 tvg-id="skybundesliga3.de" tvg-name="DE: SKY SPORT BUNDESLIGA 3 HD" tvg-logo="" group-title="Germany",DE: SKY SPORT BUNDESLIGA 3 HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017779.ts
-#EXTINF:-1 tvg-id="skybundesliga4.de" tvg-name="DE: SKY SPORT BUNDESLIGA 4 FHD" tvg-logo="" group-title="Germany",DE: SKY SPORT BUNDESLIGA 4 FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017780.ts
-#EXTINF:-1 tvg-id="skybundesliga5.de" tvg-name="DE: SKY SPORT BUNDESLIGA 5 HD" tvg-logo="" group-title="Germany",DE: SKY SPORT BUNDESLIGA 5 HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017781.ts
-#EXTINF:-1 tvg-id="skybundesliga6.de" tvg-name="DE: SKY SPORT BUNDESLIGA 6 FHD" tvg-logo="" group-title="Germany",DE: SKY SPORT BUNDESLIGA 6 FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017782.ts
-#EXTINF:-1 tvg-id="skybundesliga8.de" tvg-name="DE: SKY SPORT BUNDESLIGA 8 FHD" tvg-logo="" group-title="Germany",DE: SKY SPORT BUNDESLIGA 8 FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017783.ts
-#EXTINF:-1 tvg-id="skybundesliga9.de" tvg-name="DE: SKY SPORT BUNDESLIGA 9 FHD" tvg-logo="" group-title="Germany",DE: SKY SPORT BUNDESLIGA 9 FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017784.ts
-#EXTINF:-1 tvg-id="skybundesliga9.de" tvg-name="DE: SKY SPORT BUNDESLIGA 9 HD" tvg-logo="" group-title="Germany",DE: SKY SPORT BUNDESLIGA 9 HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017785.ts
-#EXTINF:-1 tvg-id="skysportmix.de" tvg-name="DE: SKY SPORT MIX HD" tvg-logo="http://stream.geoiptv.live/channels_icon/65050319951.png" group-title="Germany",DE: SKY SPORT MIX HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017786.ts
-#EXTINF:-1 tvg-id="skysportpremierleague.de" tvg-name="DE: SKY SPORT PREMIER LEAGUE HD" tvg-logo="http://xfeed.pro:8080/images/jLANZ_vR_7-iIly5VRBCB2Wkrp1TeoQHN1CsvuQ9jghMUOkl9_HTlXXVdcGophEt7u415RzoRY2DWRPI5P1onuZP9ivbtdOEJk-oxaDHFxkMm6DT0C7Jybj4IaijnUKY2STR7La9tmIWEIdZYQr1h51Gj97_g2jS4uVDSm9i29xXSWbBlamz-sInINCIPNmCLy8qdVgh362aGUfmcqg1pi5jy7CFPNXm-0kYvn0bwQo.png" group-title="Germany",DE: SKY SPORT PREMIER LEAGUE HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017788.ts
-#EXTINF:-1 tvg-id="skysporttennis.de" tvg-name="DE: SKY SPORT TENNIS FHD" tvg-logo="http://109.238.11.8:25461/logo/tv/ss/sky_de_sport.png" group-title="Germany",DE: SKY SPORT TENNIS FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017789.ts
-#EXTINF:-1 tvg-id="sonnenklar.de" tvg-name="DE: SONNENKLAR FHD" tvg-logo="" group-title="Germany",DE: SONNENKLAR FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017792.ts
-#EXTINF:-1 tvg-id="spiegelgeschichte.de" tvg-name="DE: SPIEGEL GESCHICHTE HD" tvg-logo="" group-title="Germany",DE: SPIEGEL GESCHICHTE HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017794.ts
-#EXTINF:-1 tvg-id="spiegeltvwissen.de" tvg-name="DE: SPIEGEL TV WISSEN SD" tvg-logo="" group-title="Germany",DE: SPIEGEL TV WISSEN SD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017796.ts
-#EXTINF:-1 tvg-id="Sport 3 - myTeamTV.de" tvg-name="DE: SPORT 3 - MYTEAMTV HD" tvg-logo="" group-title="Germany",DE: SPORT 3 - MYTEAMTV HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017810.ts
-#EXTINF:-1 tvg-id="Sport 4 - myTeamTV.de" tvg-name="DE: SPORT 4 - MYTEAMTV HD" tvg-logo="" group-title="Germany",DE: SPORT 4 - MYTEAMTV HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017812.ts
-#EXTINF:-1 tvg-id="sportdigital.de" tvg-name="DE: SPORT DIGITAL FUSSBALL FHD" tvg-logo="http://stream.geoiptv.live/channels_icon/6143353842.png" group-title="Germany",DE: SPORT DIGITAL FUSSBALL FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017820.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: TELEKOM FUßBALL 2 FHD" tvg-logo="http://myserveriptv.com:2082/images/0bf4723116ef78e6a97bc8c9bfb376fa.png" group-title="Germany",DE: TELEKOM FUßBALL 2 FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017834.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: TELEKOM FUßBALL 3 FHD" tvg-logo="http://myserveriptv.com:2082/images/0bf4723116ef78e6a97bc8c9bfb376fa.png" group-title="Germany",DE: TELEKOM FUßBALL 3 FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017835.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: TELEKOM FUßBALL 4 FHD" tvg-logo="http://myserveriptv.com:2082/images/0bf4723116ef78e6a97bc8c9bfb376fa.png" group-title="Germany",DE: TELEKOM FUßBALL 4 FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017836.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: TELEKOM FUßBALL 6 FHD" tvg-logo="" group-title="Germany",DE: TELEKOM FUßBALL 6 FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017837.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: TLC HD [HD] HD" tvg-logo="" group-title="Germany",DE: TLC HD [HD] HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017841.ts
-#EXTINF:-1 tvg-id="toggoplus.de" tvg-name="DE: TOGGO PLUS FHD" tvg-logo="" group-title="Germany",DE: TOGGO PLUS FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017843.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: VIP SELECT 1 FHD" tvg-logo="" group-title="Germany",DE: VIP SELECT 1 FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017857.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: VIP SELECT 2 FHD" tvg-logo="" group-title="Germany",DE: VIP SELECT 2 FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017858.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: VIP SELECT 3 FHD" tvg-logo="" group-title="Germany",DE: VIP SELECT 3 FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017859.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: VIP SELECT 4 FHD" tvg-logo="" group-title="Germany",DE: VIP SELECT 4 FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017860.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: VIP SELECT 6 FHD" tvg-logo="" group-title="Germany",DE: VIP SELECT 6 FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017862.ts
-#EXTINF:-1 tvg-id="19022" tvg-name="DE: VOX UP HD" tvg-logo="" group-title="Germany",DE: VOX UP HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017866.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: WAIDWERK [FHD] FHD" tvg-logo="https://curl.pk/img/u/7d440d8f3f75b54ab6380dfb86fc60862542.png" group-title="Germany",DE: WAIDWERK [FHD] FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017868.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: WELT DER WUNDER [HD] FHD" tvg-logo="" group-title="Germany",DE: WELT DER WUNDER [HD] FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017885.ts
-#EXTINF:-1 tvg-id="weltderwunder.de" tvg-name="DE: WELT DER WUNDER HD" tvg-logo="" group-title="Germany",DE: WELT DER WUNDER HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017886.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: WELT [HD] HEVC" tvg-logo="" group-title="Germany",DE: WELT [HD] HEVC
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017888.ts
-#EXTINF:-1 tvg-id="welt.de" tvg-name="DE: WELT HEVC" tvg-logo="" group-title="Germany",DE: WELT HEVC
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017889.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: XITE HD" tvg-logo="" group-title="Germany",DE: XITE HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017891.ts
-#EXTINF:-1 tvg-id="zdfinfo.de" tvg-name="DE: ZDF INFO HD" tvg-logo="" group-title="Germany",DE: ZDF INFO HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017893.ts
-#EXTINF:-1 tvg-id="zdfneo.de" tvg-name="DE: ZDF NEO HD" tvg-logo="" group-title="Germany",DE: ZDF NEO HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017894.ts
-#EXTINF:-1 tvg-id="zdf.de" tvg-name="DE: ZDF HD" tvg-logo="" group-title="Germany",DE: ZDF HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1017896.ts
-#EXTINF:-1 tvg-id="animalplanet.de" tvg-name="DE: PLANET HD" tvg-logo="" group-title="Germany",DE: PLANET HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1019727.ts
-#EXTINF:-1 tvg-id="rtl2.de" tvg-name="DE: RTLZWEI HD" tvg-logo="" group-title="Germany",DE: RTLZWEI HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1019732.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: ZONA DAZN HD" tvg-logo="" group-title="Germany",DE: ZONA DAZN HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1019749.ts
-#EXTINF:-1 tvg-id="skysportnews.de" tvg-name="DE: SKY SPORT NEWS FHD" tvg-logo="http://xfeed.pro:8080/images/jLANZ_vR_7-iIly5VRBCB2Wkrp1TeoQHN1CsvuQ9jghMUOkl9_HTlXXVdcGophEtPspw489GccqLnu0k29DzWYqgegX3bmXannA5ImLUm0K9UlGF7H-Ow1EFQNYoYWaBI_44iRj44d5ptfuKdA2fXto8lcMEy4trpAMVnP12z5vKLsOHfeoTvFFqcq0kN5MATEwVaGU6hv0u3MVVB-7KY5XIEkJVkFXTbdbpEANFXpE.png" group-title="Germany",DE: SKY SPORT NEWS FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1022366.ts
-#EXTINF:-1 tvg-id="ard.de" tvg-name="DE: DAS ERSTE SD" tvg-logo="" group-title="Germany",DE: DAS ERSTE SD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1022984.ts
-#EXTINF:-1 tvg-id="123tv.de" tvg-name="DE: SKY SPORT BUNDESLIGA 10 HD" tvg-logo="" group-title="Germany",DE: SKY SPORT BUNDESLIGA 10 HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1023010.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: WARNER TV BROS FILM HD" tvg-logo="" group-title="Germany",DE: WARNER TV BROS FILM HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1023015.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: MAGENTA SPORT 1 FHD" tvg-logo="http://landiptv.vip:2095/images/ftJ4lJYOKX8Jfo7B9dK61KtUJe604Dy3j1keYV9yCGaRv5eaNx92jsLwmPzx-4z8NddGVdCzVuSfeTkhZFl6fw.png" group-title="Germany",DE: MAGENTA SPORT 1 FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1023709.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: MAGENTA SPORT 2 FHD" tvg-logo="" group-title="Germany",DE: MAGENTA SPORT 2 FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1023710.ts
-#EXTINF:-1 tvg-id="ProSieben MAXX.de" tvg-name="DE: PROSIEBEN MAXX HD" tvg-logo="" group-title="Germany",DE: PROSIEBEN MAXX HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1023716.ts
-#EXTINF:-1 tvg-id="skysporttopevent.de" tvg-name="DE: SKY SPORT TOP EVENT HD" tvg-logo="http://xfeed.pro:8080/images/jLANZ_vR_7-iIly5VRBCB2Wkrp1TeoQHN1CsvuQ9jghMUOkl9_HTlXXVdcGophEtPspw489GccqLnu0k29DzWYqgegX3bmXannA5ImLUm0K9UlGF7H-Ow1EFQNYoYWaBI_44iRj44d5ptfuKdA2fXto8lcMEy4trpAMVnP12z5vjg6tB1zhet5ghKfWN5Bd9Pifu5yLv-qUXXehMqmKRVoMzUBAHhprtv_NAtjkj_bc.png" group-title="Germany",DE: SKY SPORT TOP EVENT HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1023724.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: DISNEY XD HD" tvg-logo="" group-title="Germany",DE: DISNEY XD HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1025713.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: MAX SELECT 5 FHD" tvg-logo="" group-title="Germany",DE: MAX SELECT 5 FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1025721.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: MAX SELECT HD 1 FHD" tvg-logo="" group-title="Germany",DE: MAX SELECT HD 1 FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1025722.ts
-#EXTINF:-1 tvg-id="silverline.de" tvg-name="DE: SILVERLINE FHD" tvg-logo="http://x12tv.co/mbc/dedede.png" group-title="Germany",DE: SILVERLINE FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1025731.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 11 FHD" tvg-logo="" group-title="Germany",DE: SKY SPORT 11 FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1025737.ts
-#EXTINF:-1 tvg-id="eurosport1.de" tvg-name="DE: EUROSPORT 1 FHD" tvg-logo="" group-title="Germany",DE: EUROSPORT 1 FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1026744.ts
-#EXTINF:-1 tvg-id="Franken Fernsehen.de" tvg-name="DE: FRANKEN FERNSEHEN HD" tvg-logo="" group-title="Germany",DE: FRANKEN FERNSEHEN HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1026746.ts
-#EXTINF:-1 tvg-id="MagentaSport.de" tvg-name="DE: MAGENTASPORT HD" tvg-logo="" group-title="Germany",DE: MAGENTASPORT HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1026747.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: MAX KINO 1 HD" tvg-logo="" group-title="Germany",DE: MAX KINO 1 HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1026748.ts
-#EXTINF:-1 tvg-id="n24doku.de" tvg-name="DE: N24 DOKU HD" tvg-logo="" group-title="Germany",DE: N24 DOKU HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1026749.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: ONEPLAY AKTION FHD" tvg-logo="" group-title="Germany",DE: ONEPLAY AKTION FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1026751.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: ONEPLAY BEST OF FHD" tvg-logo="" group-title="Germany",DE: ONEPLAY BEST OF FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1026752.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: ONEPLAY BOLLYWOOD FHD" tvg-logo="" group-title="Germany",DE: ONEPLAY BOLLYWOOD FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1026753.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: ONEPLAY COLLECTION FHD" tvg-logo="" group-title="Germany",DE: ONEPLAY COLLECTION FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1026754.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: ONEPLAY FAMILIE FHD" tvg-logo="" group-title="Germany",DE: ONEPLAY FAMILIE FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1026755.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: ONEPLAY HORROR FHD" tvg-logo="" group-title="Germany",DE: ONEPLAY HORROR FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1026756.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: ONEPLAY KOMIE FHD" tvg-logo="" group-title="Germany",DE: ONEPLAY KOMIE FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1026757.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: ONEPLAY NETFLIX FHD" tvg-logo="" group-title="Germany",DE: ONEPLAY NETFLIX FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1026758.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: ONEPLAY ROMANTISCH FHD" tvg-logo="" group-title="Germany",DE: ONEPLAY ROMANTISCH FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1026759.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: ONEPLAY SELECT 1 FHD" tvg-logo="" group-title="Germany",DE: ONEPLAY SELECT 1 FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1026760.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: ONEPLAY SELECT 2 FHD" tvg-logo="" group-title="Germany",DE: ONEPLAY SELECT 2 FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1026761.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: ONEPLAY SELECT 3 FHD" tvg-logo="" group-title="Germany",DE: ONEPLAY SELECT 3 FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1026762.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: ONEPLAY SELECT 4 FHD" tvg-logo="" group-title="Germany",DE: ONEPLAY SELECT 4 FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1026763.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: ONEPLAY SELECT 5 FHD" tvg-logo="" group-title="Germany",DE: ONEPLAY SELECT 5 FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1026764.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: ONEPLAY SELECT 6 FHD" tvg-logo="" group-title="Germany",DE: ONEPLAY SELECT 6 FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1026765.ts
-#EXTINF:-1 tvg-id="skyselect8.de" tvg-name="DE: SKY SELECT 8 FHD" tvg-logo="http://xplatinmedia.com:8080/images/ee042dc7444d776bab849e819be8d05e.png" group-title="Germany",DE: SKY SELECT 8 FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1026770.ts
-#EXTINF:-1 tvg-id="atvmainfranken.de" tvg-name="DE: A.TV FHD" tvg-logo="" group-title="Germany",DE: A.TV FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1028359.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: ALLG.TV HD" tvg-logo="" group-title="Germany",DE: ALLG.TV HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1028360.ts
-#EXTINF:-1 tvg-id="ANIXE HD Serie.de" tvg-name="DE: ANIXE HD SERIE HD" tvg-logo="" group-title="Germany",DE: ANIXE HD SERIE HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1028361.ts
-#EXTINF:-1 tvg-id="ANIXE+.de" tvg-name="DE: ANIXE+ HD" tvg-logo="" group-title="Germany",DE: ANIXE+ HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1028362.ts
-#EXTINF:-1 tvg-id="ARD-alpha.de" tvg-name="DE: ARD-ALPHA HD" tvg-logo="" group-title="Germany",DE: ARD-ALPHA HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1028363.ts
-#EXTINF:-1 tvg-id="auto motor und sport.de" tvg-name="DE: AUTO MOTOR UND SPORT HD" tvg-logo="" group-title="Germany",DE: AUTO MOTOR UND SPORT HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1028364.ts
-#EXTINF:-1 tvg-id="AXN Black.de" tvg-name="DE: AXN BLACK HD" tvg-logo="" group-title="Germany",DE: AXN BLACK HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1028365.ts
-#EXTINF:-1 tvg-id="AXN White.de" tvg-name="DE: AXN WHITE HD" tvg-logo="" group-title="Germany",DE: AXN WHITE HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1028366.ts
-#EXTINF:-1 tvg-id="Ballermann TV.de" tvg-name="DE: BALLERMANN TV HD" tvg-logo="" group-title="Germany",DE: BALLERMANN TV HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1028368.ts
-#EXTINF:-1 tvg-id="bongusto.de" tvg-name="DE: BONGUSTO FHD" tvg-logo="" group-title="Germany",DE: BONGUSTO FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1028372.ts
-#EXTINF:-1 tvg-id="bongusto.de" tvg-name="DE: BONGUSTO HD" tvg-logo="" group-title="Germany",DE: BONGUSTO HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1028373.ts
-#EXTINF:-1 tvg-id="channel21.de" tvg-name="DE: CHANNEL21 FHD" tvg-logo="" group-title="Germany",DE: CHANNEL21 FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1028378.ts
-#EXTINF:-1 tvg-id="channel21.de" tvg-name="DE: CHANNEL21 HD" tvg-logo="" group-title="Germany",DE: CHANNEL21 HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1028379.ts
-#EXTINF:-1 tvg-id="comedycentral.de" tvg-name="DE: COMEDY CENTRAL HD" tvg-logo="" group-title="Germany",DE: COMEDY CENTRAL HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1028380.ts
-#EXTINF:-1 tvg-id="craction.de" tvg-name="DE: CRACTION HD" tvg-logo="" group-title="Germany",DE: CRACTION HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1028382.ts
-#EXTINF:-1 tvg-id="crimeplusinvestigation.de" tvg-name="DE: CRIME+INVESTIGATION HD" tvg-logo="" group-title="Germany",DE: CRIME+INVESTIGATION HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1028384.ts
-#EXTINF:-1 tvg-id="Curiosity Channel.de" tvg-name="DE: CURIOSITY CHANNEL FHD" tvg-logo="" group-title="Germany",DE: CURIOSITY CHANNEL FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1028385.ts
-#EXTINF:-1 tvg-id="Curiosity Channel.de" tvg-name="DE: CURIOSITY CHANNEL HD" tvg-logo="" group-title="Germany",DE: CURIOSITY CHANNEL HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1028386.ts
-#EXTINF:-1 tvg-id="df1.de" tvg-name="DE: DF1 HD" tvg-logo="" group-title="Germany",DE: DF1 HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1028392.ts
-#EXTINF:-1 tvg-id="FOLX MUSIC TELEVISION.de" tvg-name="DE: FOLX MUSIC TELEVISION HD" tvg-logo="" group-title="Germany",DE: FOLX MUSIC TELEVISION HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1028398.ts
-#EXTINF:-1 tvg-id="GEO Television.de" tvg-name="DE: GEO TELEVISION HD" tvg-logo="" group-title="Germany",DE: GEO TELEVISION HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1028400.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: GOLDSTAR TV FHD" tvg-logo="" group-title="Germany",DE: GOLDSTAR TV FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1028402.ts
-#EXTINF:-1 tvg-id="hr-fernsehen.de" tvg-name="DE: HR-FERNSEHEN HD" tvg-logo="" group-title="Germany",DE: HR-FERNSEHEN HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1028404.ts
-#EXTINF:-1 tvg-id="hse24.de" tvg-name="DE: HSE FHD" tvg-logo="" group-title="Germany",DE: HSE FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1028405.ts
-#EXTINF:-1 tvg-id="hse24.de" tvg-name="DE: HSE HD" tvg-logo="" group-title="Germany",DE: HSE HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1028406.ts
-#EXTINF:-1 tvg-id="Imearth.de" tvg-name="DE: IMEARTH HD" tvg-logo="" group-title="Germany",DE: IMEARTH HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1028407.ts
-#EXTINF:-1 tvg-id="INPLUS.de" tvg-name="DE: INPLUS FHD" tvg-logo="" group-title="Germany",DE: INPLUS FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1028409.ts
-#EXTINF:-1 tvg-id="jukebox.de" tvg-name="DE: JUKEBOX HD" tvg-logo="" group-title="Germany",DE: JUKEBOX HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1028411.ts
-#EXTINF:-1 tvg-id="kabeleinsclassic.de" tvg-name="DE: KABEL EINS CLASSICS HD" tvg-logo="" group-title="Germany",DE: KABEL EINS CLASSICS HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1028412.ts
-#EXTINF:-1 tvg-id="kabeleinsdoku.de" tvg-name="DE: KABEL EINS DOKU HD" tvg-logo="" group-title="Germany",DE: KABEL EINS DOKU HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1028413.ts
-#EXTINF:-1 tvg-id="KinoweltTV.de" tvg-name="DE: KINOWELTTV HD" tvg-logo="" group-title="Germany",DE: KINOWELTTV HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1028415.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: MAGENTA SPORT 3 HD" tvg-logo="" group-title="Germany",DE: MAGENTA SPORT 3 HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1028418.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: MAGENTA SPORT 4 FHD" tvg-logo="http://smart-eagle.fr:80/images/qEFqghqTP8_kRZBU8jdYIsdmuQi-2IdXob7Xb1G6mhTWhL-t21z5PCnuiePI2auW.png" group-title="Germany",DE: MAGENTA SPORT 4 FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1028419.ts
-#EXTINF:-1 tvg-id="Marco Polo TV.de" tvg-name="DE: MARCO POLO TV HD" tvg-logo="" group-title="Germany",DE: MARCO POLO TV HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1028422.ts
-#EXTINF:-1 tvg-id="MDR-Fernsehen Sachsen-Anhalt.de" tvg-name="DE: MDR-FERNSEHEN SACHSEN-ANHALT HD" tvg-logo="" group-title="Germany",DE: MDR-FERNSEHEN SACHSEN-ANHALT HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1028423.ts
-#EXTINF:-1 tvg-id="MDR-Fernsehen Thüringen.de" tvg-name="DE: MDR-FERNSEHEN THüRINGEN HD" tvg-logo="" group-title="Germany",DE: MDR-FERNSEHEN THüRINGEN HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1028425.ts
-#EXTINF:-1 tvg-id="More Than Sports TV.de" tvg-name="DE: MORE THAN SPORTS TV HD" tvg-logo="" group-title="Germany",DE: MORE THAN SPORTS TV HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1028427.ts
-#EXTINF:-1 tvg-id="Motorvision+.de" tvg-name="DE: MOTORVISION+ FHD" tvg-logo="" group-title="Germany",DE: MOTORVISION+ FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1028428.ts
-#EXTINF:-1 tvg-id="MS Sport.de" tvg-name="DE: MS SPORT FHD" tvg-logo="" group-title="Germany",DE: MS SPORT FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1028430.ts
-#EXTINF:-1 tvg-id="n24doku.de" tvg-name="DE: N24 DOKU FHD" tvg-logo="" group-title="Germany",DE: N24 DOKU FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1028432.ts
-#EXTINF:-1 tvg-id="NDR Fernsehen Niedersachsen.de" tvg-name="DE: NDR FERNSEHEN NIEDERSACHSEN HD" tvg-logo="" group-title="Germany",DE: NDR FERNSEHEN NIEDERSACHSEN HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1028434.ts
-#EXTINF:-1 tvg-id="NDR Fernsehen Schleswig-Holstein.de" tvg-name="DE: NDR FERNSEHEN SCHLESWIG-HOLSTEIN HD" tvg-logo="" group-title="Germany",DE: NDR FERNSEHEN SCHLESWIG-HOLSTEIN HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1028435.ts
-#EXTINF:-1 tvg-id="NIEDERBAYERN TV Landshut.de" tvg-name="DE: NIEDERBAYERN TV LANDSHUT HD" tvg-logo="" group-title="Germany",DE: NIEDERBAYERN TV LANDSHUT HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1028438.ts
-#EXTINF:-1 tvg-id="rtlnitro.de" tvg-name="DE: NITRO HD" tvg-logo="" group-title="Germany",DE: NITRO HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1028442.ts
-#EXTINF:-1 tvg-id="NRWision.de" tvg-name="DE: NRWISION FHD" tvg-logo="" group-title="Germany",DE: NRWISION FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1028443.ts
-#EXTINF:-1 tvg-id="OK-TV Ludwigshafen.de" tvg-name="DE: OK-TV LUDWIGSHAFEN HD" tvg-logo="" group-title="Germany",DE: OK-TV LUDWIGSHAFEN HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1028449.ts
-#EXTINF:-1 tvg-id="OK54 Trier.de" tvg-name="DE: OK54 TRIER FHD" tvg-logo="" group-title="Germany",DE: OK54 TRIER FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1028451.ts
-#EXTINF:-1 tvg-id="OK54 Trier.de" tvg-name="DE: OK54 TRIER HD" tvg-logo="" group-title="Germany",DE: OK54 TRIER HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1028452.ts
-#EXTINF:-1 tvg-id="ONE MUSIC TELEVISION.de" tvg-name="DE: ONE MUSIC TELEVISION FHD" tvg-logo="" group-title="Germany",DE: ONE MUSIC TELEVISION FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1028453.ts
-#EXTINF:-1 tvg-id="OUTtv.de" tvg-name="DE: OUTTV HD" tvg-logo="" group-title="Germany",DE: OUTTV HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1028457.ts
-#EXTINF:-1 tvg-id="qvc.de" tvg-name="DE: QVC HD" tvg-logo="http://xplatinmedia.com:8080/images/4d12830a60a592c4d0d49da11f4e3c08.png" group-title="Germany",DE: QVC HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1028459.ts
-#EXTINF:-1 tvg-id="Radio Bremen TV.de" tvg-name="DE: RADIO BREMEN TV HD" tvg-logo="" group-title="Germany",DE: RADIO BREMEN TV HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1028460.ts
-#EXTINF:-1 tvg-id="rbb fernsehen Brandenburg.de" tvg-name="DE: RBB FERNSEHEN BRANDENBURG FHD" tvg-logo="" group-title="Germany",DE: RBB FERNSEHEN BRANDENBURG FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1028462.ts
-#EXTINF:-1 tvg-id="Red Bull TV.de" tvg-name="DE: RED BULL TV FHD" tvg-logo="" group-title="Germany",DE: RED BULL TV FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1028463.ts
-#EXTINF:-1 tvg-id="RiC.de" tvg-name="DE: RIC HD" tvg-logo="" group-title="Germany",DE: RIC HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1028466.ts
-#EXTINF:-1 tvg-id="RTL Bayern.de" tvg-name="DE: RTL BAYERN HD" tvg-logo="" group-title="Germany",DE: RTL BAYERN HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1028469.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: RTL BREMEN & NIEDERSACHSEN FHD" tvg-logo="" group-title="Germany",DE: RTL BREMEN & NIEDERSACHSEN FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1028470.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: RTL BREMEN & NIEDERSACHSEN HD" tvg-logo="" group-title="Germany",DE: RTL BREMEN & NIEDERSACHSEN HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1028471.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: RTL HAMBURG & SCHLESWIG-HOLSTEIN FHD" tvg-logo="" group-title="Germany",DE: RTL HAMBURG & SCHLESWIG-HOLSTEIN FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1028473.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: RTL HAMBURG & SCHLESWIG-HOLSTEIN HD" tvg-logo="" group-title="Germany",DE: RTL HAMBURG & SCHLESWIG-HOLSTEIN HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1028474.ts
-#EXTINF:-1 tvg-id="RTL Hessen.de" tvg-name="DE: RTL HESSEN FHD" tvg-logo="" group-title="Germany",DE: RTL HESSEN FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1028475.ts
-#EXTINF:-1 tvg-id="RTL Hessen.de" tvg-name="DE: RTL HESSEN HD" tvg-logo="" group-title="Germany",DE: RTL HESSEN HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1028476.ts
-#EXTINF:-1 tvg-id="RTL Nordrhein-Westfalen.de" tvg-name="DE: RTL NORDRHEIN-WESTFALEN HD" tvg-logo="" group-title="Germany",DE: RTL NORDRHEIN-WESTFALEN HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1028479.ts
-#EXTINF:-1 tvg-id="RTL Rhein-Neckar.de" tvg-name="DE: RTL RHEIN-NECKAR FHD" tvg-logo="" group-title="Germany",DE: RTL RHEIN-NECKAR FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1028481.ts
-#EXTINF:-1 tvg-id="rtlup.de" tvg-name="DE: RTLUP FHD" tvg-logo="" group-title="Germany",DE: RTLUP FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1028484.ts
-#EXTINF:-1 tvg-id="salve.tv.de" tvg-name="DE: SALVE.TV HD" tvg-logo="" group-title="Germany",DE: SALVE.TV HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1028487.ts
-#EXTINF:-1 tvg-id="SAT.1 Bayern.de" tvg-name="DE: SAT.1 BAYERN HD" tvg-logo="" group-title="Germany",DE: SAT.1 BAYERN HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1028489.ts
-#EXTINF:-1 tvg-id="SAT.1 emotions.de" tvg-name="DE: SAT.1 EMOTIONS HD" tvg-logo="" group-title="Germany",DE: SAT.1 EMOTIONS HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1028490.ts
-#EXTINF:-1 tvg-id="SAT.1 Hamburg und Schleswig-Holstein.de" tvg-name="DE: SAT.1 HAMBURG UND SCHLESWIG-HOLSTEIN FHD" tvg-logo="" group-title="Germany",DE: SAT.1 HAMBURG UND SCHLESWIG-HOLSTEIN FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1028491.ts
-#EXTINF:-1 tvg-id="SAT.1 Hamburg und Schleswig-Holstein.de" tvg-name="DE: SAT.1 HAMBURG UND SCHLESWIG-HOLSTEIN HD" tvg-logo="" group-title="Germany",DE: SAT.1 HAMBURG UND SCHLESWIG-HOLSTEIN HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1028492.ts
-#EXTINF:-1 tvg-id="SAT.1 Niedersachsen und Bremen.de" tvg-name="DE: SAT.1 NIEDERSACHSEN UND BREMEN FHD" tvg-logo="" group-title="Germany",DE: SAT.1 NIEDERSACHSEN UND BREMEN FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1028493.ts
-#EXTINF:-1 tvg-id="SAT.1 Nordrhein-Westfalen.de" tvg-name="DE: SAT.1 NORDRHEIN-WESTFALEN FHD" tvg-logo="" group-title="Germany",DE: SAT.1 NORDRHEIN-WESTFALEN FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1028495.ts
-#EXTINF:-1 tvg-id="SAT.1 Nordrhein-Westfalen.de" tvg-name="DE: SAT.1 NORDRHEIN-WESTFALEN HD" tvg-logo="" group-title="Germany",DE: SAT.1 NORDRHEIN-WESTFALEN HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1028496.ts
-#EXTINF:-1 tvg-id="SAT.1 Rheinland-Pfalz und Hessen.de" tvg-name="DE: SAT.1 RHEINLAND-PFALZ UND HESSEN FHD" tvg-logo="" group-title="Germany",DE: SAT.1 RHEINLAND-PFALZ UND HESSEN FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1028497.ts
-#EXTINF:-1 tvg-id="SAT.1 Rheinland-Pfalz und Hessen.de" tvg-name="DE: SAT.1 RHEINLAND-PFALZ UND HESSEN HD" tvg-logo="" group-title="Germany",DE: SAT.1 RHEINLAND-PFALZ UND HESSEN HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1028498.ts
-#EXTINF:-1 tvg-id="SCHLAGER DELUXE.de" tvg-name="DE: SCHLAGER DELUXE FHD" tvg-logo="" group-title="Germany",DE: SCHLAGER DELUXE FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1028499.ts
-#EXTINF:-1 tvg-id="SCHLAGER DELUXE.de" tvg-name="DE: SCHLAGER DELUXE HD" tvg-logo="" group-title="Germany",DE: SCHLAGER DELUXE HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1028500.ts
-#EXTINF:-1 tvg-id="Schlagerparadies.TV.de" tvg-name="DE: SCHLAGERPARADIES.TV HD" tvg-logo="" group-title="Germany",DE: SCHLAGERPARADIES.TV HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1028502.ts
-#EXTINF:-1 tvg-id="Servus TV Motorsport.de" tvg-name="DE: SERVUS TV MOTORSPORT HD" tvg-logo="" group-title="Germany",DE: SERVUS TV MOTORSPORT HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1028503.ts
-#EXTINF:-1 tvg-id="123tv.de" tvg-name="DE: SERVUS TV HD" tvg-logo="" group-title="Germany",DE: SERVUS TV HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1028504.ts
-#EXTINF:-1 tvg-id="Show Turk.de" tvg-name="DE: SHOW TURK FHD" tvg-logo="" group-title="Germany",DE: SHOW TURK FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1028505.ts
-#EXTINF:-1 tvg-id="123tv.de" tvg-name="DE: SKY CINEMA FAMILY FHD" tvg-logo="" group-title="Germany",DE: SKY CINEMA FAMILY FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1028506.ts
-#EXTINF:-1 tvg-id="skyselect7.de" tvg-name="DE: SKY SELECT 7 HEVC" tvg-logo="http://xplatinmedia.com:8080/images/ee042dc7444d776bab849e819be8d05e.png" group-title="Germany",DE: SKY SELECT 7 HEVC
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1028510.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT AUSTRIA 2 HD (ONLY ON MATCH DAYS) FHD" tvg-logo="" group-title="Germany",DE: SKY SPORT AUSTRIA 2 HD (ONLY ON MATCH DAYS) FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1028511.ts
-#EXTINF:-1 tvg-id="sonyentertainmenttv.de" tvg-name="DE: SONY AXN FHD" tvg-logo="" group-title="Germany",DE: SONY AXN FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1028514.ts
-#EXTINF:-1 tvg-id="Sport 1 - myTeamTV.de" tvg-name="DE: SPORT 1 - MYTEAMTV HD" tvg-logo="" group-title="Germany",DE: SPORT 1 - MYTEAMTV HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1028516.ts
-#EXTINF:-1 tvg-id="Sport 10 - myTeamTV.de" tvg-name="DE: SPORT 10 - MYTEAMTV FHD" tvg-logo="" group-title="Germany",DE: SPORT 10 - MYTEAMTV FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1028518.ts
-#EXTINF:-1 tvg-id="Sport 11 - myTeamTV.de" tvg-name="DE: SPORT 11 - MYTEAMTV HD" tvg-logo="" group-title="Germany",DE: SPORT 11 - MYTEAMTV HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1028520.ts
-#EXTINF:-1 tvg-id="Sport 12 - myTeamTV.de" tvg-name="DE: SPORT 12 - MYTEAMTV HD" tvg-logo="" group-title="Germany",DE: SPORT 12 - MYTEAMTV HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1028522.ts
-#EXTINF:-1 tvg-id="Sport 13 - myTeamTV.de" tvg-name="DE: SPORT 13 - MYTEAMTV HD" tvg-logo="" group-title="Germany",DE: SPORT 13 - MYTEAMTV HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1028524.ts
-#EXTINF:-1 tvg-id="Sport 14 - myTeamTV.de" tvg-name="DE: SPORT 14 - MYTEAMTV HD" tvg-logo="" group-title="Germany",DE: SPORT 14 - MYTEAMTV HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1028526.ts
-#EXTINF:-1 tvg-id="Sport 15 - myTeamTV.de" tvg-name="DE: SPORT 15 - MYTEAMTV HD" tvg-logo="" group-title="Germany",DE: SPORT 15 - MYTEAMTV HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1028528.ts
-#EXTINF:-1 tvg-id="Sport 16 - myTeamTV.de" tvg-name="DE: SPORT 16 - MYTEAMTV HD" tvg-logo="" group-title="Germany",DE: SPORT 16 - MYTEAMTV HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1028530.ts
-#EXTINF:-1 tvg-id="Sport 17 - myTeamTV.de" tvg-name="DE: SPORT 17 - MYTEAMTV HD" tvg-logo="" group-title="Germany",DE: SPORT 17 - MYTEAMTV HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1028532.ts
-#EXTINF:-1 tvg-id="Sport 2 - myTeamTV.de" tvg-name="DE: SPORT 2 - MYTEAMTV HD" tvg-logo="" group-title="Germany",DE: SPORT 2 - MYTEAMTV HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1028534.ts
-#EXTINF:-1 tvg-id="Sport 5 - myTeamTV.de" tvg-name="DE: SPORT 5 - MYTEAMTV HD" tvg-logo="" group-title="Germany",DE: SPORT 5 - MYTEAMTV HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1028538.ts
-#EXTINF:-1 tvg-id="Sport 7 - myTeamTV.de" tvg-name="DE: SPORT 7 - MYTEAMTV HD" tvg-logo="" group-title="Germany",DE: SPORT 7 - MYTEAMTV HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1028541.ts
-#EXTINF:-1 tvg-id="Sport 8 - myTeamTV.de" tvg-name="DE: SPORT 8 - MYTEAMTV FHD" tvg-logo="" group-title="Germany",DE: SPORT 8 - MYTEAMTV FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1028543.ts
-#EXTINF:-1 tvg-id="Sport 9 - myTeamTV.de" tvg-name="DE: SPORT 9 - MYTEAMTV HD" tvg-logo="" group-title="Germany",DE: SPORT 9 - MYTEAMTV HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1028545.ts
-#EXTINF:-1 tvg-id="classica.de" tvg-name="DE: STINGRAY CLASSICA HD" tvg-logo="" group-title="Germany",DE: STINGRAY CLASSICA HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1028550.ts
-#EXTINF:-1 tvg-id="Stingray DJAZZ.de" tvg-name="DE: STINGRAY DJAZZ FHD" tvg-logo="" group-title="Germany",DE: STINGRAY DJAZZ FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1028551.ts
-#EXTINF:-1 tvg-id="Stingray DJAZZ.de" tvg-name="DE: STINGRAY DJAZZ HD" tvg-logo="" group-title="Germany",DE: STINGRAY DJAZZ HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1028552.ts
-#EXTINF:-1 tvg-id="Stingray iConcerts.de" tvg-name="DE: STINGRAY ICONCERTS FHD" tvg-logo="" group-title="Germany",DE: STINGRAY ICONCERTS FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1028553.ts
-#EXTINF:-1 tvg-id="Stingray iConcerts.de" tvg-name="DE: STINGRAY ICONCERTS HD" tvg-logo="" group-title="Germany",DE: STINGRAY ICONCERTS HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1028554.ts
-#EXTINF:-1 tvg-id="SWR Fernsehen BW.de" tvg-name="DE: SWR FERNSEHEN BW HD" tvg-logo="" group-title="Germany",DE: SWR FERNSEHEN BW HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1028556.ts
-#EXTINF:-1 tvg-id="SWR Fernsehen RP.de" tvg-name="DE: SWR FERNSEHEN RP HD" tvg-logo="" group-title="Germany",DE: SWR FERNSEHEN RP HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1028557.ts
-#EXTINF:-1 tvg-id="The HISTORY Channel (Sky).de" tvg-name="DE: THE HISTORY CHANNEL FHD" tvg-logo="" group-title="Germany",DE: THE HISTORY CHANNEL FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1028559.ts
-#EXTINF:-1 tvg-id="Travelxp.de" tvg-name="DE: TRAVELXP HD" tvg-logo="" group-title="Germany",DE: TRAVELXP HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1028563.ts
-#EXTINF:-1 tvg-id="TV Mainfranken.de" tvg-name="DE: TV MAINFRANKEN FHD" tvg-logo="" group-title="Germany",DE: TV MAINFRANKEN FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1028565.ts
-#EXTINF:-1 tvg-id="TV Oberfranken.de" tvg-name="DE: TV OBERFRANKEN FHD" tvg-logo="" group-title="Germany",DE: TV OBERFRANKEN FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1028567.ts
-#EXTINF:-1 tvg-id="tv.ingolstadt.de" tvg-name="DE: TV.INGOLSTADT FHD" tvg-logo="" group-title="Germany",DE: TV.INGOLSTADT FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1028569.ts
-#EXTINF:-1 tvg-id="tv.ingolstadt.de" tvg-name="DE: TV.INGOLSTADT HD" tvg-logo="" group-title="Germany",DE: TV.INGOLSTADT HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1028570.ts
-#EXTINF:-1 tvg-id="TVA Ostbayern.de" tvg-name="DE: TVA OSTBAYERN FHD" tvg-logo="" group-title="Germany",DE: TVA OSTBAYERN FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1028571.ts
-#EXTINF:-1 tvg-id="TVP Polonia.de" tvg-name="DE: TVP POLONIA HD" tvg-logo="" group-title="Germany",DE: TVP POLONIA HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1028573.ts
-#EXTINF:-1 tvg-id="Volksmusik.TV.de" tvg-name="DE: VOLKSMUSIK.TV FHD" tvg-logo="" group-title="Germany",DE: VOLKSMUSIK.TV FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1028574.ts
-#EXTINF:-1 tvg-id="Volksmusik.TV.de" tvg-name="DE: VOLKSMUSIK.TV HD" tvg-logo="" group-title="Germany",DE: VOLKSMUSIK.TV HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1028575.ts
-#EXTINF:-1 tvg-id="19022" tvg-name="DE: VOXUP FHD" tvg-logo="" group-title="Germany",DE: VOXUP FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1028576.ts
-#EXTINF:-1 tvg-id="warnercomedy.de" tvg-name="DE: WARNER TV COMEDY FHD" tvg-logo="" group-title="Germany",DE: WARNER TV COMEDY FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1028577.ts
-#EXTINF:-1 tvg-id="warnercomedy.de" tvg-name="DE: WARNER TV COMEDY HD" tvg-logo="" group-title="Germany",DE: WARNER TV COMEDY HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1028578.ts
-#EXTINF:-1 tvg-id="WDR Fernsehen Aachen.de" tvg-name="DE: WDR FERNSEHEN AACHEN HD" tvg-logo="" group-title="Germany",DE: WDR FERNSEHEN AACHEN HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1028581.ts
-#EXTINF:-1 tvg-id="WDR Fernsehen Bielefeld.de" tvg-name="DE: WDR FERNSEHEN BIELEFELD HD" tvg-logo="" group-title="Germany",DE: WDR FERNSEHEN BIELEFELD HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1028582.ts
-#EXTINF:-1 tvg-id="WDR Fernsehen Bonn.de" tvg-name="DE: WDR FERNSEHEN BONN HD" tvg-logo="" group-title="Germany",DE: WDR FERNSEHEN BONN HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1028583.ts
-#EXTINF:-1 tvg-id="WDR Fernsehen Dortmund.de" tvg-name="DE: WDR FERNSEHEN DORTMUND HD" tvg-logo="" group-title="Germany",DE: WDR FERNSEHEN DORTMUND HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1028584.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: WDR FERNSEHEN DSELDORF HD" tvg-logo="" group-title="Germany",DE: WDR FERNSEHEN DSELDORF HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1028585.ts
-#EXTINF:-1 tvg-id="WDR Fernsehen Duisburg.de" tvg-name="DE: WDR FERNSEHEN DUISBURG HD" tvg-logo="" group-title="Germany",DE: WDR FERNSEHEN DUISBURG HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1028586.ts
-#EXTINF:-1 tvg-id="WDR Fernsehen Essen.de" tvg-name="DE: WDR FERNSEHEN ESSEN HD" tvg-logo="" group-title="Germany",DE: WDR FERNSEHEN ESSEN HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1028587.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: WDR FERNSEHEN KN HD" tvg-logo="" group-title="Germany",DE: WDR FERNSEHEN KN HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1028588.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: WDR FERNSEHEN MSTER HD" tvg-logo="" group-title="Germany",DE: WDR FERNSEHEN MSTER HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1028589.ts
-#EXTINF:-1 tvg-id="WDR Fernsehen Siegen.de" tvg-name="DE: WDR FERNSEHEN SIEGEN HD" tvg-logo="" group-title="Germany",DE: WDR FERNSEHEN SIEGEN HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1028590.ts
-#EXTINF:-1 tvg-id="WDR Fernsehen Wuppertal.de" tvg-name="DE: WDR FERNSEHEN WUPPERTAL FHD" tvg-logo="" group-title="Germany",DE: WDR FERNSEHEN WUPPERTAL FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1028591.ts
-#EXTINF:-1 tvg-id="wedo movies.de" tvg-name="DE: WEDO MOVIES HD" tvg-logo="" group-title="Germany",DE: WEDO MOVIES HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1028592.ts
-#EXTINF:-1 tvg-id="welt.de" tvg-name="DE: WELT HD" tvg-logo="" group-title="Germany",DE: WELT HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1028594.ts
-#EXTINF:-1 tvg-id="zdfneo.de" tvg-name="DE: ZDFNEO HD" tvg-logo="" group-title="Germany",DE: ZDFNEO HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1028596.ts
-#EXTINF:-1 tvg-id="ZWEI MUSIC TELEVISION.de" tvg-name="DE: ZWEI MUSIC TELEVISION HD" tvg-logo="" group-title="Germany",DE: ZWEI MUSIC TELEVISION HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1028598.ts
-#EXTINF:-1 tvg-id="123tv.de" tvg-name="DE: 1-2-3.TV FHD" tvg-logo="" group-title="Germany",DE: 1-2-3.TV FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1029247.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: ALLG.TV FHD" tvg-logo="" group-title="Germany",DE: ALLG.TV FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1029248.ts
-#EXTINF:-1 tvg-id="AXN Black.de" tvg-name="DE: AXN BLACK FHD" tvg-logo="" group-title="Germany",DE: AXN BLACK FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1029251.ts
-#EXTINF:-1 tvg-id="babytv.de" tvg-name="DE: BABY TV SD" tvg-logo="http://109.238.11.8:25461/logo/tv/bb/baby_tv_eu.png" group-title="Germany",DE: BABY TV SD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1029253.ts
-#EXTINF:-1 tvg-id="cartoonnetwork.de" tvg-name="DE: CARTOON NETWORK HD" tvg-logo="" group-title="Germany",DE: CARTOON NETWORK HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1029255.ts
-#EXTINF:-1 tvg-id="Cartoonito.de" tvg-name="DE: CARTOONITO HD" tvg-logo="" group-title="Germany",DE: CARTOONITO HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1029256.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN BEIN SPORT 2 FHD" tvg-logo="" group-title="Germany",DE: DAZN BEIN SPORT 2 FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1029258.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN EUROSPORT 1 IT HD" tvg-logo="" group-title="Germany",DE: DAZN EUROSPORT 1 IT HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1029260.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN EUROSPORT 1 HD" tvg-logo="" group-title="Germany",DE: DAZN EUROSPORT 1 HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1029261.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN EUROSPORT 2 ES HD" tvg-logo="" group-title="Germany",DE: DAZN EUROSPORT 2 ES HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1029262.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN EUROSPORT 2 IT HD" tvg-logo="" group-title="Germany",DE: DAZN EUROSPORT 2 IT HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1029263.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN EUROSPORT 2 FHD" tvg-logo="" group-title="Germany",DE: DAZN EUROSPORT 2 FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1029264.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN LFCTV FHD" tvg-logo="" group-title="Germany",DE: DAZN LFCTV FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1029266.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN MILAN TV HD" tvg-logo="" group-title="Germany",DE: DAZN MILAN TV HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1029267.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN MLB NETWORK HD" tvg-logo="" group-title="Germany",DE: DAZN MLB NETWORK HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1029268.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN MOTO GP HD" tvg-logo="" group-title="Germany",DE: DAZN MOTO GP HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1029269.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN NFL NETWORK HD" tvg-logo="http://smart-eagle.fr:80/images/qEFqghqTP8_kRZBU8jdYIk2etp3cL_xileKyxiyG3VhUyeuUT-QbSACxgvZM8T-4.png" group-title="Germany",DE: DAZN NFL NETWORK HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1029271.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN REDBULL TV FHD" tvg-logo="" group-title="Germany",DE: DAZN REDBULL TV FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1029272.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN RISE FHD" tvg-logo="https://img.netzwelt.de/dw1600_dh900_sw208_sh117_sx6_sy51_sr16x9_nu2/picture/original/2023/03/dazn-rise-365871.png" group-title="Germany",DE: DAZN RISE FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1029273.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN SPORTDIGITAL FUSSBALL HD" tvg-logo="" group-title="Germany",DE: DAZN SPORTDIGITAL FUSSBALL HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1029274.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN UNBEATEN HD" tvg-logo="" group-title="Germany",DE: DAZN UNBEATEN HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1029275.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: DE-SKYCINEMA-007 HD" tvg-logo="" group-title="Germany",DE: DE-SKYCINEMA-007 HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1029277.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: DE-SKYCINEMA-ACTION HD" tvg-logo="" group-title="Germany",DE: DE-SKYCINEMA-ACTION HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1029278.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: DE-SKYCINEMA-CLASSICS HD" tvg-logo="" group-title="Germany",DE: DE-SKYCINEMA-CLASSICS HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1029279.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: DE-SKYCINEMA-PREMIEREN HD" tvg-logo="" group-title="Germany",DE: DE-SKYCINEMA-PREMIEREN HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1029281.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: DE-SKYCRIME HD" tvg-logo="" group-title="Germany",DE: DE-SKYCRIME HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1029282.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: DE-SKYONE HD" tvg-logo="" group-title="Germany",DE: DE-SKYONE HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1029283.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: DE-SKYREPLAY HD" tvg-logo="" group-title="Germany",DE: DE-SKYREPLAY HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1029284.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: DE-SKYSHOWCASE HD" tvg-logo="" group-title="Germany",DE: DE-SKYSHOWCASE HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1029285.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: DE-WOW-SKYBUNDESLIGA HD" tvg-logo="" group-title="Germany",DE: DE-WOW-SKYBUNDESLIGA HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1029290.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: DISNEY CINEMAGIC FHD" tvg-logo="http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yqTkNqRalzy9J_C14VZsVK5p9JLiY4FO0uabil_fGbSNg.png" group-title="Germany",DE: DISNEY CINEMAGIC FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1029293.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: DYN SPORT 10 FHD" tvg-logo="" group-title="Germany",DE: DYN SPORT 10 FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1029295.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: DYN SPORT 1 FHD" tvg-logo="" group-title="Germany",DE: DYN SPORT 1 FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1029296.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: DYN SPORT 2 FHD" tvg-logo="" group-title="Germany",DE: DYN SPORT 2 FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1029297.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: DYN SPORT 4 FHD" tvg-logo="" group-title="Germany",DE: DYN SPORT 4 FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1029299.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: DYN SPORT 6 FHD" tvg-logo="" group-title="Germany",DE: DYN SPORT 6 FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1029301.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: DYN SPORT 7 FHD" tvg-logo="" group-title="Germany",DE: DYN SPORT 7 FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1029302.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: DYN SPORT 9 FHD" tvg-logo="" group-title="Germany",DE: DYN SPORT 9 FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1029304.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: ENO ANIMATION 1 HD" tvg-logo="" group-title="Germany",DE: ENO ANIMATION 1 HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1029305.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: ENO ANIMATION 2 HD" tvg-logo="" group-title="Germany",DE: ENO ANIMATION 2 HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1029306.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: ENO ANIMATION 3 HD" tvg-logo="" group-title="Germany",DE: ENO ANIMATION 3 HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1029307.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: ENO KINDERMARCHEN 1 FHD" tvg-logo="" group-title="Germany",DE: ENO KINDERMARCHEN 1 FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1029308.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: ENO KINDERMARCHEN 2 FHD" tvg-logo="" group-title="Germany",DE: ENO KINDERMARCHEN 2 FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1029309.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: ENO PJ MASKS HD" tvg-logo="" group-title="Germany",DE: ENO PJ MASKS HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1029310.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: ENO RAPUNZEL FHD" tvg-logo="" group-title="Germany",DE: ENO RAPUNZEL FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1029311.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: ENO RICK & MORTY HD" tvg-logo="" group-title="Germany",DE: ENO RICK & MORTY HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1029312.ts
-#EXTINF:-1 tvg-id="Franken Fernsehen.de" tvg-name="DE: FRANKEN FERNSEHEN FHD" tvg-logo="" group-title="Germany",DE: FRANKEN FERNSEHEN FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1029315.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: KINO HORROR HD" tvg-logo="" group-title="Germany",DE: KINO HORROR HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1029319.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: MAGENTA SPORT 5 HD" tvg-logo="" group-title="Germany",DE: MAGENTA SPORT 5 HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1029320.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: MAGENTA SPORT 6 HD" tvg-logo="" group-title="Germany",DE: MAGENTA SPORT 6 HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1029321.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: MAGENTA SPORT 7 HD" tvg-logo="" group-title="Germany",DE: MAGENTA SPORT 7 HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1029322.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: MAGENTA SPORT 8 HD" tvg-logo="" group-title="Germany",DE: MAGENTA SPORT 8 HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1029323.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: MAX PREMIERE FHD" tvg-logo="" group-title="Germany",DE: MAX PREMIERE FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1029324.ts
-#EXTINF:-1 tvg-id="NDR Fernsehen Hamburg.de" tvg-name="DE: NDR FERNSEHEN HAMBURG HD" tvg-logo="" group-title="Germany",DE: NDR FERNSEHEN HAMBURG HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1029328.ts
-#EXTINF:-1 tvg-id="nickjr.de" tvg-name="DE: NICK FHD" tvg-logo="http://myserveriptv.com:2082/images/ca5571910a6535ae32de2d943035abd7.png" group-title="Germany",DE: NICK FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1029329.ts
-#EXTINF:-1 tvg-id="NIEDERBAYERN TV Deggendorf - Straubing.de" tvg-name="DE: NIEDERBAYERN TV DEGGENDORF - STRAUBING FHD" tvg-logo="" group-title="Germany",DE: NIEDERBAYERN TV DEGGENDORF - STRAUBING FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1029330.ts
-#EXTINF:-1 tvg-id="NRWision.de" tvg-name="DE: NRWISION HD" tvg-logo="" group-title="Germany",DE: NRWISION HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1029331.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: PEPPA WUTZ HD" tvg-logo="" group-title="Germany",DE: PEPPA WUTZ HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1029332.ts
-#EXTINF:-1 tvg-id="qvcstyle.de" tvg-name="DE: QVC STYLE SD" tvg-logo="http://xplatinmedia.com:8080/images/4d12830a60a592c4d0d49da11f4e3c08.png" group-title="Germany",DE: QVC STYLE SD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1029334.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: QVC ZWEI SD" tvg-logo="http://xplatinmedia.com:8080/images/4d12830a60a592c4d0d49da11f4e3c08.png" group-title="Germany",DE: QVC ZWEI SD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1029335.ts
-#EXTINF:-1 tvg-id="SAT.1 emotions.de" tvg-name="DE: SAT.1 EMOTIONS FHD" tvg-logo="" group-title="Germany",DE: SAT.1 EMOTIONS FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1029337.ts
-#EXTINF:-1 tvg-id="skyselect4.de" tvg-name="DE: SKY SELECT 4 HEVC" tvg-logo="http://xplatinmedia.com:8080/images/ee042dc7444d776bab849e819be8d05e.png" group-title="Germany",DE: SKY SELECT 4 HEVC
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1029341.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SELECT PROGRAMMüBERSICHT HEVC" tvg-logo="http://xplatinmedia.com:8080/images/161d9d0b8f48eb9e2aa48eede6026e78.png" group-title="Germany",DE: SKY SELECT PROGRAMMüBERSICHT HEVC
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1029344.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT AUSTRIA 2 FHD" tvg-logo="" group-title="Germany",DE: SKY SPORT AUSTRIA 2 FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1029346.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT AUSTRIA 3 HD (ONLY ON MATCH DAYS) FHD" tvg-logo="" group-title="Germany",DE: SKY SPORT AUSTRIA 3 HD (ONLY ON MATCH DAYS) FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1029347.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT AUSTRIA 3 FHD" tvg-logo="" group-title="Germany",DE: SKY SPORT AUSTRIA 3 FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1029348.ts
-#EXTINF:-1 tvg-id="auto motor und sport.de" tvg-name="DE: AUTO MOTOR UND SPORT FHD" tvg-logo="" group-title="Germany",DE: AUTO MOTOR UND SPORT FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1030297.ts
-#EXTINF:-1 tvg-id="Bergblick.de" tvg-name="DE: BERGBLICK HD" tvg-logo="" group-title="Germany",DE: BERGBLICK HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1030299.ts
-#EXTINF:-1 tvg-id="BR Fernsehen Süd.de" tvg-name="DE: BR FERNSEHEN S HD" tvg-logo="" group-title="Germany",DE: BR FERNSEHEN S HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1030300.ts
-#EXTINF:-1 tvg-id="craction.de" tvg-name="DE: CRACTION FHD" tvg-logo="" group-title="Germany",DE: CRACTION FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1030302.ts
-#EXTINF:-1 tvg-id="crimeplusinvestigation.de" tvg-name="DE: CRIME+INVESTIGATION FHD" tvg-logo="" group-title="Germany",DE: CRIME+INVESTIGATION FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1030303.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: EAGLE CINEMA ABENTEUER FHD" tvg-logo="" group-title="Germany",DE: EAGLE CINEMA ABENTEUER FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1030309.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: FOLX TV FHD" tvg-logo="" group-title="Germany",DE: FOLX TV FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1030314.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: GERMANY VISION FHD" tvg-logo="" group-title="Germany",DE: GERMANY VISION FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1030316.ts
-#EXTINF:-1 tvg-id="INPLUS.de" tvg-name="DE: INPLUS HD" tvg-logo="" group-title="Germany",DE: INPLUS HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1030319.ts
-#EXTINF:-1 tvg-id="Motorvision+.de" tvg-name="DE: MOTORVISION+ HD" tvg-logo="" group-title="Germany",DE: MOTORVISION+ HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1030321.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: NICK JUNIOR. SD" tvg-logo="" group-title="Germany",DE: NICK JUNIOR. SD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1030323.ts
-#EXTINF:-1 tvg-id="OK4.de" tvg-name="DE: OK4 FHD" tvg-logo="" group-title="Germany",DE: OK4 FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1030324.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: RTL+ LIVE 2 FHD" tvg-logo="https://play-lh.googleusercontent.com/e8u4F0ED6hDMzmjg5cV_C5Sxrzr3xECniwKCD2Q8QfUeVMVRLG41TrsnqroTE7uxk4E" group-title="Germany",DE: RTL+ LIVE 2 FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1030328.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: RTL+ LIVE 5 FHD" tvg-logo="https://play-lh.googleusercontent.com/e8u4F0ED6hDMzmjg5cV_C5Sxrzr3xECniwKCD2Q8QfUeVMVRLG41TrsnqroTE7uxk4E" group-title="Germany",DE: RTL+ LIVE 5 FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1030329.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: RTL+ LIVE 6 FHD" tvg-logo="https://play-lh.googleusercontent.com/e8u4F0ED6hDMzmjg5cV_C5Sxrzr3xECniwKCD2Q8QfUeVMVRLG41TrsnqroTE7uxk4E" group-title="Germany",DE: RTL+ LIVE 6 FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1030330.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT AUSTRIA 1 FHD" tvg-logo="" group-title="Germany",DE: SKY SPORT AUSTRIA 1 FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1030337.ts
-#EXTINF:-1 tvg-id="sonnenklar.de" tvg-name="DE: SONNENKLAR.TV FHD" tvg-logo="" group-title="Germany",DE: SONNENKLAR.TV FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1030339.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: TELEKOM FUßBALL 7 FHD" tvg-logo="" group-title="Germany",DE: TELEKOM FUßBALL 7 FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1030342.ts
-#EXTINF:-1 tvg-id="The HISTORY Channel (Sky).de" tvg-name="DE: THE HISTORY CHANNEL HD" tvg-logo="" group-title="Germany",DE: THE HISTORY CHANNEL HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1030343.ts
-#EXTINF:-1 tvg-id="TVP Polonia.de" tvg-name="DE: TVP POLONIA FHD" tvg-logo="" group-title="Germany",DE: TVP POLONIA FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1030344.ts
-#EXTINF:-1 tvg-id="warnercomedy.de" tvg-name="DE: WARNER TV BROS COMEDY HD" tvg-logo="" group-title="Germany",DE: WARNER TV BROS COMEDY HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1030345.ts
-#EXTINF:-1 tvg-id="wedo movies.de" tvg-name="DE: WEDO MOVIES FHD" tvg-logo="" group-title="Germany",DE: WEDO MOVIES FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1030346.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: WELT DE (SAT) HEVC" tvg-logo="" group-title="Germany",DE: WELT DE (SAT) HEVC
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1030347.ts
-#EXTINF:-1 tvg-id="welt.de" tvg-name="DE: WELT FHD" tvg-logo="" group-title="Germany",DE: WELT FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1030348.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: ZDF INFO [HD] HD" tvg-logo="" group-title="Germany",DE: ZDF INFO [HD] HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1030351.ts
-#EXTINF:-1 tvg-id="Bergblick.de" tvg-name="DE: BERGBLICK FHD" tvg-logo="" group-title="Germany",DE: BERGBLICK FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1031675.ts
-#EXTINF:-1 tvg-id="bibeltv.de" tvg-name="DE: BIBEL TV FHD" tvg-logo="" group-title="Germany",DE: BIBEL TV FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1031676.ts
-#EXTINF:-1 tvg-id="brfernsehennord.de" tvg-name="DE: BR FERNSEHEN NORD FHD" tvg-logo="" group-title="Germany",DE: BR FERNSEHEN NORD FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1031677.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN EVENTS 4 FHD" tvg-logo="" group-title="Germany",DE: DAZN EVENTS 4 FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1031678.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN EVENTS 6 FHD" tvg-logo="" group-title="Germany",DE: DAZN EVENTS 6 FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1031679.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: DE-WOW-SKYBUNDESLIGA5 HD" tvg-logo="" group-title="Germany",DE: DE-WOW-SKYBUNDESLIGA5 HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1031681.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: EAGLE CINEMA DRAMA FHD" tvg-logo="https://i.imgur.com/q7XYNec.png" group-title="Germany",DE: EAGLE CINEMA DRAMA FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1031685.ts
-#EXTINF:-1 tvg-id="FOLX MUSIC TELEVISION.de" tvg-name="DE: FOLX MUSIC TELEVISION FHD" tvg-logo="" group-title="Germany",DE: FOLX MUSIC TELEVISION FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1031686.ts
-#EXTINF:-1 tvg-id="Lust pur.de" tvg-name="DE: LUST PUR FHD" tvg-logo="" group-title="Germany",DE: LUST PUR FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1031689.ts
-#EXTINF:-1 tvg-id="MDR-Fernsehen Sachsen.de" tvg-name="DE: MDR-FERNSEHEN SACHSEN HD" tvg-logo="" group-title="Germany",DE: MDR-FERNSEHEN SACHSEN HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1031690.ts
-#EXTINF:-1 tvg-id="NDR Fernsehen Mecklenburg-Vorpommern.de" tvg-name="DE: NDR FERNSEHEN MECKLENBURG-VORPOMMERN HD" tvg-logo="" group-title="Germany",DE: NDR FERNSEHEN MECKLENBURG-VORPOMMERN HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1031692.ts
-#EXTINF:-1 tvg-id="NIEDERBAYERN TV Passau.de" tvg-name="DE: NIEDERBAYERN TV PASSAU FHD" tvg-logo="" group-title="Germany",DE: NIEDERBAYERN TV PASSAU FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1031693.ts
-#EXTINF:-1 tvg-id="Oberpfalz TV.de" tvg-name="DE: OBERPFALZ TV FHD" tvg-logo="" group-title="Germany",DE: OBERPFALZ TV FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1031695.ts
-#EXTINF:-1 tvg-id="OK Weinstraße.de" tvg-name="DE: OK WEINSTRA FHD" tvg-logo="" group-title="Germany",DE: OK WEINSTRA FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1031696.ts
-#EXTINF:-1 tvg-id="OK-TV Ludwigshafen.de" tvg-name="DE: OK-TV LUDWIGSHAFEN FHD" tvg-logo="" group-title="Germany",DE: OK-TV LUDWIGSHAFEN FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1031697.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: ONEPLAY AKTION+1 FHD" tvg-logo="" group-title="Germany",DE: ONEPLAY AKTION+1 FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1031698.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: ONEPLAY EXTRA FHD" tvg-logo="" group-title="Germany",DE: ONEPLAY EXTRA FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1031699.ts
-#EXTINF:-1 tvg-id="rbb fernsehen Berlin.de" tvg-name="DE: RBB FERNSEHEN BERLIN HD" tvg-logo="" group-title="Germany",DE: RBB FERNSEHEN BERLIN HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1031701.ts
-#EXTINF:-1 tvg-id="romance.de" tvg-name="DE: ROMANCE TV HD" tvg-logo="" group-title="Germany",DE: ROMANCE TV HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1031702.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: RTL+ LIVE 3 FHD" tvg-logo="https://play-lh.googleusercontent.com/e8u4F0ED6hDMzmjg5cV_C5Sxrzr3xECniwKCD2Q8QfUeVMVRLG41TrsnqroTE7uxk4E" group-title="Germany",DE: RTL+ LIVE 3 FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1031703.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: RTL+ LIVE 4 FHD" tvg-logo="https://play-lh.googleusercontent.com/e8u4F0ED6hDMzmjg5cV_C5Sxrzr3xECniwKCD2Q8QfUeVMVRLG41TrsnqroTE7uxk4E" group-title="Germany",DE: RTL+ LIVE 4 FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1031704.ts
-#EXTINF:-1 tvg-id="rtl2.de" tvg-name="DE: RTLZWEI FHD" tvg-logo="" group-title="Germany",DE: RTLZWEI FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1031705.ts
-#EXTINF:-1 tvg-id="salve.tv.de" tvg-name="DE: SALVE.TV FHD" tvg-logo="" group-title="Germany",DE: SALVE.TV FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1031706.ts
-#EXTINF:-1 tvg-id="123tv.de" tvg-name="DE: SKY COMEDY FHD" tvg-logo="" group-title="Germany",DE: SKY COMEDY FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1031707.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT AUSTRIA 5 HD" tvg-logo="" group-title="Germany",DE: SKY SPORT AUSTRIA 5 HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1031709.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: TELEKOM FUßBALL 1 FHD" tvg-logo="http://myserveriptv.com:2082/images/0bf4723116ef78e6a97bc8c9bfb376fa.png" group-title="Germany",DE: TELEKOM FUßBALL 1 FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1031711.ts
-#EXTINF:-1 tvg-id="toggoplus.de" tvg-name="DE: TOGGO PLUS HD" tvg-logo="" group-title="Germany",DE: TOGGO PLUS HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1031713.ts
-#EXTINF:-1 tvg-id="TV Mainfranken.de" tvg-name="DE: TV MAINFRANKEN HD" tvg-logo="" group-title="Germany",DE: TV MAINFRANKEN HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1031714.ts
-#EXTINF:-1 tvg-id="TV Oberfranken.de" tvg-name="DE: TV OBERFRANKEN HD" tvg-logo="" group-title="Germany",DE: TV OBERFRANKEN HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1031715.ts
-#EXTINF:-1 tvg-id="weltderwunder.de" tvg-name="DE: WELT DER WUNDER FHD" tvg-logo="" group-title="Germany",DE: WELT DER WUNDER FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1031716.ts
-#EXTINF:-1 tvg-id="#dabeiTV.de" tvg-name="DE: #DABEITV FHD" tvg-logo="" group-title="Germany",DE: #DABEITV FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1032608.ts
-#EXTINF:-1 tvg-id="#dabeiTV.de" tvg-name="DE: #DABEITV HD" tvg-logo="" group-title="Germany",DE: #DABEITV HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1032609.ts
-#EXTINF:-1 tvg-id="automotorundsportchannel.de" tvg-name="DE: AUTO MOTOR SPORT SD" tvg-logo="" group-title="Germany",DE: AUTO MOTOR SPORT SD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1032610.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: DARK ACTION FHD" tvg-logo="" group-title="Germany",DE: DARK ACTION FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1032612.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: DARK ADVENTURE FHD" tvg-logo="" group-title="Germany",DE: DARK ADVENTURE FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1032613.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: DARK COMEDY FHD" tvg-logo="" group-title="Germany",DE: DARK COMEDY FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1032614.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: DARK CRIME FHD" tvg-logo="" group-title="Germany",DE: DARK CRIME FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1032615.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: DARK DRAMA FHD" tvg-logo="" group-title="Germany",DE: DARK DRAMA FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1032616.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: DARK FAMILY FHD" tvg-logo="" group-title="Germany",DE: DARK FAMILY FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1032617.ts
-#EXTINF:-1 tvg-id="daznbar2.de" tvg-name="DE: DAZN 2 BAR FHD" tvg-logo="" group-title="Germany",DE: DAZN 2 BAR FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1032618.ts
-#EXTINF:-1 tvg-id="daznbar1.de" tvg-name="DE: DAZN BAR 1 FHD" tvg-logo="" group-title="Germany",DE: DAZN BAR 1 FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1032619.ts
-#EXTINF:-1 tvg-id="daznbar2.de" tvg-name="DE: DAZN BAR 2 HEVC" tvg-logo="" group-title="Germany",DE: DAZN BAR 2 HEVC
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1032620.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN EUROSPORT 1 ES HD" tvg-logo="" group-title="Germany",DE: DAZN EUROSPORT 1 ES HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1032621.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN EVENTS 3 FHD" tvg-logo="" group-title="Germany",DE: DAZN EVENTS 3 FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1032622.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN EVENTS 5 FHD" tvg-logo="" group-title="Germany",DE: DAZN EVENTS 5 FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1032623.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN EVENTS 7 FHD" tvg-logo="" group-title="Germany",DE: DAZN EVENTS 7 FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1032624.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN EVENTS 8 FHD" tvg-logo="" group-title="Germany",DE: DAZN EVENTS 8 FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1032625.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN EVENTS 9 FHD" tvg-logo="" group-title="Germany",DE: DAZN EVENTS 9 FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1032626.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN LA LIGA HD" tvg-logo="" group-title="Germany",DE: DAZN LA LIGA HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1032627.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: DE-SKYCINEMA-FAMILY HD" tvg-logo="" group-title="Germany",DE: DE-SKYCINEMA-FAMILY HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1032628.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: DE-WOW-SKYBUNDESLIGA1 HD" tvg-logo="" group-title="Germany",DE: DE-WOW-SKYBUNDESLIGA1 HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1032630.ts
-#EXTINF:-1 tvg-id="deluxemusic.de" tvg-name="DE: DELUXE MUSIC FHD" tvg-logo="" group-title="Germany",DE: DELUXE MUSIC FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1032631.ts
-#EXTINF:-1 tvg-id="discoverychannel.de" tvg-name="DE: DISCOVERY CHANNEL HD" tvg-logo="" group-title="Germany",DE: DISCOVERY CHANNEL HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1032632.ts
-#EXTINF:-1 tvg-id="discoverychannel.de" tvg-name="DE: DISCOVERY CHANNEL HEVC" tvg-logo="" group-title="Germany",DE: DISCOVERY CHANNEL HEVC
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1032633.ts
-#EXTINF:-1 tvg-id="dmax.de" tvg-name="DE: DMAX HEVC" tvg-logo="" group-title="Germany",DE: DMAX HEVC
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1032634.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: DYN SPORT 3 FHD" tvg-logo="" group-title="Germany",DE: DYN SPORT 3 FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1032635.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: DYN SPORT 5 FHD" tvg-logo="" group-title="Germany",DE: DYN SPORT 5 FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1032636.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: DYN SPORT 8 FHD" tvg-logo="" group-title="Germany",DE: DYN SPORT 8 FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1032637.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: EAGLE CINEMA SCI-FI HEVC" tvg-logo="" group-title="Germany",DE: EAGLE CINEMA SCI-FI HEVC
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1032638.ts
-#EXTINF:-1 tvg-id="extremesports.de" tvg-name="DE: ESPORTS 1 FHD" tvg-logo="" group-title="Germany",DE: ESPORTS 1 FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1032639.ts
-#EXTINF:-1 tvg-id="eurosport2xtra.de" tvg-name="DE: EUROSPORT 2 XTRA RAW HEVC" tvg-logo="" group-title="Germany",DE: EUROSPORT 2 XTRA RAW HEVC
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1032640.ts
-#EXTINF:-1 tvg-id="Fashion TV.de" tvg-name="DE: FASHION TV FHD" tvg-logo="" group-title="Germany",DE: FASHION TV FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1032641.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: GERMANY COMEDY HD" tvg-logo="" group-title="Germany",DE: GERMANY COMEDY HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1032642.ts
-#EXTINF:-1 tvg-id="kabeleinsclassic.de" tvg-name="DE: KABEL 1 CLASSICS FHD" tvg-logo="" group-title="Germany",DE: KABEL 1 CLASSICS FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1032644.ts
-#EXTINF:-1 tvg-id="kabeleinsclassic.de" tvg-name="DE: KABEL 1 CLASSICS HD" tvg-logo="" group-title="Germany",DE: KABEL 1 CLASSICS HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1032645.ts
-#EXTINF:-1 tvg-id="kabel1.de" tvg-name="DE: KABEL 1 FHD" tvg-logo="" group-title="Germany",DE: KABEL 1 FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1032646.ts
-#EXTINF:-1 tvg-id="kabel1.de" tvg-name="DE: KABEL 1 SD" tvg-logo="" group-title="Germany",DE: KABEL 1 SD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1032647.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: KRONE HIT TV SD" tvg-logo="" group-title="Germany",DE: KRONE HIT TV SD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1032648.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: MAGENTA BASKETBALL 8 FHD" tvg-logo="" group-title="Germany",DE: MAGENTA BASKETBALL 8 FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1032649.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: MAGENTA FUßBALL 1 FHD" tvg-logo="" group-title="Germany",DE: MAGENTA FUßBALL 1 FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1032650.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: MAGENTA FUßBALL 2 FHD" tvg-logo="" group-title="Germany",DE: MAGENTA FUßBALL 2 FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1032651.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: MAGENTA FUßBALL 4 FHD" tvg-logo="" group-title="Germany",DE: MAGENTA FUßBALL 4 FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1032652.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: MAGENTA FUßBALL 5 FHD" tvg-logo="" group-title="Germany",DE: MAGENTA FUßBALL 5 FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1032653.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: MAGENTA FUßBALL 6 FHD" tvg-logo="" group-title="Germany",DE: MAGENTA FUßBALL 6 FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1032654.ts
-#EXTINF:-1 tvg-id="MS Sport.de" tvg-name="DE: MS SPORT HD" tvg-logo="" group-title="Germany",DE: MS SPORT HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1032655.ts
-#EXTINF:-1 tvg-id="mtvgermany.de" tvg-name="DE: MTV MUSIC 24 FHD" tvg-logo="" group-title="Germany",DE: MTV MUSIC 24 FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1032656.ts
-#EXTINF:-1 tvg-id="natgeo.de" tvg-name="DE: NATIONAL GEOGRAPHIC CHANNEL FHD" tvg-logo="" group-title="Germany",DE: NATIONAL GEOGRAPHIC CHANNEL FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1032657.ts
-#EXTINF:-1 tvg-id="ndr.de" tvg-name="DE: NDR HD" tvg-logo="" group-title="Germany",DE: NDR HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1032658.ts
-#EXTINF:-1 tvg-id="Nick/Comedy Central+1.de" tvg-name="DE: NICK/COMEDY CENTRAL+1 FHD" tvg-logo="" group-title="Germany",DE: NICK/COMEDY CENTRAL+1 FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1032659.ts
-#EXTINF:-1 tvg-id="nickelodeon.de" tvg-name="DE: NICKELODEON SD" tvg-logo="" group-title="Germany",DE: NICKELODEON SD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1032660.ts
-#EXTINF:-1 tvg-id="NIEDERBAYERN TV Deggendorf - Straubing.de" tvg-name="DE: NIEDERBAYERN TV DEGGENDORF - STRAUBING HD" tvg-logo="" group-title="Germany",DE: NIEDERBAYERN TV DEGGENDORF - STRAUBING HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1032661.ts
-#EXTINF:-1 tvg-id="NIEDERBAYERN TV Landshut.de" tvg-name="DE: NIEDERBAYERN TV LANDSHUT FHD" tvg-logo="" group-title="Germany",DE: NIEDERBAYERN TV LANDSHUT FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1032662.ts
-#EXTINF:-1 tvg-id="Oberpfalz TV.de" tvg-name="DE: OBERPFALZ TV HD" tvg-logo="" group-title="Germany",DE: OBERPFALZ TV HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1032663.ts
-#EXTINF:-1 tvg-id="OK Weinstraße.de" tvg-name="DE: OK WEINSTRA HD" tvg-logo="" group-title="Germany",DE: OK WEINSTRA HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1032664.ts
-#EXTINF:-1 tvg-id="OK4.de" tvg-name="DE: OK4 HD" tvg-logo="" group-title="Germany",DE: OK4 HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1032665.ts
-#EXTINF:-1 tvg-id="ONE MUSIC TELEVISION.de" tvg-name="DE: ONE MUSIC TELEVISION HD" tvg-logo="" group-title="Germany",DE: ONE MUSIC TELEVISION HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1032666.ts
-#EXTINF:-1 tvg-id="one.de" tvg-name="DE: ONE SD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/germany/one-de.png?raw=true" group-title="Germany",DE: ONE SD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1032667.ts
-#EXTINF:-1 tvg-id="pro7.de" tvg-name="DE: PRO 7 FHD" tvg-logo="" group-title="Germany",DE: PRO 7 FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1032668.ts
-#EXTINF:-1 tvg-id="prosiebenmaxx.de" tvg-name="DE: PRO7 MAXX HD" tvg-logo="" group-title="Germany",DE: PRO7 MAXX HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1032669.ts
-#EXTINF:-1 tvg-id="rtlnitro.de" tvg-name="DE: RTL NITRO HD" tvg-logo="" group-title="Germany",DE: RTL NITRO HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1032671.ts
-#EXTINF:-1 tvg-id="rtlplus.de" tvg-name="DE: RTL PLUS FHD" tvg-logo="" group-title="Germany",DE: RTL PLUS FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1032672.ts
-#EXTINF:-1 tvg-id="sat1gold.de" tvg-name="DE: SAT 1 GOLD FHD" tvg-logo="" group-title="Germany",DE: SAT 1 GOLD FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1032675.ts
-#EXTINF:-1 tvg-id="sat1.de" tvg-name="DE: SAT 1 FHD" tvg-logo="" group-title="Germany",DE: SAT 1 FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1032676.ts
-#EXTINF:-1 tvg-id="SAT.1 Niedersachsen und Bremen.de" tvg-name="DE: SAT.1 NIEDERSACHSEN UND BREMEN HD" tvg-logo="" group-title="Germany",DE: SAT.1 NIEDERSACHSEN UND BREMEN HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1032677.ts
-#EXTINF:-1 tvg-id="SAT.1 Bayern.de" tvg-name="DE: SAT.1 FHD" tvg-logo="" group-title="Germany",DE: SAT.1 FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1032678.ts
-#EXTINF:-1 tvg-id="Servus TV HD.at" tvg-name="DE: SERVUSTV HD" tvg-logo="" group-title="Germany",DE: SERVUSTV HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1032679.ts
-#EXTINF:-1 tvg-id="skybundesliga1.de" tvg-name="DE: SKY BUNDESLIGA 1 FHD" tvg-logo="" group-title="Germany",DE: SKY BUNDESLIGA 1 FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1032680.ts
-#EXTINF:-1 tvg-id="skycinemaspecialhd.de" tvg-name="DE: SKY CINEMA HIGHLIGHTS FHD" tvg-logo="" group-title="Germany",DE: SKY CINEMA HIGHLIGHTS FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1032681.ts
-#EXTINF:-1 tvg-id="skycinemafamily.de" tvg-name="DE: SKY CINEMA SPOOKY FHD" tvg-logo="" group-title="Germany",DE: SKY CINEMA SPOOKY FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1032682.ts
-#EXTINF:-1 tvg-id="skyselect3.de" tvg-name="DE: SKY SELECT 3 HEVC" tvg-logo="http://xplatinmedia.com:8080/images/ee042dc7444d776bab849e819be8d05e.png" group-title="Germany",DE: SKY SELECT 3 HEVC
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1032683.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SELECT PROGRAMMüBERSICHT FHD" tvg-logo="http://xplatinmedia.com:8080/images/161d9d0b8f48eb9e2aa48eede6026e78.png" group-title="Germany",DE: SKY SELECT PROGRAMMüBERSICHT FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1032685.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT AUSTRIA 6 HD" tvg-logo="" group-title="Germany",DE: SKY SPORT AUSTRIA 6 HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1032689.ts
-#EXTINF:-1 tvg-id="sonnenklar.de" tvg-name="DE: SONNENKLAR.TV HD" tvg-logo="" group-title="Germany",DE: SONNENKLAR.TV HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1032690.ts
-#EXTINF:-1 tvg-id="eurosport1.de" tvg-name="DE: SPORT 1 HD" tvg-logo="" group-title="Germany",DE: SPORT 1 HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1032691.ts
-#EXTINF:-1 tvg-id="sportdigital.de" tvg-name="DE: SPORTDIGITAL FUSSBALL HD" tvg-logo="" group-title="Germany",DE: SPORTDIGITAL FUSSBALL HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1032692.ts
-#EXTINF:-1 tvg-id="srfernsehen.de" tvg-name="DE: SR FERNSEHEN HD" tvg-logo="" group-title="Germany",DE: SR FERNSEHEN HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1032693.ts
-#EXTINF:-1 tvg-id="syfy.de" tvg-name="DE: SYFY FHD" tvg-logo="http://files.rednetcontent.com/chlogo2/German/de-syfy-deutschland-42345.png" group-title="Germany",DE: SYFY FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1032694.ts
-#EXTINF:-1 tvg-id="tntfilm.de" tvg-name="DE: TNT FILM HEVC" tvg-logo="" group-title="Germany",DE: TNT FILM HEVC
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1032696.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: TRT COCUK FHD" tvg-logo="" group-title="Germany",DE: TRT COCUK FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1032697.ts
-#EXTINF:-1 tvg-id="warnercomedy.de" tvg-name="DE: WARNER TV BROS COMEDY FHD" tvg-logo="" group-title="Germany",DE: WARNER TV BROS COMEDY FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1032698.ts
-#EXTINF:-1 tvg-id="anixe.de" tvg-name="DE: ANIXE HD SERIE FHD" tvg-logo="" group-title="Germany",DE: ANIXE HD SERIE FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1033401.ts
-#EXTINF:-1 tvg-id="automotorundsportchannel.de" tvg-name="DE: AUTO MOTOR SPORT FHD" tvg-logo="" group-title="Germany",DE: AUTO MOTOR SPORT FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1033402.ts
-#EXTINF:-1 tvg-id="AXN White.de" tvg-name="DE: AXN WHITE FHD" tvg-logo="" group-title="Germany",DE: AXN WHITE FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1033403.ts
-#EXTINF:-1 tvg-id="Ballermann TV.de" tvg-name="DE: BALLERMANN TV FHD" tvg-logo="" group-title="Germany",DE: BALLERMANN TV FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1033404.ts
-#EXTINF:-1 tvg-id="beIN iZ.de" tvg-name="DE: BEIN IZ FHD" tvg-logo="" group-title="Germany",DE: BEIN IZ FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1033405.ts
-#EXTINF:-1 tvg-id="dazn1.de" tvg-name="DE: DAZN 1 FHD" tvg-logo="" group-title="Germany",DE: DAZN 1 FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1033406.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN EVENTS 10 FHD" tvg-logo="" group-title="Germany",DE: DAZN EVENTS 10 FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1033407.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: DE-DAZN FAST FHD" tvg-logo="" group-title="Germany",DE: DE-DAZN FAST FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1033408.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: DE-SKYATLANTIC HD" tvg-logo="" group-title="Germany",DE: DE-SKYATLANTIC HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1033409.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: DE-WOW-SKYBUNDESLIGA3 HD" tvg-logo="" group-title="Germany",DE: DE-WOW-SKYBUNDESLIGA3 HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1033410.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: DE-WOW-SKYBUNDESLIGA7 HD" tvg-logo="" group-title="Germany",DE: DE-WOW-SKYBUNDESLIGA7 HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1033411.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: DE-WOW-SKYBUNDESLIGA9 HD" tvg-logo="" group-title="Germany",DE: DE-WOW-SKYBUNDESLIGA9 HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1033412.ts
-#EXTINF:-1 tvg-id="disneychannel.de" tvg-name="DE: DISNEY CHANNEL FHD" tvg-logo="" group-title="Germany",DE: DISNEY CHANNEL FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1033413.ts
-#EXTINF:-1 tvg-id="disneychannel.de" tvg-name="DE: DISNEY CHANNEL HD" tvg-logo="" group-title="Germany",DE: DISNEY CHANNEL HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1033414.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: EAGLE CINEMA ANIMATION FHD" tvg-logo="https://asiagrandiptv.us/logo/eaglecinemadrama.png" group-title="Germany",DE: EAGLE CINEMA ANIMATION FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1033415.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: EAGLE CINEMA HORROR FHD" tvg-logo="https://asiagrandiptv.us/logo/eaglecinemahorror.png" group-title="Germany",DE: EAGLE CINEMA HORROR FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1033416.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: EAGLE CINEMA LACHELN FHD" tvg-logo="" group-title="Germany",DE: EAGLE CINEMA LACHELN FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1033417.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: EAGLE CINEMA ROMANTISCH FHD" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/Eagle-Cinema-Romantisch.png" group-title="Germany",DE: EAGLE CINEMA ROMANTISCH FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1033418.ts
-#EXTINF:-1 tvg-id="Euronews English.de" tvg-name="DE: EURONEWS ENGLISH FHD" tvg-logo="" group-title="Germany",DE: EURONEWS ENGLISH FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1033419.ts
-#EXTINF:-1 tvg-id="history.de" tvg-name="DE: HISTORY FHD" tvg-logo="" group-title="Germany",DE: HISTORY FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1033420.ts
-#EXTINF:-1 tvg-id="kabel1.de" tvg-name="DE: KABEL EINS FHD" tvg-logo="" group-title="Germany",DE: KABEL EINS FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1033421.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: MAGENTA FUßBALL 3 FHD" tvg-logo="" group-title="Germany",DE: MAGENTA FUßBALL 3 FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1033422.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: MAGENTA FUßBALL 7 FHD" tvg-logo="" group-title="Germany",DE: MAGENTA FUßBALL 7 FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1033423.ts
-#EXTINF:-1 tvg-id="Marco Polo TV.de" tvg-name="DE: MARCO POLO TV FHD" tvg-logo="" group-title="Germany",DE: MARCO POLO TV FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1033424.ts
-#EXTINF:-1 tvg-id="ntv.de" tvg-name="DE: N-TV FHD" tvg-logo="" group-title="Germany",DE: N-TV FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1033425.ts
-#EXTINF:-1 tvg-id="NIEDERBAYERN TV Passau.de" tvg-name="DE: NIEDERBAYERN TV PASSAU HD" tvg-logo="" group-title="Germany",DE: NIEDERBAYERN TV PASSAU HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1033426.ts
-#EXTINF:-1 tvg-id="rtlnitro.de" tvg-name="DE: NITRO FHD" tvg-logo="" group-title="Germany",DE: NITRO FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1033427.ts
-#EXTINF:-1 tvg-id="OUTtv.de" tvg-name="DE: OUTTV FHD" tvg-logo="" group-title="Germany",DE: OUTTV FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1033428.ts
-#EXTINF:-1 tvg-id="prosiebenfun.de" tvg-name="DE: PRO7 FUN FHD" tvg-logo="" group-title="Germany",DE: PRO7 FUN FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1033429.ts
-#EXTINF:-1 tvg-id="prosiebenfun.de" tvg-name="DE: PRO7 FUN HD" tvg-logo="" group-title="Germany",DE: PRO7 FUN HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1033430.ts
-#EXTINF:-1 tvg-id="RiC.de" tvg-name="DE: RIC FHD" tvg-logo="" group-title="Germany",DE: RIC FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1033431.ts
-#EXTINF:-1 tvg-id="RTL Bayern.de" tvg-name="DE: RTL BAYERN FHD" tvg-logo="" group-title="Germany",DE: RTL BAYERN FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1033432.ts
-#EXTINF:-1 tvg-id="RTL Nordrhein-Westfalen.de" tvg-name="DE: RTL NORDRHEIN-WESTFALEN FHD" tvg-logo="" group-title="Germany",DE: RTL NORDRHEIN-WESTFALEN FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1033433.ts
-#EXTINF:-1 tvg-id="rtl2.de" tvg-name="DE: RTL ZWEI FHD" tvg-logo="" group-title="Germany",DE: RTL ZWEI FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1033434.ts
-#EXTINF:-1 tvg-id="sat1emotions.de" tvg-name="DE: SAT 1 EMOTIONS FHD" tvg-logo="" group-title="Germany",DE: SAT 1 EMOTIONS FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1033435.ts
-#EXTINF:-1 tvg-id="sixx.de" tvg-name="DE: SIXX FHD" tvg-logo="" group-title="Germany",DE: SIXX FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1033436.ts
-#EXTINF:-1 tvg-id="skyatlantic.de" tvg-name="DE: SKY ATLANTIC FHD" tvg-logo="http://tv.iptvboss.net/ch_logo/SKYATLANTICHD.png" group-title="Germany",DE: SKY ATLANTIC FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1033437.ts
-#EXTINF:-1 tvg-id="skycinemaaction.de" tvg-name="DE: SKY CINEMA ACTION FHD" tvg-logo="" group-title="Germany",DE: SKY CINEMA ACTION FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1033438.ts
-#EXTINF:-1 tvg-id="skycinemaaction.de" tvg-name="DE: SKY CINEMA ACTION HD" tvg-logo="http://tvlogo.xyz/Germany/SKYCINEMAACTIONHD.png" group-title="Germany",DE: SKY CINEMA ACTION HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1033439.ts
-#EXTINF:-1 tvg-id="skycinemapremieren.de" tvg-name="DE: SKY CINEMA PREMIEREN FHD" tvg-logo="" group-title="Germany",DE: SKY CINEMA PREMIEREN FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1033440.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY CRIME ꜰʜᴅ FHD" tvg-logo="http://x12tv.co/mbc/dedede.png" group-title="Germany",DE: SKY CRIME ꜰʜᴅ FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1033441.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY DOCUMENTARIES ꜰʜᴅ FHD" tvg-logo="http://x12tv.co/mbc/dedede.png" group-title="Germany",DE: SKY DOCUMENTARIES ꜰʜᴅ FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1033442.ts
-#EXTINF:-1 tvg-id="sky1.de" tvg-name="DE: SKY ONE FHD" tvg-logo="http://tvlogo.xyz/Germany/SKYCINEMAHD.png" group-title="Germany",DE: SKY ONE FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1033443.ts
-#EXTINF:-1 tvg-id="123tv.de" tvg-name="DE: SKY SPORT BUNDESLIGA 3 FHD" tvg-logo="" group-title="Germany",DE: SKY SPORT BUNDESLIGA 3 FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1033444.ts
-#EXTINF:-1 tvg-id="sport1plus.de" tvg-name="DE: SPORT1+ FHD" tvg-logo="" group-title="Germany",DE: SPORT1+ FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1033445.ts
-#EXTINF:-1 tvg-id="sportdigital.de" tvg-name="DE: SPORTDIGITAL FUSSBALL FHD" tvg-logo="" group-title="Germany",DE: SPORTDIGITAL FUSSBALL FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1033446.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: TELEKOM 3 BUNDESLIGA 6 HD" tvg-logo="" group-title="Germany",DE: TELEKOM 3 BUNDESLIGA 6 HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1033447.ts
-#EXTINF:-1 tvg-id="TVA Ostbayern.de" tvg-name="DE: TVA OSTBAYERN HD" tvg-logo="" group-title="Germany",DE: TVA OSTBAYERN HD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1033448.ts
-#EXTINF:-1 tvg-id="vox.de" tvg-name="DE: VOX FHD" tvg-logo="" group-title="Germany",DE: VOX FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1033449.ts
-#EXTINF:-1 tvg-id="ZWEI MUSIC TELEVISION.de" tvg-name="DE: ZWEI MUSIC TELEVISION FHD" tvg-logo="" group-title="Germany",DE: ZWEI MUSIC TELEVISION FHD
-http://sm6j3.maxcur.xyz:80/live/merce0923D/Affpedada121/1033450.ts
+#EXTINF:-1 tvg-ID="ard.de" tvg-name="Das Erste HD" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Germany/ard_das_erste_hd.jpg" group-title="DE | Deutsch TV",Das Erste HD
+http://vip.bmbtv.me:15000/qMGT3v1qF8/EC7QYCmTf9/2687
+#EXTINF:-1 tvg-ID="ard.de" tvg-name="Das Erste HD+" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Germany/ard_das_erste.jpg" group-title="DE | Deutsch TV",Das Erste HD+
+http://vip.bmbtv.me:15000/qMGT3v1qF8/EC7QYCmTf9/43216
+#EXTINF:-1 tvg-ID="zdf.de" tvg-name="ZDF HD" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Germany/zdf_de_hd.jpg" group-title="DE | Deutsch TV",ZDF HD
+http://vip.bmbtv.me:15000/qMGT3v1qF8/EC7QYCmTf9/2688
+#EXTINF:-1 tvg-ID="zdf.de" tvg-name="ZDF HD+" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Germany/zdf_de_hd.jpg" group-title="DE | Deutsch TV",ZDF HD+
+http://vip.bmbtv.me:15000/qMGT3v1qF8/EC7QYCmTf9/679
+#EXTINF:-1 tvg-ID="rtl.de" tvg-name="RTL HD" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Germany/rtl_de_hd.jpg" group-title="DE | Deutsch TV",RTL HD
+http://vip.bmbtv.me:15000/qMGT3v1qF8/EC7QYCmTf9/54258
+#EXTINF:-1 tvg-ID="rtl.de" tvg-name="RTL HD+" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Germany/rtl_de_hd.jpg" group-title="DE | Deutsch TV",RTL HD+
+http://vip.bmbtv.me:15000/qMGT3v1qF8/EC7QYCmTf9/4416
+#EXTINF:-1 tvg-ID="rtl2.de" tvg-name="RTL 2 HD" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Germany/rtl2_de_hd.jpg" group-title="DE | Deutsch TV",RTL 2 HD
+http://vip.bmbtv.me:15000/qMGT3v1qF8/EC7QYCmTf9/2676
+#EXTINF:-1 tvg-ID="rtl2.de" tvg-name="RTL 2 HD+" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Germany/rtl2_de_hd.jpg" group-title="DE | Deutsch TV",RTL 2 HD+
+http://vip.bmbtv.me:15000/qMGT3v1qF8/EC7QYCmTf9/4417
+#EXTINF:-1 tvg-ID="sat1.de" tvg-name="Sat.1 HD" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Germany/sat1_hd.jpg" group-title="DE | Deutsch TV",Sat.1 HD
+http://vip.bmbtv.me:15000/qMGT3v1qF8/EC7QYCmTf9/2675
+#EXTINF:-1 tvg-ID="sat1.de" tvg-name="Sat.1 HD+" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Germany/sat1_hd.jpg" group-title="DE | Deutsch TV",Sat.1 HD+
+http://vip.bmbtv.me:15000/qMGT3v1qF8/EC7QYCmTf9/4418
+#EXTINF:-1 tvg-ID="kabel1.de" tvg-name="Kabel 1 HD" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Germany/kabel_eins.jpg" group-title="DE | Deutsch TV",Kabel 1 HD
+http://vip.bmbtv.me:15000/qMGT3v1qF8/EC7QYCmTf9/2682
+#EXTINF:-1 tvg-ID="kabel1.de" tvg-name="Kabel 1 HD+" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Germany/kabel_eins.jpg" group-title="DE | Deutsch TV",Kabel 1 HD+
+http://vip.bmbtv.me:15000/qMGT3v1qF8/EC7QYCmTf9/4420
+#EXTINF:-1 tvg-ID="ProSieben.de" tvg-name="ProSieben HD" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Germany/pro_sieben_de_hd.jpg" group-title="DE | Deutsch TV",ProSieben HD
+http://vip.bmbtv.me:15000/qMGT3v1qF8/EC7QYCmTf9/54259
+#EXTINF:-1 tvg-ID="ProSieben.de" tvg-name="ProSieben HD+" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Germany/pro_sieben_de_hd.jpg" group-title="DE | Deutsch TV",ProSieben HD+
+http://vip.bmbtv.me:15000/qMGT3v1qF8/EC7QYCmTf9/4419
+#EXTINF:-1 tvg-ID="vox.de" tvg-name="VOX HD" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Germany/vox_de_hd.jpg" group-title="DE | Deutsch TV",VOX HD
+http://vip.bmbtv.me:15000/qMGT3v1qF8/EC7QYCmTf9/2681
+#EXTINF:-1 tvg-ID="vox.de" tvg-name="VOX HD+" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Germany/vox_de_hd.jpg" group-title="DE | Deutsch TV",VOX HD+
+http://vip.bmbtv.me:15000/qMGT3v1qF8/EC7QYCmTf9/4423
+#EXTINF:-1 tvg-ID="3sat.de" tvg-name="3sat HD" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Germany/3sat_hd.jpg" group-title="DE | Deutsch TV",3sat HD
+http://vip.bmbtv.me:15000/qMGT3v1qF8/EC7QYCmTf9/4507
+#EXTINF:-1 tvg-ID="3sat.de" tvg-name="3sat HD+" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Germany/3sat_hd.jpg" group-title="DE | Deutsch TV",3sat HD+
+http://vip.bmbtv.me:15000/qMGT3v1qF8/EC7QYCmTf9/43208
+#EXTINF:-1 tvg-ID="arte.de" tvg-name="arte HD" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Germany/arte_de_hd.jpg" group-title="DE | Deutsch TV",arte HD
+http://vip.bmbtv.me:15000/qMGT3v1qF8/EC7QYCmTf9/2686
+#EXTINF:-1 tvg-ID="arte.de" tvg-name="arte HD+" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Germany/arte_de_hd.jpg" group-title="DE | Deutsch TV",arte HD+
+http://vip.bmbtv.me:15000/qMGT3v1qF8/EC7QYCmTf9/43215
+#EXTINF:-1 tvg-ID="hr.de" tvg-name="hr HD" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Germany/hr_fernsehen.jpg" group-title="DE | Deutsch TV",hr HD
+http://vip.bmbtv.me:15000/qMGT3v1qF8/EC7QYCmTf9/3622
+#EXTINF:-1 tvg-ID="mdr.de" tvg-name="mdr HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Mdr_Fernsehen_HD_Logo_2017.png/640px-Mdr_Fernsehen_HD_Logo_2017.png" group-title="DE | Deutsch TV",mdr HD
+http://vip.bmbtv.me:15000/qMGT3v1qF8/EC7QYCmTf9/3624
+#EXTINF:-1 tvg-ID="tagesschau24.de" tvg-name="Tagesschau 24 HD" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Germany/tagesschau24.jpg" group-title="DE | Deutsch TV",Tagesschau 24 HD
+http://vip.bmbtv.me:15000/qMGT3v1qF8/EC7QYCmTf9/52514
+#EXTINF:-1 tvg-ID="anixe.de" tvg-name="Anixe+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Anixe_HD.svg/320px-Anixe_HD.svg.png" group-title="DE | Deutsch TV",Anixe+
+http://vip.bmbtv.me:15000/qMGT3v1qF8/EC7QYCmTf9/71098
+#EXTINF:-1 tvg-ID="ardalpha.de" tvg-name="ARD-alpha HD" tvg-logo="https://epg.ottoprime.net/LOGO/DeutscheFHD-DE/ARDALPHAFHD.png" group-title="DE | Deutsch TV",ARD-alpha HD
+http://vip.bmbtv.me:15000/qMGT3v1qF8/EC7QYCmTf9/71124
+#EXTINF:-1 tvg-ID="rbb.de" tvg-name="rbb HD" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Germany/rbb_de.jpg" group-title="DE | Deutsch TV",rbb HD
+http://vip.bmbtv.me:15000/qMGT3v1qF8/EC7QYCmTf9/3626
+#EXTINF:-1 tvg-ID="srfernsehen.de" tvg-name="SR Fernsehen HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/SR_Fernsehen.svg/479px-SR_Fernsehen.svg.png" group-title="DE | Deutsch TV",SR Fernsehen HD
+http://vip.bmbtv.me:15000/qMGT3v1qF8/EC7QYCmTf9/71125
+#EXTINF:-1 tvg-ID="one.de" tvg-name="one HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/One_TV_Logo.svg/800px-One_TV_Logo.svg.png" group-title="DE | Deutsch TV",one HD
+http://vip.bmbtv.me:15000/qMGT3v1qF8/EC7QYCmTf9/3625
+#EXTINF:-1 tvg-ID="dmax.de" tvg-name="DMAX HD" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Germany/dmax_de_hd.jpg" group-title="DE | Deutsch TV",DMAX HD
+http://vip.bmbtv.me:15000/qMGT3v1qF8/EC7QYCmTf9/2683
+#EXTINF:-1 tvg-ID="dmax.de" tvg-name="DMAX HD+" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Germany/dmax_de_hd.jpg" group-title="DE | Deutsch TV",DMAX HD+
+http://vip.bmbtv.me:15000/qMGT3v1qF8/EC7QYCmTf9/4424
+#EXTINF:-1 tvg-ID="kabeleinsclassic.de" tvg-name="Kabel 1 Classics HD" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Germany/kabel_eins_classics.jpg" group-title="DE | Deutsch TV",Kabel 1 Classics HD
+http://vip.bmbtv.me:15000/qMGT3v1qF8/EC7QYCmTf9/3312
+#EXTINF:-1 tvg-ID="rtlup.de" tvg-name="RTL Up HD+" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/9/9a/RTL_UP_Logo_HD_2021_blau_lila_magenta_schwarz.png/800px-RTL_UP_Logo_HD_2021_blau_lila_magenta_schwarz.png" group-title="DE | Deutsch TV",RTL Up HD+
+http://vip.bmbtv.me:15000/qMGT3v1qF8/EC7QYCmTf9/78655
+#EXTINF:-1 tvg-ID="mtvgermany.de" tvg-name="MTV HD+" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Germany/mtv_hd_de.jpg" group-title="DE | Deutsch TV",MTV HD+
+http://vip.bmbtv.me:15000/qMGT3v1qF8/EC7QYCmTf9/4715
+#EXTINF:-1 tvg-ID="welt.de" tvg-name="Welt HD+" tvg-logo="https://www.welt.de/img/videos/mobile155883188/4291353657-ci16x9-w600/N24-im-Livestream.jpg" group-title="DE | Deutsch TV",Welt HD+
+http://vip.bmbtv.me:15000/qMGT3v1qF8/EC7QYCmTf9/3347
+#EXTINF:-1 tvg-ID="ntv.de" tvg-name="n-tv HD" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Germany/ntv_de.jpg" group-title="DE | Deutsch TV",n-tv HD
+http://vip.bmbtv.me:15000/qMGT3v1qF8/EC7QYCmTf9/3346
+#EXTINF:-1 tvg-ID="ntv.de" tvg-name="n-tv HD+" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Germany/ntv_de.jpg" group-title="DE | Deutsch TV",n-tv HD+
+http://vip.bmbtv.me:15000/qMGT3v1qF8/EC7QYCmTf9/43209
+#EXTINF:-1 tvg-ID="euronews.de" tvg-name="EuroNews Deutsch HD" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu-qK2GTjldadBySPLT5Q9felOUiqb9C3ZbtEOmJRg=s176-c-k-c0x00ffffff-no-rj" group-title="DE | Deutsch TV",EuroNews Deutsch HD
+http://vip.bmbtv.me:15000/qMGT3v1qF8/EC7QYCmTf9/71111
+#EXTINF:-1 tvg-ID="phoenix.de" tvg-name="Phoenix HD" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Germany/phoenix_de_hd.jpg" group-title="DE | Deutsch TV",Phoenix HD
+http://vip.bmbtv.me:15000/qMGT3v1qF8/EC7QYCmTf9/3348
+#EXTINF:-1 tvg-ID="rtlliving.de" tvg-name="RTL Living HD+" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Germany/rtl_living.jpg" group-title="DE | Deutsch TV",RTL Living HD+
+http://vip.bmbtv.me:15000/qMGT3v1qF8/EC7QYCmTf9/3309
+#EXTINF:-1 tvg-ID="" tvg-name="RTL Living HD" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Germany/rtl_living.jpg" group-title="DE | Deutsch TV",RTL Living HD
+http://vip.bmbtv.me:15000/qMGT3v1qF8/EC7QYCmTf9/84355
+#EXTINF:-1 tvg-ID="rtlnitro.de" tvg-name="RTL Nitro HD" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Germany/rtl_nitro_de_hd.jpg" group-title="DE | Deutsch TV",RTL Nitro HD
+http://vip.bmbtv.me:15000/qMGT3v1qF8/EC7QYCmTf9/3176
+#EXTINF:-1 tvg-ID="rtlnitro.de" tvg-name="RTL Nitro HD+" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Germany/rtl_nitro_de_hd.jpg" group-title="DE | Deutsch TV",RTL Nitro HD+
+http://vip.bmbtv.me:15000/qMGT3v1qF8/EC7QYCmTf9/4515
+#EXTINF:-1 tvg-ID="rtlpassion.de" tvg-name="RTL Passion HD+" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Germany/rtl_passion.jpg" group-title="DE | Deutsch TV",RTL Passion HD+
+http://vip.bmbtv.me:15000/qMGT3v1qF8/EC7QYCmTf9/2678
+#EXTINF:-1 tvg-ID="prosiebenfun.de" tvg-name="ProSieben Fun HD+" tvg-logo="https://sender.epglogos.de/302x190_w/765.png" group-title="DE | Deutsch TV",ProSieben Fun HD+
+http://vip.bmbtv.me:15000/qMGT3v1qF8/EC7QYCmTf9/3311
+#EXTINF:-1 tvg-ID="prosiebenmaxx.de" tvg-name="ProSieben Maxx HD+" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Germany/pro_sieben_maxx_de.jpg" group-title="DE | Deutsch TV",ProSieben Maxx HD+
+http://vip.bmbtv.me:15000/qMGT3v1qF8/EC7QYCmTf9/3168
+#EXTINF:-1 tvg-ID="sat1gold.de" tvg-name="Sat.1 Gold HD+" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Germany/sat1_gold_de.jpg" group-title="DE | Deutsch TV",Sat.1 Gold HD+
+http://vip.bmbtv.me:15000/qMGT3v1qF8/EC7QYCmTf9/5188
+#EXTINF:-1 tvg-ID="sat1emotions.de" tvg-name="Sat.1 Emotions HD" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Germany/sat1_emotions_hd.jpg" group-title="DE | Deutsch TV",Sat.1 Emotions HD
+http://vip.bmbtv.me:15000/qMGT3v1qF8/EC7QYCmTf9/3628
+#EXTINF:-1 tvg-ID="sixx.de" tvg-name="Sixx HD+" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Germany/sixx_hd.jpg" group-title="DE | Deutsch TV",Sixx HD+
+http://vip.bmbtv.me:15000/qMGT3v1qF8/EC7QYCmTf9/3169
+#EXTINF:-1 tvg-ID="swrsr.de" tvg-name="SWR HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/SWR_FERNSEHEN_2014.png" group-title="DE | Deutsch TV",SWR HD
+http://vip.bmbtv.me:15000/qMGT3v1qF8/EC7QYCmTf9/51907
+#EXTINF:-1 tvg-ID="wdr.de" tvg-name="WDR HD" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Germany/wdr_fernsehen_hd.jpg" group-title="DE | Deutsch TV",WDR HD
+http://vip.bmbtv.me:15000/qMGT3v1qF8/EC7QYCmTf9/727
+#EXTINF:-1 tvg-ID="tele5.de" tvg-name="Tele5 HD+" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Germany/tele5_de_hd.jpg" group-title="DE | Deutsch TV",Tele5 HD+
+http://vip.bmbtv.me:15000/qMGT3v1qF8/EC7QYCmTf9/3605
+#EXTINF:-1 tvg-ID="tlc.de" tvg-name="TLC HD+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/2560px-TLC_Logo.svg.png" group-title="DE | Deutsch TV",TLC HD+
+http://vip.bmbtv.me:15000/qMGT3v1qF8/EC7QYCmTf9/4728
+#EXTINF:-1 tvg-ID="comedycentral.de" tvg-name="Comedy Central/VIVA" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Germany/comedy_central_de_hd.jpg" group-title="DE | Deutsch TV",Comedy Central/VIVA
+http://vip.bmbtv.me:15000/qMGT3v1qF8/EC7QYCmTf9/3616
+#EXTINF:-1 tvg-ID="zdfinfo.de" tvg-name="ZDF info HD" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Germany/zdf_info_hd.jpg" group-title="DE | Deutsch TV",ZDF info HD
+http://vip.bmbtv.me:15000/qMGT3v1qF8/EC7QYCmTf9/13201
+#EXTINF:-1 tvg-ID="zdfinfo.de" tvg-name="ZDF neo HD" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Germany/zdf_neo_hd.jpg" group-title="DE | Deutsch TV",ZDF neo HD
+http://vip.bmbtv.me:15000/qMGT3v1qF8/EC7QYCmTf9/13202
+#EXTINF:-1 tvg-ID="" tvg-name="Ballermann TV" tvg-logo="https://www.ballermann.de/wp-content/uploads/2020/04/ballermann-logo.jpg" group-title="DE | Deutsch TV",Ballermann TV
+http://vip.bmbtv.me:15000/qMGT3v1qF8/EC7QYCmTf9/83157
+#EXTINF:-1 tvg-ID="" tvg-name="#dabeiTV" tvg-logo="http://xfeed.pro:8080/images/jLANZ_vR_7-iIly5VRBCB2Wkrp1TeoQHN1CsvuQ9jghMUOkl9_HTlXXVdcGophEtf7K6whParY3nfXSVb_Nx7GsXjFf1mTu2w8EbR6A1bi4h8PTKjdTs0RjrPfXjao5qpUKDLbqfcLw9gxCD-qSfv9_11_GTa9YxbOunSmAwjFzyFu90V3ddbIxgANP1CxKXPuFh_fSdPLkNRRA9GEGbyg.png" group-title="DE | Deutsch TV",#dabeiTV
+http://vip.bmbtv.me:15000/qMGT3v1qF8/EC7QYCmTf9/84344
+#EXTINF:-1 tvg-ID="deluxemusic.de" tvg-name="Deluxe Music" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Germany/deluxe_music_hd.jpg" group-title="DE | Deutsch TV",Deluxe Music
+http://vip.bmbtv.me:15000/qMGT3v1qF8/EC7QYCmTf9/43217
+#EXTINF:-1 tvg-ID="deutschesmusikfernsehen.de" tvg-name="Deutsches Musik Fernsehen" tvg-logo="https://sender.epglogos.de/302x190_w/570.png" group-title="DE | Deutsch TV",Deutsches Musik Fernsehen
+http://vip.bmbtv.me:15000/qMGT3v1qF8/EC7QYCmTf9/83156
+#EXTINF:-1 tvg-ID="jukebox.de" tvg-name="Jukebox HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jukebox_Logo_2014.svg/1200px-Jukebox_Logo_2014.svg.png" group-title="DE | Deutsch TV",Jukebox HD
+http://vip.bmbtv.me:15000/qMGT3v1qF8/EC7QYCmTf9/83155
+#EXTINF:-1 tvg-ID="one.de" tvg-name="One Music Television TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/One_Music_Television_Logo_2020.svg/800px-One_Music_Television_Logo_2020.svg.png" group-title="DE | Deutsch TV",One Music Television TV
+http://vip.bmbtv.me:15000/qMGT3v1qF8/EC7QYCmTf9/83154
+#EXTINF:-1 tvg-ID="deutschewelle.de" tvg-name="Zwei Music Television TV" tvg-logo="https://img.netzwelt.de/dw1600_dh900_sw208_sh117_sx6_sy51_sr16x9_nu2/picture/original/2022/12/zwei-music-television-transparent-356157.png" group-title="DE | Deutsch TV",Zwei Music Television TV
+http://vip.bmbtv.me:15000/qMGT3v1qF8/EC7QYCmTf9/83158
+#EXTINF:-1 tvg-ID="bibeltv.de" tvg-name="Bibel TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaRmne38qs7i02WZMRlUBgdyRVM5TkqJ00l1zwEFH2w=s900-c-k-c0x00ffffff-no-rj" group-title="DE | Deutsch TV",Bibel TV
+http://vip.bmbtv.me:15000/qMGT3v1qF8/EC7QYCmTf9/83148
+#EXTINF:-1 tvg-ID="bibeltv.de" tvg-name="Bibel Tv Impuls" tvg-logo="https://play-lh.googleusercontent.com/r_Bqjk8hxEINLVdjv12j4ZIX79pN8XNkXjCwl9dfhTassBerewb4Nwkak-Of_pCzRw" group-title="DE | Deutsch TV",Bibel Tv Impuls
+http://vip.bmbtv.me:15000/qMGT3v1qF8/EC7QYCmTf9/98984
+#EXTINF:-1 tvg-ID="" tvg-name="Cartoonito" tvg-logo="https://yt3.googleusercontent.com/szNXNHNa_vsINKOnnR4iQwnGn5nod9NB-CIA6_JrHyypGaRZ_XALX0J0_A7PlKH9lk0DN4vKvyI=s900-c-k-c0x00ffffff-no-rj" group-title="DE | Kinder",Cartoonito
+http://vip.bmbtv.me:15000/qMGT3v1qF8/EC7QYCmTf9/83144
+#EXTINF:-1 tvg-ID="" tvg-name="Craction TV" tvg-logo="" group-title="DE | Kino",Craction TV
+http://vip.bmbtv.me:15000/qMGT3v1qF8/EC7QYCmTf9/83145
+#EXTINF:-1 tvg-ID="fashiontv.de" tvg-name="Fashion TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/de/8/8b/Fashion_TV_HD_2021.png" group-title="DE | Deutsch TV",Fashion TV HD
+http://vip.bmbtv.me:15000/qMGT3v1qF8/EC7QYCmTf9/83153
+#EXTINF:-1 tvg-ID="" tvg-name="Travelxp TV" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2021/09/Travelxp-channel-launches-Android-TV-app.jpg" group-title="DE | Deutsch TV",Travelxp TV
+http://vip.bmbtv.me:15000/qMGT3v1qF8/EC7QYCmTf9/83147
+#EXTINF:-1 tvg-ID="weltderwunder.de" tvg-name="Welt der Wunder" tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaSfIawMu1_2G__CbdJ6HsyKgeUCXBVT2SJKXM8T_w=s900-c-k-c0x00ffffff-no-rj" group-title="DE | Deutsch TV",Welt der Wunder
+http://vip.bmbtv.me:15000/qMGT3v1qF8/EC7QYCmTf9/83146
+#EXTINF:-1 tvg-ID="bongusto.de" tvg-name="Bon Gusto" tvg-logo="http://xfeed.pro:8080/images/jLANZ_vR_7-iIly5VRBCB2Wkrp1TeoQHN1CsvuQ9jghMUOkl9_HTlXXVdcGophEtPspw489GccqLnu0k29DzWYqgegX3bmXannA5ImLUm0K9UlGF7H-Ow1EFQNYoYWaBI_44iRj44d5ptfuKdA2fXto8lcMEy4trpAMVnP12z5vG_4Ui7pqbPF6vC_zMvtaqNK2wRZfSdJKfLDsrmz5LtjyBSF_uku8UAg2iwdxZ1-I.png" group-title="DE | Deutsch TV",Bon Gusto
+http://vip.bmbtv.me:15000/qMGT3v1qF8/EC7QYCmTf9/84345
+#EXTINF:-1 tvg-ID="VOXup DE" tvg-name="Vox Up" tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/voxup-de.png" group-title="DE | Deutsch TV",Vox Up
+http://vip.bmbtv.me:15000/qMGT3v1qF8/EC7QYCmTf9/84346
+#EXTINF:-1 tvg-ID="crimeplusinvestigation.de" tvg-name="Crime + Investigation HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg/640px-Crime_%2B_Investigation_Logo_10.2019.svg.png" group-title="DE | Deutsch TV",Crime + Investigation HD
+http://vip.bmbtv.me:15000/qMGT3v1qF8/EC7QYCmTf9/71101
