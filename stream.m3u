@@ -963,8 +963,10 @@ http://dmi3y-tv.ru/hls/CH_AMEDIAPREMIUMHD.m3u8
 http://dmi3y-tv.ru/hls/CH_AMEDIAHITHD.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Atv Bazmoc TV HD
 http://dmi3y-tv.ru/hls/CH_ATVBAZMOCTVHD.m3u8
-#EXTINF:-1 tvg-id="dorama" tvg-logo="https://iptvx.one/picons/dorama.png" group-title="КИНО И СЕРИАЛЫ",Дорама (EDTV)
+#EXTINF:-1 tvg-id="dorama" tvg-logo="https://iptvx.one/picons/dorama.png" group-title="КИНО И СЕРИАЛЫ",Дорама (EDTV) (Нестабильный)
 http://31.210.208.171:8080/dorama/index.m3u8?token=+W2MSER
+#EXTINF:-1 tvg-id="russky-roman" tvg-logo="https://iptvx.one/picons/russky-roman.png" group-title="КИНО И СЕРИАЛЫ",Русский роман (EDTV) (Нестабильный)
+http://193.242.190.6:8099/39/index.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",КИНЕКО
 http://dmi3y-tv.ru/hls/CH_KINEKO.m3u8
 #EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",2x2 (-1)
