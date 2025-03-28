@@ -337,8 +337,6 @@ http://dmi3y-tv.ru/hls/zabava/region/BRATSK/CH_BST24HD.m3u8
 http://dmi3y-tv.ru/hls/zabava/region/BRATSK/CH_360_BRATSK.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Актис HD720 (Ангарск)
 http://dmi3y-tv.ru/hls/zabava/region/BRATSK/CH_AKTIS_AGRSK.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",11 канал (Усолье-Сибирское)
-http://dmi3y-tv.ru/hls/zabava/region/BRATSK/CH_11USOLYE_SIB.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ТСТ HD (Черемхово)
 http://dmi3y-tv.ru/hls/zabava/region/BRATSK/CH_TCTHD_CHRMVO.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Брянская губерния HD (Брянск)
@@ -597,8 +595,6 @@ http://dmi3y-tv.ru/hls/zabava/region/NBK/CH_MURAVLENKO24HD.m3u8
 http://dmi3y-tv.ru/hls/zabava/region/NBK/CH_YAMAL1HD.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Вектор 24 (Губкинский)
 http://dmi3y-tv.ru/hls/zabava/region/NBK/CH_VEKTOR24_GUBK.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Сигма ТВ HD (Новый Уренгой)
-http://dmi3y-tv.ru/hls/zabava/region/NBK/CH_SIGMATVHD_NURNGOY.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Вестник Надыма HD (Надым)
 http://dmi3y-tv.ru/hls/zabava/region/NBK/CH_VESTN_NADHD.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Луч HD (Тарко-Сале)
@@ -791,8 +787,6 @@ http://dmi3y-tv.ru/hls/region/CH_STV_SRVOY.m3u8
 http://dmi3y-tv.ru/hls/zabava/region/TAMB/CH_NOVIY_VEK.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Новый век HD720 (Тамбов)
 http://dmi3y-tv.ru/hls/region/CH_NOVIY_VEKHD720_TAMB.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Продвижение (Тамбов)
-http://dmi3y-tv.ru/hls/zabava/region/TAMB/CH_PRODVIZHENIE.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Тверской Проспект HD (Тверь)
 http://dmi3y-tv.ru/hls/zabava/region/TVER/CH_TVERPROSPHD.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Панорама ТВ HD (Тверь)
@@ -901,6 +895,10 @@ http://193.33.233.109:9000/tv
 http://dmi3y-tv.ru/hls/region/CH_LUGANSK24_LUGANSK.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Мариуполь 24 HD720 (Мариуполь)
 http://dmi3y-tv.ru/hls/region/CH_MARIUPOL24HD720_MARIUPOL.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Грозный (Грозный)
+http://balancer.facecast.io/evacoder_hls_hi/UUMLQVAYVlZyH14GRENQVV0G/2/2.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Грозный HD720 (Грозный)
+http://balancer.facecast.io/evacoder_hls_hi/UUMLQVAYVlZyH14GRENQVV0G/2/1.m3u8
 #EXTINF:-1 group-title="СПОРТИВНЫЕ",Red Bull TV
 http://dmi3y-tv.ru/hls/CH_REDBULLTV.m3u8
 #EXTINF:-1 group-title="СПОРТИВНЫЕ",Red Bull TV HD
@@ -963,12 +961,6 @@ http://dmi3y-tv.ru/hls/CH_AMEDIAPREMIUMHD.m3u8
 http://dmi3y-tv.ru/hls/CH_AMEDIAHITHD.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Atv Bazmoc TV HD
 http://dmi3y-tv.ru/hls/CH_ATVBAZMOCTVHD.m3u8
-#EXTINF:-1 tvg-id="dorama" tvg-logo="https://iptvx.one/picons/dorama.png" group-title="КИНО И СЕРИАЛЫ",Дорама (EDTV) (Нестабильный)
-http://31.210.208.171:8080/dorama/index.m3u8?token=+W2MSER
-#EXTINF:-1 tvg-id="dorama" tvg-logo="https://iptvx.one/picons/dorama.png" group-title="КИНО И СЕРИАЛЫ",Дорама (HD) (Нестабильный)
-http://cdn.klimedia.space/lb/Dorama/index.m3u8?token=klimedia.space:YmlrbG86aW9wYTU1
-#EXTINF:-1 tvg-id="russky-roman" tvg-logo="https://iptvx.one/picons/russky-roman.png" group-title="КИНО И СЕРИАЛЫ",Русский роман (EDTV) (Нестабильный)
-http://193.242.190.6:8099/39/index.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",КИНЕКО
 http://dmi3y-tv.ru/hls/CH_KINEKO.m3u8
 #EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",2x2 (-1)
@@ -1023,8 +1015,6 @@ http://dmi3y-tv.ru/hls/CH_NADEZHDAHD720.m3u8
 http://dmi3y-tv.ru/hls/CH_3ANGELA.m3u8
 #EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",Три Ангела HD
 http://dmi3y-tv.ru/hls/CH_3ANGELAHD.m3u8
-#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",Ники ТВ HD720
-http://dmi3y-tv.ru/hls/CH_NIKITVHD720.m3u8
 #EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",7tv
 http://dmi3y-tv.ru/hls/CH_7TV.m3u8
 #EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",LIFE TV [RUS]
@@ -1145,10 +1135,10 @@ http://rtmp.one.by:1300
 http://rtmp.one.by:2200
 #EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ",OneBY HD [RUS]
 http://rtmp.one.by:2300
-#EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ",BRIDGE TV
-http://dmi3y-tv.ru/hls/CH_BRIDGETV.m3u8
 #EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ",BRIDGE TV HITS
 http://dmi3y-tv.ru/hls/CH_BRIDGETV_HITS.m3u8
+#EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ",BRIDGE TV CLASSIC
+http://dmi3y-tv.ru/hls/CH_BRIDGETV_CLASSIC.m3u8
 #EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ",BRIDGE TV РУССКИЙ ХИТ
 http://dmi3y-tv.ru/hls/CH_BRIDGETV_RUSSKIYHIT.m3u8
 #EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ",ТНТ MUSIC
@@ -1225,10 +1215,8 @@ http://dmi3y-tv.ru/hls/CH_RZHDTV.m3u8
 http://dmi3y-tv.ru/hls/CH_RZHDTVHD.m3u8
 #EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",ВМЕСТЕ РФ HD
 http://dmi3y-tv.ru/hls/CH_VMESTERFHD.m3u8
-#EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",Дождь HD (Нестабильный)
-https://m3u8.ott.blue/watch/7319/video.m3u8?geo=auto&token=94450098895765784220366841698509
-#EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",Настоящее время HD (Нестабильный)
-https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8
+#EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",Соловьев Live HD (auto)
+http://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1.m3u8
 #EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",CNN HD (English)
 http://dmi3y-tv.ru/hls/CH_CNNHD.m3u8
 #EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",Большая Азия
@@ -1296,6 +1284,15 @@ http://dmi3y-tv.ru/hls/blrus/CH_OHTHD.m3u8
 #EXTINF:-1 group-title="БЕЛАРУСЬ [BY]",БелРос (Беларусь)
 http://dmi3y-tv.ru/hls/blrus/CH_BELROS.m3u8
 
+
+# Собственные
+#EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",Дождь HD (Нестабильный)
+https://m3u8.ott.blue/watch/7319/video.m3u8?geo=auto&token=94450098895765784220366841698509
+#EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",Настоящее время HD (Нестабильный)
+https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8
+
+
+# Немецкие
 #EXTINF:-1 tvg-ID="ard.de" tvg-name="Das Erste HD" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Germany/ard_das_erste_hd.jpg" group-title="DE | Deutsch TV",Das Erste HD
 http://vip.bmbtv.me:15000/qMGT3v1qF8/EC7QYCmTf9/2687
 #EXTINF:-1 tvg-ID="ard.de" tvg-name="Das Erste HD+" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Germany/ard_das_erste.jpg" group-title="DE | Deutsch TV",Das Erste HD+
