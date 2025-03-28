@@ -1290,7 +1290,10 @@ http://dmi3y-tv.ru/hls/blrus/CH_BELROS.m3u8
 https://m3u8.ott.blue/watch/7319/video.m3u8?geo=auto&token=94450098895765784220366841698509
 #EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",Настоящее время HD (Нестабильный)
 https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8
-
+#EXTINF:-1 tvg-id="national-geographic" tvg-logo="https://iptvx.one/picons/national-geographic.png" group-title="ПОЗНАВАТЕЛЬНЫЕ",National Geographic (EDTV)
+http://135.181.115.81:8000/play/a03w/index.m3u8?token=livetv
+#EXTINF:-1 tvg-id="nat-geo-wild" tvg-logo="https://iptvx.one/picons/nat-geo-wild.png" group-title="ПОЗНАВАТЕЛЬНЫЕ",Nat Geo Wild (EDTV)
+http://135.181.115.81:8000/play/a03v/index.m3u8?token=livetv
 
 # Немецкие
 #EXTINF:-1 tvg-ID="ard.de" tvg-name="Das Erste HD" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Germany/ard_das_erste_hd.jpg" group-title="DE | Deutsch TV",Das Erste HD
