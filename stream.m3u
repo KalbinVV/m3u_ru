@@ -147,8 +147,6 @@ http://dmi3y-tv.ru/hls/DVB-T2/CH_RENTV_4.m3u8
 http://dmi3y-tv.ru/hls/DVB-T2/CH_RENTV_6.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ",РЕН ТВ (+7)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_RENTV_7.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",РЕН ТВ International
-http://dmi3y-tv.ru/hls/T2/CH_RENTV_INT.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ",СПАС (-1)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_SPAS-1.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ",СПАС
@@ -165,8 +163,6 @@ http://dmi3y-tv.ru/hls/DVB-T2/CH_SPAS_7.m3u8
 http://dmi3y-tv.ru/hls/DVB-T2/CH_STS-1.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ",СТС
 http://dmi3y-tv.ru/hls/DVB-T2/CH_STS.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",СТС HD
-http://dmi3y-tv.ru/hls/T2/CH_STSHD.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ",СТС (+2)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_STS_2.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ",СТС (+4)
@@ -211,8 +207,6 @@ http://dmi3y-tv.ru/hls/DVB-T2/CH_FRIDAY_4.m3u8
 http://dmi3y-tv.ru/hls/DVB-T2/CH_FRIDAY_6.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ",Пятница! (+7)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_FRIDAY_7.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Пятница! International
-http://dmi3y-tv.ru/hls/T2/CH_FRIDAY_INT.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ",Звезда (-1)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_ZVEZDA-1.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ",Звезда
@@ -357,8 +351,6 @@ http://dmi3y-tv.ru/hls/zabava/region/DV_VLD/CH_TELEMIKS.m3u8
 http://dmi3y-tv.ru/hls/zabava/region/DV_VLD/CH_25REGIONHD.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Осетия Ирыстон HD (Владикавказ)
 http://dmi3y-tv.ru/hls/zabava/region/VKAZ/CH_IRISTONHD.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Медиа 15 HD720 (Владикавказ)
-http://dmi3y-tv.ru/hls/region/CH_MEDIA15HD720_VKAZ.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Губерния 33 HD (Владимир)
 http://dmi3y-tv.ru/hls/zabava/region/VLAD/CH_GUBERNIA33HD.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Вариант V (Владимир)
@@ -703,30 +695,18 @@ http://dmi3y-tv.ru/hls/zabava/region/SMRPL/CH_TRK555HD_ALUSHTA.m3u8
 http://dmi3y-tv.ru/hls/zabava/region/SMRPL/CH_STV_SVTPL.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",СТВ HD (Севастополь)
 http://dmi3y-tv.ru/hls/zabava/region/SMRPL/CH_STVHD_SVTPL.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",НТС (Севастополь)
-http://dmi3y-tv.ru/hls/zabava/region/SMRPL/CH_NTS_SVTPL.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",НТС HD (Севастополь)
-http://dmi3y-tv.ru/hls/zabava/region/SMRPL/CH_NTSHD_SVTPL.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Легендарный 24 HD (Севастополь)
 http://dmi3y-tv.ru/hls/region/CH_LEGENDARNY24HD_SVTPL.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Симферополь 24 HD (Симферополь)
 http://dmi3y-tv.ru/hls/region/CH_SIMFEROPOL24HD_SMRPL.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Евпатория (Евпатория)
-http://dmi3y-tv.ru/hls/zabava/region/SMRPL/CH_EVPATORIATV_EVPATORIA.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Евпатория HD (Евпатория)
-http://dmi3y-tv.ru/hls/zabava/region/SMRPL/CH_EVPATORIATVHD_EVPATORIA.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Миллет ТВ (Симферополь)
 http://dmi3y-tv.ru/hls/zabava/region/SMRPL/CH_MILLET.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Миллет ТВ HD720 (Симферополь)
 http://dmi3y-tv.ru/hls/region/CH_MILLETHD720_SMRPL.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Первый Крымский (Симферополь)
 http://dmi3y-tv.ru/hls/zabava/region/SMRPL/CH_1KRYMSKIY.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",КРЫМ 24 (Симферополь)
-http://dmi3y-tv.ru/hls/zabava/region/SMRPL/CH_KRYM24.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",КРЫМ 24 HD720 (Симферополь)
 http://dmi3y-tv.ru/hls/region/CH_KRYM24HD720_SMRPL.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",КРЫМ 24 HD (Симферополь)
-http://dmi3y-tv.ru/hls/zabava/region/SMRPL/CH_KRYM24HD.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Первый Севастопольский (Севастополь)
 http://dmi3y-tv.ru/hls/zabava/region/SMRPL/CH_1SEVASTOPOL_SVTPL.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Сочи 24 HD (Сочи)
@@ -735,8 +715,6 @@ http://dmi3y-tv.ru/hls/zabava/region/SOCHI/CH_SOCHI24HD.m3u8
 http://dmi3y-tv.ru/hls/region/CH_SOCHILIVEHD720_SOCHI.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Кавказ 24 (Ставрополь)
 http://dmi3y-tv.ru/hls/zabava/region/STAVR/CH_KAVKAZ24.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Кавказ 24 HD (Ставрополь)
-http://dmi3y-tv.ru/hls/smotrim/region/CH_KAVKAZ24HD_STAVR.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",СВОЁ ТВ (Ставрополь)
 http://dmi3y-tv.ru/hls/region/CH_SVOETV_STAVR.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",СВОЁ ТВ HD (Ставрополь)
@@ -903,14 +881,6 @@ http://balancer.facecast.io/evacoder_hls_hi/UUMLQVAYVlZyH14GRENQVV0G/2/1.m3u8
 http://dmi3y-tv.ru/hls/CH_REDBULLTV.m3u8
 #EXTINF:-1 group-title="СПОРТИВНЫЕ",Red Bull TV HD
 http://dmi3y-tv.ru/hls/CH_REDBULLTVHD.m3u8
-#EXTINF:-1 group-title="СПОРТИВНЫЕ",Viasat Sport
-http://dmi3y-tv.ru/hls/CH_VIASATSPORT.m3u8
-#EXTINF:-1 group-title="СПОРТИВНЫЕ",EUROSPORT 1 HD
-http://dmi3y-tv.ru/hls/CH_EUROSPORT1HD.m3u8
-#EXTINF:-1 group-title="СПОРТИВНЫЕ",FIGHTBOX HD
-http://dmi3y-tv.ru/hls/CH_FIGHTBOXHD.m3u8
-#EXTINF:-1 group-title="СПОРТИВНЫЕ",FAST SPORTS HD
-http://dmi3y-tv.ru/hls/CH_FASTSPORTSHD.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",СТС Love (-1)
 http://dmi3y-tv.ru/hls/zabava/CH_STSLOVE-1.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",СТС Love
@@ -937,30 +907,10 @@ http://dmi3y-tv.ru/hls/CH_KINO24.m3u8
 http://dmi3y-tv.ru/hls/CH_KOSHMAR.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Кино 1 International
 http://dmi3y-tv.ru/hls/CH_KINO1_INT.m3u8
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Дом кино
-http://dmi3y-tv.ru/hls/CH_DOMKINO.m3u8
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",КИНОМАН (?)
-http://dmi3y-tv.ru/hls/zabava/CH_KINOMAN.m3u8
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",ТЕЛЕКАФЕ
-http://dmi3y-tv.ru/hls/CH_TELEKAFE.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",КИНО ТВ
 http://dmi3y-tv.ru/hls/CH_KINOTV.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",CINEMA
 http://dmi3y-tv.ru/hls/CH_CINEMA.m3u8
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",FOX
-http://dmi3y-tv.ru/hls/CH_FOX.m3u8
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",FOX Life
-http://dmi3y-tv.ru/hls/CH_FOXLIFE.m3u8
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Точка SCI-FI
-http://dmi3y-tv.ru/hls/CH_SCI-FI.m3u8
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",AMEDIA II
-http://dmi3y-tv.ru/hls/CH_AMEDIAII.m3u8
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",AMEDIA PREMIUM HD
-http://dmi3y-tv.ru/hls/CH_AMEDIAPREMIUMHD.m3u8
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",AMEDIA HIT HD
-http://dmi3y-tv.ru/hls/CH_AMEDIAHITHD.m3u8
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Atv Bazmoc TV HD
-http://dmi3y-tv.ru/hls/CH_ATVBAZMOCTVHD.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",КИНЕКО
 http://dmi3y-tv.ru/hls/CH_KINEKO.m3u8
 #EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",2x2 (-1)
@@ -1005,8 +955,6 @@ http://dmi3y-tv.ru/hls/CH_8CHANNEL.m3u8
 http://dmi3y-tv.ru/hls/CH_8CHANNEL_EUROPE.m3u8
 #EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",E TV HD
 http://dmi3y-tv.ru/hls/CH_ETVHD.m3u8
-#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",TVM Channel
-http://dmi3y-tv.ru/hls/CH_TVMCHANNEL.m3u8
 #EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",Просвещение
 http://dmi3y-tv.ru/hls/CH_PROSVESHENIE.m3u8
 #EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",Надежда HD720
@@ -1023,10 +971,6 @@ http://dmi3y-tv.ru/hls/CH_LIFETV_RUS.m3u8
 http://dmi3y-tv.ru/hls/CH_LIFETV_RUSEST.m3u8
 #EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",Твое ТВ HD
 http://dmi3y-tv.ru/hls/CH_TVOETVHD.m3u8
-#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",Перец International
-http://dmi3y-tv.ru/hls/CH_PERETZ_INT.m3u8
-#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",Тонус ТВ
-http://dmi3y-tv.ru/hls/CH_TONUSTV.m3u8
 #EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",360°
 http://dmi3y-tv.ru/hls/CH_360TV.m3u8
 #EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",360° HD
@@ -1047,14 +991,8 @@ http://dmi3y-tv.ru/hls/zabava/CH_DISNEY_6.m3u8
 http://dmi3y-tv.ru/hls/zabava/CH_DISNEY_7.m3u8
 #EXTINF:-1 group-title="ДЕТСКИЕ",Радость моя
 http://dmi3y-tv.ru/hls/CH_RADOSTMOYA.m3u8
-#EXTINF:-1 group-title="ДЕТСКИЕ",Детский мир
-http://dmi3y-tv.ru/hls/CH_DETSKIY_MIR.m3u8
 #EXTINF:-1 group-title="ДЕТСКИЕ",МАМА
 http://dmi3y-tv.ru/hls/CH_MAMA.m3u8
-#EXTINF:-1 group-title="ДЕТСКИЕ",Tiji
-http://dmi3y-tv.ru/hls/CH_TIJI.m3u8
-#EXTINF:-1 group-title="ДЕТСКИЕ",CARTOONITO HD
-http://dmi3y-tv.ru/hls/CH_CARTOONITOHD.m3u8
 #EXTINF:-1 group-title="ДЕТСКИЕ",Ani
 http://dmi3y-tv.ru/hls/CH_ANI.m3u8
 #EXTINF:-1 group-title="ДЕТСКИЕ",МУЛЬТ
@@ -1063,10 +1001,6 @@ http://dmi3y-tv.ru/hls/CH_MULT.m3u8
 http://dmi3y-tv.ru/hls/CH_MULTHD.m3u8
 #EXTINF:-1 group-title="ДЕТСКИЕ",МУЛЬТ И МУЗЫКА
 http://dmi3y-tv.ru/hls/CH_MULTIMUZYKA.m3u8
-#EXTINF:-1 group-title="ДЕТСКИЕ",Nicktoons HD
-http://dmi3y-tv.ru/hls/CH_NICKTOONSHD.m3u8
-#EXTINF:-1 group-title="ДЕТСКИЕ",Nickelodeon HD
-http://dmi3y-tv.ru/hls/CH_NICKELODEONHD.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",ПРОДВИЖЕНИЕ
 http://dmi3y-tv.ru/hls/CH_PRODVIZHENIE.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",СОЮЗ HD
@@ -1079,34 +1013,10 @@ http://dmi3y-tv.ru/hls/CH_RATNIKHD.m3u8
 http://dmi3y-tv.ru/hls/CH_UNKNOWN_RUSSIA.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",НЕИЗВЕСТНАЯ РОССИЯ HD
 http://dmi3y-tv.ru/hls/CH_UNKNOWN_RUSSIAHD.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",ИСТОРИЯ
-http://dmi3y-tv.ru/hls/CH_ISTORIYA.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Моя Планета
 http://dmi3y-tv.ru/hls/CH_MOYAPLANETA.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Моя Планета HD720
 http://dmi3y-tv.ru/hls/CH_MOYAPLANETAHD720.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Моя планета HD
-http://dmi3y-tv.ru/hls/CH_MOYAPLANETAHD.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",National Geographic
-http://dmi3y-tv.ru/hls/CH_NATIONALGEOGRAPHIC.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",National Geographic WILD
-http://dmi3y-tv.ru/hls/CH_NATIONALGEOGRAPHICWILD.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Animal Planet HD
-http://dmi3y-tv.ru/hls/CH_ANIMALPLANETHD.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Discovery Channel HD
-http://dmi3y-tv.ru/hls/CH_DISCOVERYCHANNELHD.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",ID HD
-http://dmi3y-tv.ru/hls/CH_IDHD.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Загородный
-http://dmi3y-tv.ru/hls/CH_ZAGORODNY.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",TLC
-http://dmi3y-tv.ru/hls/CH_TLC.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",ДИКАЯ ОХОТА HD
-http://dmi3y-tv.ru/hls/CH_DIKAYAOHOTAHD.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Первый космический HD
-http://dmi3y-tv.ru/hls/CH_1KOSMICHESKIYHD.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",АРСЕНАЛ HD
-http://dmi3y-tv.ru/hls/CH_ARSENALHD.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",RTG tv
 http://dmi3y-tv.ru/hls/CH_RTGTV.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",RTG HD720
@@ -1135,12 +1045,6 @@ http://rtmp.one.by:1300
 http://rtmp.one.by:2200
 #EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ",OneBY HD [RUS]
 http://rtmp.one.by:2300
-#EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ",BRIDGE TV HITS
-http://dmi3y-tv.ru/hls/CH_BRIDGETV_HITS.m3u8
-#EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ",BRIDGE TV CLASSIC
-http://dmi3y-tv.ru/hls/CH_BRIDGETV_CLASSIC.m3u8
-#EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ",BRIDGE TV РУССКИЙ ХИТ
-http://dmi3y-tv.ru/hls/CH_BRIDGETV_RUSSKIYHIT.m3u8
 #EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ",ТНТ MUSIC
 http://dmi3y-tv.ru/hls/CH_TNT_MUSIC.m3u8
 #EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ",ТНТ MUSIC HD
@@ -1161,8 +1065,6 @@ http://dmi3y-tv.ru/hls/CH_88STEREOHD720.m3u8
 http://dmi3y-tv.ru/hls/CH_TRACE_URBAN.m3u8
 #EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ",TRACE Urban HD
 http://dmi3y-tv.ru/hls/CH_TRACE_URBANHD.m3u8
-#EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ",MTV Live HD
-http://dmi3y-tv.ru/hls/CH_MTVLIVEHD.m3u8
 #EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ",Шансон ТВ
 http://dmi3y-tv.ru/hls/CH_SHANSONTV.m3u8
 #EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",DW ENGLISH
@@ -1213,12 +1115,8 @@ http://dmi3y-tv.ru/hls/zabava/CH_VSETVHD.m3u8
 http://dmi3y-tv.ru/hls/CH_RZHDTV.m3u8
 #EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",РЖД ТВ HD
 http://dmi3y-tv.ru/hls/CH_RZHDTVHD.m3u8
-#EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",ВМЕСТЕ РФ HD
-http://dmi3y-tv.ru/hls/CH_VMESTERFHD.m3u8
 #EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",Соловьев Live HD (auto)
 http://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1.m3u8
-#EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",CNN HD (English)
-http://dmi3y-tv.ru/hls/CH_CNNHD.m3u8
 #EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",Большая Азия
 http://dmi3y-tv.ru/hls/CH_BAZIYA.m3u8
 #EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",Большая Азия HD720
@@ -1283,6 +1181,7 @@ http://dmi3y-tv.ru/hls/blrus/CH_CTBHD720.m3u8
 http://dmi3y-tv.ru/hls/blrus/CH_OHTHD.m3u8
 #EXTINF:-1 group-title="БЕЛАРУСЬ [BY]",БелРос (Беларусь)
 http://dmi3y-tv.ru/hls/blrus/CH_BELROS.m3u8
+
 
 
 # Собственные
