@@ -1164,6 +1164,8 @@ http://130.193.73.10:8937/play/a03n
 http://ott-cdn.ucom.am/s31/04.m3u8
 #EXTINF:-1 tvg-id="zagorodny-int" tvg-logo="https://iptvx.one/picons/zagorodny-int.png" group-title="ПОЗНАВАТЕЛЬНЫЕ",Загородный Int (HD) (Нестабильный)
 https://livetv.mylifeisgood.net.ru/channels/zagorodint.m3u8
+#EXTINF:-1 tvg-id="euronews" tvg-logo="https://iptvx.one/picons/euronews.png" group-title="ИНФОРМАЦИОННЫЕ",Euronews (HD) (Нест.)
+https://www.youtube.com/euronewsru/live
 
 # Немецкие
 #EXTINF:-1 tvg-ID="ard.de" tvg-name="Das Erste HD" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Germany/ard_das_erste_hd.jpg" group-title="DE | Deutsch TV",Das Erste HD
