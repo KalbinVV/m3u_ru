@@ -409,10 +409,6 @@ http://dmi3y-tv.ru/hls/zabava/region/IVAN/CH_BARS.m3u8
 http://dmi3y-tv.ru/hls/zabava/region/IVAN/CH_IOT.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Моя Удмуртия (Ижевск)
 http://dmi3y-tv.ru/hls/zabava/region/IZHSK/CH_MYUDMURTIA.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Ингушетия (Магас)
-http://dmi3y-tv.ru/hls/region/CH_INGUSHETIYA_ING.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Ингушетия HD720 (Магас)
-http://dmi3y-tv.ru/hls/region/CH_INGUSHETIYAHD720_ING.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",МЭТР (Йошкар-Ола)
 http://dmi3y-tv.ru/hls/zabava/region/YOLA/CH_METR.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",АИСТ HD (Иркутск)
@@ -799,8 +795,6 @@ http://dmi3y-tv.ru/hls/smotrim/region/CH_BASHKORTOSTAN24HD_UFA.m3u8
 http://dmi3y-tv.ru/hls/zabava/region/UFA/CH_MATURTVHD.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ТАМЫР (Уфа)
 http://dmi3y-tv.ru/hls/zabava/region/UFA/CH_TAMYRTV.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",САЛЯМ (Уфа)
-http://dmi3y-tv.ru/hls/region/CH_SALYAM_UFA.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",САЛЯМ HD (Уфа)
 http://dmi3y-tv.ru/hls/zabava/region/UFA/CH_SALYAMHD.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",NEXT TV HD (Нефтекамск)
@@ -857,16 +851,12 @@ http://dmi3y-tv.ru/hls/zabava/region/DV_YKT/CH_YAKT24.m3u8
 http://dmi3y-tv.ru/hls/region/CH_YAKT24HD_DV_YKT.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Мамонт (Якутск)
 http://dmi3y-tv.ru/hls/zabava/region/DV_YKT/CH_MAMONT.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Первый Ярославский (Ярославль)
-http://dmi3y-tv.ru/hls/region/CH_1YAROSLAVSKIY_YARL.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Первый Ярославский HD (Ярославль)
 http://dmi3y-tv.ru/hls/zabava/region/YARL/CH_1YAROSLAVSKIYHD.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ГТ-Регион (Ярославль)
 http://dmi3y-tv.ru/hls/zabava/region/YARL/CH_GTREG.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",МИТВ (Местное Илимское TV)
 http://193.33.233.109:9000/tv
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Грозный (Грозный)
-http://balancer.facecast.io/evacoder_hls_hi/UUMLQVAYVlZyH14GRENQVV0G/2/2.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Грозный HD720 (Грозный)
 http://balancer.facecast.io/evacoder_hls_hi/UUMLQVAYVlZyH14GRENQVV0G/2/1.m3u8
 #EXTINF:-1 group-title="СПОРТИВНЫЕ",Red Bull TV
@@ -895,8 +885,6 @@ http://dmi3y-tv.ru/hls/smotrim/CH_KINO_I_SERIALY.m3u8
 http://dmi3y-tv.ru/hls/smotrim/CH_KINO_I_SERIALYHD.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",KINO 24
 http://dmi3y-tv.ru/hls/CH_KINO24.m3u8
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",КОШМАР
-http://dmi3y-tv.ru/hls/CH_KOSHMAR.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Кино 1 International
 http://dmi3y-tv.ru/hls/CH_KINO1_INT.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",КИНО ТВ
@@ -983,20 +971,14 @@ http://dmi3y-tv.ru/hls/zabava/CH_DISNEY_6.m3u8
 http://dmi3y-tv.ru/hls/zabava/CH_DISNEY_7.m3u8
 #EXTINF:-1 group-title="ДЕТСКИЕ",Радость моя
 http://dmi3y-tv.ru/hls/CH_RADOSTMOYA.m3u8
-#EXTINF:-1 group-title="ДЕТСКИЕ",МАМА
-http://dmi3y-tv.ru/hls/CH_MAMA.m3u8
-#EXTINF:-1 group-title="ДЕТСКИЕ",Ani
-http://dmi3y-tv.ru/hls/CH_ANI.m3u8
-#EXTINF:-1 group-title="ДЕТСКИЕ",МУЛЬТ
-http://dmi3y-tv.ru/hls/CH_MULT.m3u8
-#EXTINF:-1 group-title="ДЕТСКИЕ",МУЛЬТ HD
-http://dmi3y-tv.ru/hls/CH_MULTHD.m3u8
-#EXTINF:-1 group-title="ДЕТСКИЕ",МУЛЬТ И МУЗЫКА
-http://dmi3y-tv.ru/hls/CH_MULTIMUZYKA.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",ПРОДВИЖЕНИЕ
 http://dmi3y-tv.ru/hls/CH_PRODVIZHENIE.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",СОЮЗ HD
 http://dmi3y-tv.ru/hls/CH_SOYUZHD.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Ратник
+http://dmi3y-tv.ru/hls/CH_RATNIK.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Ратник HD
+http://dmi3y-tv.ru/hls/CH_RATNIKHD.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",НЕИЗВЕСТНАЯ РОССИЯ
 http://dmi3y-tv.ru/hls/CH_UNKNOWN_RUSSIA.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",НЕИЗВЕСТНАЯ РОССИЯ HD
@@ -1013,6 +995,8 @@ http://dmi3y-tv.ru/hls/CH_NANOTVHD.m3u8
 http://dmi3y-tv.ru/hls/CH_EGETV.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Наука 2.0
 http://dmi3y-tv.ru/hls/CH_NAUKA20.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",National Geographic HD
+http://dmi3y-tv.ru/hls/CH_NATGEOTVHD.m3u8
 #EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ",Муз Союз
 http://dmi3y-tv.ru/hls/CH_MUZSOYUZ.m3u8
 #EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ",RUTV
@@ -1075,8 +1059,6 @@ http://dmi3y-tv.ru/hls/CH_RBKHD.m3u8
 http://dmi3y-tv.ru/hls/CH_REDLINE.m3u8
 #EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",RT
 http://dmi3y-tv.ru/hls/CH_RT.m3u8
-#EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",RT HD
-http://dmi3y-tv.ru/hls/CH_RTHD.m3u8
 #EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",RTД HD
 http://dmi3y-tv.ru/hls/CH_RTDHD.m3u8
 #EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",Всё ТВ
@@ -1087,12 +1069,12 @@ http://dmi3y-tv.ru/hls/zabava/CH_VSETVHD.m3u8
 http://dmi3y-tv.ru/hls/CH_RZHDTV.m3u8
 #EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",РЖД ТВ HD
 http://dmi3y-tv.ru/hls/CH_RZHDTVHD.m3u8
+#EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",Соловьев Live HD (auto)
+http://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1.m3u8
 #EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",Большая Азия
 http://dmi3y-tv.ru/hls/CH_BAZIYA.m3u8
 #EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",Большая Азия HD720
 http://dmi3y-tv.ru/hls/CH_BAZIYAHD720.m3u8
-#EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",Известия
-http://dmi3y-tv.ru/hls/CH_IZVESTIYA.m3u8
 #EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",Байкал Телеком info HD720
 http://dmi3y-tv.ru/hls/CH_BAYKALTEL_INFOHD720.m3u8
 #EXTINF:-1 group-title="ТЕЛЕМАГАЗИНЫ",Shopping Live
@@ -1149,6 +1131,7 @@ http://dmi3y-tv.ru/hls/blrus/CH_CTBHD720.m3u8
 http://dmi3y-tv.ru/hls/blrus/CH_OHTHD.m3u8
 #EXTINF:-1 group-title="БЕЛАРУСЬ [BY]",БелРос (Беларусь)
 http://dmi3y-tv.ru/hls/blrus/CH_BELROS.m3u8
+
 
 
 # Собственные
@@ -1312,3 +1295,4 @@ http://vip.bmbtv.me:15000/qMGT3v1qF8/EC7QYCmTf9/84345
 http://vip.bmbtv.me:15000/qMGT3v1qF8/EC7QYCmTf9/84346
 #EXTINF:-1 tvg-ID="crimeplusinvestigation.de" tvg-name="Crime + Investigation HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg/640px-Crime_%2B_Investigation_Logo_10.2019.svg.png" group-title="DE | Deutsch TV",Crime + Investigation HD
 http://vip.bmbtv.me:15000/qMGT3v1qF8/EC7QYCmTf9/71101
+
