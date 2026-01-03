@@ -1106,10 +1106,21 @@ http://dmi3y-tv6.ru/hls/blrus/CH_OHTHD.m3u8
 http://dmi3y-tv6.ru/hls/blrus/CH_BELROS.m3u8
 
 # Собственные
+
 #EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",Настоящее время HD (Нестабильный)
-https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8
+http://vjl8lxsx.megatv.fun/iptv/PSQ3LNVTTR4RSG8FC4UXC5CX/9179/index.m3u8
+#EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",Дождь
+http://vjl8lxsx.megatv.fun/iptv/PSQ3LNVTTR4RSG8FC4UXC5CX/2030/index.m3u8
+#EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",Дождь HD
+http://vjl8lxsx.megatv.fun/iptv/PSQ3LNVTTR4RSG8FC4UXC5CX/20083/index.m3u8
+#EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ", Euronews
+http://vjl8lxsx.megatv.fun/iptv/PSQ3LNVTTR4RSG8FC4UXC5CX/9215/index.m3u8
 #EXTINF:-1 tvg-id="national-geographic" tvg-logo="https://iptvx.one/picons/national-geographic.png" group-title="ПОЗНАВАТЕЛЬНЫЕ",National Geographic (EDTV)
-http://135.181.115.81:8000/play/a03w/index.m3u8?token=livetv
+http://vjl8lxsx.megatv.fun/iptv/PSQ3LNVTTR4RSG8FC4UXC5CX/14001/index.m3u8
+#EXTINF:-1 tvg-id="discovery" tvg-logo="https://iptvx.one/picons/national-geographic.png" group-title="ПОЗНАВАТЕЛЬНЫЕ",Discovery
+http://vjl8lxsx.megatv.fun/iptv/PSQ3LNVTTR4RSG8FC4UXC5CX/140/index.m3u8
+#EXTINF:-1 tvg-id="discovery" tvg-logo="https://iptvx.one/picons/national-geographic.png" group-title="РАЗВЛЕКАТЕЛЬНЫЕ",Дорама HD
+http://vjl8lxsx.megatv.fun/iptv/PSQ3LNVTTR4RSG8FC4UXC5CX/2131/index.m3u8
 #EXTINF:-1 tvg-id="nat-geo-wild" tvg-logo="https://iptvx.one/picons/nat-geo-wild.png" group-title="ПОЗНАВАТЕЛЬНЫЕ",Nat Geo Wild (EDTV)
 http://135.181.115.81:8000/play/a03v/index.m3u8?token=livetv
 #EXTINF:-1 tvg-id="russky-roman" tvg-logo="https://iptvx.one/picons/russky-roman.png" group-title="КИНО И СЕРИАЛЫ",Русский роман (EDTV) (Нестабильный)
@@ -2843,6 +2854,7 @@ http://vipkentken.top:8080/VIP0137174290173166/21751285087628/147097
 #EXTINF:-1 tvg-id="" tvg-name="DE: SUPER RTL HD" tvg-logo="https://docdog.top/logo/countries/germany/new/SUPER_RTL_HD.png" group-title="Немецкие каналы",DE: SUPER RTL HD
 http://vipkentken.top:8080/VIP0137174290173166/21751285087628/147098
 #EXTINF:-1 tvg-id="" tvg-name="DE: TOGGO PLUS" tvg-logo="https://docdog.top/logo/countries/germany/new/TOGGO_PLUS.png" group-title="Немецкие каналы",DE: TOGGO PLUS
+
 
 
 
