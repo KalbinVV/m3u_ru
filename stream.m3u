@@ -1291,13 +1291,13 @@ http://dmi3y-tv.online/hls/blrus/CH_CTBHD720.m3u8
 # Собственные
 
 #EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",Настоящее время HD
-http://vjl8lxsx.megatv.fun/iptv/PSQ3LNVTTR4RSG8FC4UXC5CX/9179/index.m3u8
+https://rferl-ingest.akamaized.net/hls/live/2121657/tvmc05/playlist_1080.m3u8
 #EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",Дождь
-http://vjl8lxsx.megatv.fun/iptv/PSQ3LNVTTR4RSG8FC4UXC5CX/2030/index.m3u8
-#EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",Дождь HD
-http://vjl8lxsx.megatv.fun/iptv/PSQ3LNVTTR4RSG8FC4UXC5CX/20083/index.m3u8
+https://wl.tvrain.tv/transcode/ngrp:ses_all/chunklist_b6692000.m3u8
+#EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ", RTVi
+https://a3569457567-s70378.cdn.ngenix.net/rtvi/1/index.m3u8
 #EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ", Euronews
-http://vjl8lxsx.megatv.fun/iptv/PSQ3LNVTTR4RSG8FC4UXC5CX/9215/index.m3u8
+http://77.245.98.18:8000/play/a007
 #EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ", Euronews Russia
 http://vjl8lxsx.megatv.fun/iptv/PSQ3LNVTTR4RSG8FC4UXC5CX/828/index.m3u8
 #EXTINF:-1 tvg-id="national-geographic" tvg-logo="https://iptvx.one/picons/national-geographic.png" group-title="ПОЗНАВАТЕЛЬНЫЕ",National Geographic
